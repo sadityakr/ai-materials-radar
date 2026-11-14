@@ -1,0 +1,2088 @@
+[
+ {
+  "id": "acm-research-shanghai",
+  "name": "ACM Research Shanghai (盛美半导体设备)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://campus.niuqizp.com/job-vsm5aNtCn.html",
+  "website": "https://www.acmrcsh.com",
+  "pinned": false,
+  "hints": [
+   "https://campus.niuqizp.com/job-vsm5aNtCn.html"
+  ]
+ },
+ {
+  "id": "advantest-europe-boeblingen",
+  "name": "Advantest Europe GmbH",
+  "country": "Germany",
+  "city": "Böblingen",
+  "careers_url": "https://www.advantest.com/careers",
+  "website": "https://www.advantest.com",
+  "pinned": false,
+  "hints": [
+   "https://www.advantest.com/careers"
+  ]
+ },
+ {
+  "id": "aionics-us",
+  "name": "Aionics",
+  "country": "United States",
+  "city": "Palo Alto, CA",
+  "careers_url": "https://aionics.io/careers/",
+  "website": "https://aionics.io",
+  "pinned": false,
+  "hints": [
+   "https://aionics.io/careers/"
+  ]
+ },
+ {
+  "id": "aixtron-herzogenrath",
+  "name": "AIXTRON SE",
+  "country": "Germany",
+  "city": "Herzogenrath (Aachen)",
+  "careers_url": "https://aixtron.com/en/careers/vacancies",
+  "website": "https://www.aixtron.com",
+  "pinned": true,
+  "hints": [
+   "https://aixtron.com/en/careers/vacancies"
+  ]
+ },
+ {
+  "id": "akhetonics-berlin",
+  "name": "Akhetonics GmbH",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://akhetonics-gmbh.jobs.personio.com",
+  "website": "https://akhetonics.com",
+  "pinned": true,
+  "hints": [
+   "https://akhetonics-gmbh.jobs.personio.com"
+  ]
+ },
+ {
+  "id": "alqem-munich",
+  "name": "alqem GmbH",
+  "country": "Germany",
+  "city": "Munich",
+  "careers_url": "https://alqemgmbh.jobs.personio.com/",
+  "website": "https://alqem.ai",
+  "pinned": true,
+  "hints": [
+   "https://alqemgmbh.jobs.personio.com/",
+   "https://alqemgmbh.jobs.personio.com/job/2542299"
+  ]
+ },
+ {
+  "id": "altrove-paris",
+  "name": "Altrove",
+  "country": "France",
+  "city": "Paris",
+  "careers_url": "https://www.linkedin.com/company/altrove-ai/jobs",
+  "website": "https://www.altrove.ai",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "amec-shanghai",
+  "name": "AMEC (Advanced Micro-Fabrication Equipment, 中微公司)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://campus.niuqizp.com/job-vwy5z5CM5.html",
+  "website": "https://www.amecnsh.com",
+  "pinned": true,
+  "hints": [
+   "https://campus.niuqizp.com/job-vwy5z5CM5.html"
+  ]
+ },
+ {
+  "id": "amo-aachen",
+  "name": "AMO GmbH",
+  "country": "Germany",
+  "city": "Aachen",
+  "careers_url": "https://www.amo.de/de/karriere/",
+  "website": "https://www.amo.de",
+  "pinned": true,
+  "hints": [
+   "https://www.amo.de/de/karriere/"
+  ]
+ },
+ {
+  "id": "ams-osram-premstaetten",
+  "name": "ams OSRAM (ams-OSRAM AG)",
+  "country": "Austria",
+  "city": "Premstätten (Graz)",
+  "careers_url": "https://jobs.ams-osram.com",
+  "website": "https://ams-osram.com",
+  "pinned": false,
+  "hints": [
+   "https://jobs.ams-osram.com"
+  ]
+ },
+ {
+  "id": "analog-devices-limerick",
+  "name": "Analog Devices (Limerick wafer fab)",
+  "country": "Ireland",
+  "city": "Limerick",
+  "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+  "website": "https://www.analog.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "applied-materials-santa-clara-usa",
+  "name": "Applied Materials (Santa Clara and Sunnyvale)",
+  "country": "United States",
+  "city": "Santa Clara, CA",
+  "careers_url": "https://jobs.appliedmaterials.com",
+  "website": "https://www.appliedmaterials.com",
+  "pinned": false,
+  "hints": [
+   "https://jobs.appliedmaterials.com",
+   "https://jobs.appliedmaterials.com/job/santa-clara/principal-ai-data-scientist-scientific-ai-and-physics-informed-machine-learning/95/99481090480",
+   "https://jobs.appliedmaterials.com/job/santa-clara/algorithm-developer/95/95977346976"
+  ]
+ },
+ {
+  "id": "arcnl-amsterdam",
+  "name": "ARCNL (Advanced Research Center for Nanolithography)",
+  "country": "Netherlands",
+  "city": "Amsterdam",
+  "careers_url": "https://www.arcnl.nl/careers/vacancies/",
+  "website": "https://www.arcnl.nl/",
+  "pinned": false,
+  "hints": [
+   "https://www.arcnl.nl/careers/vacancies/"
+  ]
+ },
+ {
+  "id": "argonne-national-laboratory-us",
+  "name": "Argonne National Laboratory (CNM, APS, Polybot, Aurora)",
+  "country": "United States",
+  "city": "Lemont, IL",
+  "careers_url": "https://www.anl.gov/careers",
+  "website": "https://www.anl.gov",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "asm-international-almere",
+  "name": "ASM International (ASM)",
+  "country": "Netherlands",
+  "city": "Almere",
+  "careers_url": "https://www.asm.com/careers",
+  "website": "https://www.asm.com",
+  "pinned": false,
+  "hints": [
+   "https://boards-api.greenhouse.io/v1/boards/asm/jobs",
+   "https://www.asm.com/open-vacancies/?gh_jid=4942905101",
+   "https://www.asm.com/open-vacancies/?gh_jid=4942900101"
+  ]
+ },
+ {
+  "id": "asml-veldhoven",
+  "name": "ASML",
+  "country": "Netherlands",
+  "city": "Veldhoven",
+  "careers_url": "https://www.asml.com/en/careers",
+  "website": "https://www.asml.com",
+  "pinned": false,
+  "hints": [
+   "https://www.asml.com/en/careers"
+  ]
+ },
+ {
+  "id": "asml-wilton-usa",
+  "name": "ASML US (Wilton CT and San Jose)",
+  "country": "United States",
+  "city": "Wilton, CT",
+  "careers_url": "https://www.asml.com/en/careers",
+  "website": "https://www.asml.com",
+  "pinned": false,
+  "hints": [
+   "https://www.asml.com/en/careers"
+  ]
+ },
+ {
+  "id": "at-s-leoben",
+  "name": "AT&S Austria Technologie & Systemtechnik AG",
+  "country": "Austria",
+  "city": "Leoben-Hinterberg",
+  "careers_url": "https://career.ats.net",
+  "website": "https://ats.net",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "atinary-lausanne",
+  "name": "Atinary Technologies",
+  "country": "Switzerland",
+  "city": "Epalinges (Lausanne)",
+  "careers_url": "https://www.biopole.ch/",
+  "website": "https://www.atinary.com",
+  "pinned": false,
+  "hints": [
+   "https://www.atinary.com/careers",
+   "https://atinary.zohorecruit.eu/jobs/Careers/28643000003457019/AI-for-Chemistry-Scientist?source=CareerSite"
+  ]
+ },
+ {
+  "id": "bam-berlin",
+  "name": "BAM (Federal Institute for Materials Research and Testing)",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://www.bam.de/Navigation/EN/About-us/Jobs-and-Careers/jobs-and-careers.html",
+  "website": "https://www.bam.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "basf-ludwigshafen-digital-rd",
+  "name": "BASF SE (Research and digital R&D)",
+  "country": "Germany",
+  "city": "Ludwigshafen",
+  "careers_url": "https://basf.jobs/",
+  "website": "https://www.basf.com",
+  "pinned": true,
+  "hints": [
+   "https://basf.jobs/dark_blue_EMEA/job/Ludwigshafen-am-Rhein-Postdoc-Machine-Learning-Assisted-Catalyst-Design-%28mfd%29/1168371401",
+   "https://basf.jobs/dark_blue_EMEA/job/Ludwigshafen-am-Rhein-Postdoc-Machine-Learning-Assisted-Catalyst-Design-%28mfd%29/1168371401"
+  ]
+ },
+ {
+  "id": "berkeley-lab-materials-us",
+  "name": "Lawrence Berkeley National Laboratory (A-Lab, Materials Project)",
+  "country": "United States",
+  "city": "Berkeley, CA",
+  "careers_url": "https://jobs.lbl.gov",
+  "website": "https://www.lbl.gov",
+  "pinned": false,
+  "hints": [
+   "https://jobs.lbl.gov/jobs/search/10811416"
+  ]
+ },
+ {
+  "id": "black-semiconductor-aachen",
+  "name": "Black Semiconductor GmbH",
+  "country": "Germany",
+  "city": "Aachen",
+  "careers_url": "https://www.blacksemiconductor.de/careers",
+  "website": "https://www.blacksemiconductor.de",
+  "pinned": false,
+  "hints": [
+   "https://jobs.ashbyhq.com/blacksemiconductor"
+  ]
+ },
+ {
+  "id": "black-semiconductor-netherlands-delft",
+  "name": "Black Semiconductor Netherlands (formerly Applied Nanolayers)",
+  "country": "Netherlands",
+  "city": "Delft",
+  "careers_url": "https://www.blacksemi.com/careers",
+  "website": "https://www.blacksemi.com",
+  "pinned": true,
+  "hints": [
+   "https://jobs.ashbyhq.com/blacksemiconductor"
+  ]
+ },
+ {
+  "id": "borealis-linz",
+  "name": "Borealis",
+  "country": "Austria",
+  "city": "Linz",
+  "careers_url": "https://careers.borealisgroup.com/",
+  "website": "https://www.borealisgroup.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.borealisgroup.com/job/Linz-Scientist-%28mfd%29-Polymer-Physics-Focus-Machine-Learning-Advanced-Data-Analytics/1066245701/",
+   "https://careers.borealisgroup.com/job/Linz-Scientist-%28mfd%29-Polymer-Physics-Focus-Machine-Learning-Advanced-Data-Analytics/1066245701/"
+  ]
+ },
+ {
+  "id": "bosch-research-renningen",
+  "name": "Robert Bosch GmbH, Corporate Research (Renningen)",
+  "country": "Germany",
+  "city": "Renningen",
+  "careers_url": "https://www.bosch.com/careers/",
+  "website": "https://www.bosch.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "bosch-semiconductor-reutlingen-dresden",
+  "name": "Robert Bosch GmbH - Semiconductor and MEMS fabs",
+  "country": "Germany",
+  "city": "Reutlingen",
+  "careers_url": "https://www.bosch.de/karriere/",
+  "website": "https://www.bosch-semiconductors.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "bytedance-seed-ai4s",
+  "name": "ByteDance Seed (AI for Science)",
+  "country": "China",
+  "city": "unknown",
+  "careers_url": "https://seed.bytedance.com/zh/seedearlycareer",
+  "website": "https://seed.bytedance.com",
+  "pinned": true,
+  "hints": [
+   "https://seed.bytedance.com/zh/seedearlycareer"
+  ]
+ },
+ {
+  "id": "camline-petershausen",
+  "name": "camLine GmbH (Elisa Industriq)",
+  "country": "Germany",
+  "city": "Petershausen (Munich)",
+  "careers_url": "https://www.camline.com/en/career",
+  "website": "https://www.camline.com",
+  "pinned": false,
+  "hints": [
+   "https://www.elisaindustriq.com/who-we-are/careers"
+  ]
+ },
+ {
+  "id": "catl-ningde",
+  "name": "CATL (Contemporary Amperex Technology)",
+  "country": "China",
+  "city": "Ningde",
+  "careers_url": "https://www.catl.com",
+  "website": "https://www.catl.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "cea-leti-grenoble",
+  "name": "CEA-Leti (Grenoble, industry contract groups)",
+  "country": "France",
+  "city": "Grenoble",
+  "careers_url": "https://www.emploi.cea.fr",
+  "website": "https://www.leti-cea.com",
+  "pinned": false,
+  "hints": [
+   "https://www.emploi.cea.fr"
+  ]
+ },
+ {
+  "id": "chemify-glasgow",
+  "name": "Chemify",
+  "country": "United Kingdom",
+  "city": "Glasgow",
+  "careers_url": "https://www.chemify.io/careers",
+  "website": "https://www.chemify.io",
+  "pinned": false,
+  "hints": [
+   "https://www.chemify.io/careers"
+  ]
+ },
+ {
+  "id": "chemspeed-fuellinsdorf",
+  "name": "Chemspeed Technologies",
+  "country": "Switzerland",
+  "city": "Füllinsdorf",
+  "careers_url": "https://chemspeed.jobs.personio.com/",
+  "website": "https://www.chemspeed.com",
+  "pinned": false,
+  "hints": [
+   "https://chemspeed.jobs.personio.com/"
+  ]
+ },
+ {
+  "id": "citrine-informatics-us",
+  "name": "Citrine Informatics",
+  "country": "United States",
+  "city": "Redwood City, CA",
+  "careers_url": "https://ats.rippling.com/citrine-informatics/jobs",
+  "website": "https://citrine.io",
+  "pinned": false,
+  "hints": [
+   "https://ats.rippling.com/citrine-informatics/jobs"
+  ]
+ },
+ {
+  "id": "corbion-gorinchem",
+  "name": "Corbion",
+  "country": "Netherlands",
+  "city": "Gorinchem",
+  "careers_url": "https://jobs.corbion.com/",
+  "website": "https://www.corbion.com",
+  "pinned": false,
+  "hints": [
+   "https://jobs.corbion.com/job/Gorinchem-Data-Scientist/1089957301",
+   "https://jobs.corbion.com/job/Gorinchem-Data-Scientist/1089957301"
+  ]
+ },
+ {
+  "id": "covestro-leverkusen",
+  "name": "Covestro AG",
+  "country": "Germany",
+  "city": "Leverkusen",
+  "careers_url": "https://covestro.com/en/careers",
+  "website": "https://www.covestro.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "csem-neuchatel",
+  "name": "CSEM (Swiss Center for Electronics and Microtechnology)",
+  "country": "Switzerland",
+  "city": "Neuchâtel",
+  "careers_url": "https://www.csem.ch/en/jobs",
+  "website": "https://www.csem.ch",
+  "pinned": false,
+  "hints": [
+   "https://www.csem.ch/en/jobs"
+  ]
+ },
+ {
+  "id": "cuspai-amsterdam",
+  "name": "CuspAI (Amsterdam office)",
+  "country": "Netherlands",
+  "city": "Amsterdam",
+  "careers_url": "https://builtin.com/company/cuspai/jobs",
+  "website": "https://www.cuspai.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "cuspai-cambridge",
+  "name": "CuspAI (Cambridge HQ)",
+  "country": "United Kingdom",
+  "city": "Cambridge",
+  "careers_url": "https://builtin.com/company/cuspai/jobs",
+  "website": "https://www.cuspai.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "cxmt-hefei",
+  "name": "ChangXin Memory Technologies (CXMT)",
+  "country": "China",
+  "city": "Hefei",
+  "careers_url": "https://jobs.cxmt.com/campus/jobs",
+  "website": "https://www.cxmt.com",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "datin-karlsruhe",
+  "name": "datin GmbH",
+  "country": "Germany",
+  "city": "Karlsruhe",
+  "careers_url": "https://www.arbeitnow.com/jobs/companies/datin-gmbh",
+  "website": "https://www.arbeitnow.com/jobs/companies/datin-gmbh",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "differ-eindhoven",
+  "name": "DIFFER (Dutch Institute for Fundamental Energy Research)",
+  "country": "Netherlands",
+  "city": "Eindhoven",
+  "careers_url": "https://www.differ.nl/vacancies",
+  "website": "https://www.differ.nl",
+  "pinned": false,
+  "hints": [
+   "https://www.differ.nl/vacancies"
+  ]
+ },
+ {
+  "id": "dp-technology-beijing",
+  "name": "DP Technology (深势科技)",
+  "country": "China",
+  "city": "Beijing",
+  "careers_url": "https://dptechnology.jobs.feishu.cn/index",
+  "website": "https://www.dp.tech/en",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "dsm-firmenich-delft-geneva",
+  "name": "dsm-firmenich (Delft and Geneva data science)",
+  "country": "Netherlands",
+  "city": "Delft",
+  "careers_url": "https://careers.dsm-firmenich.com/",
+  "website": "https://www.dsm-firmenich.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.dsm-firmenich.com/"
+  ]
+ },
+ {
+  "id": "dtu-capex-lyngby",
+  "name": "DTU CAPeX (Pioneer Center for Accelerating P2X Materials Discovery)",
+  "country": "Denmark",
+  "city": "Kongens Lyngby",
+  "careers_url": "https://www.dtu.dk/english/about/job-and-career",
+  "website": "https://www.dtu.dk",
+  "pinned": false,
+  "hints": [
+   "https://www.dtu.dk/english/about/job-and-career"
+  ]
+ },
+ {
+  "id": "dunia-innovations-berlin",
+  "name": "Dunia Innovations",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://dunia.jobs.personio.com/",
+  "website": "https://www.dunia.com",
+  "pinned": false,
+  "hints": [
+   "https://dunia.jobs.personio.com/"
+  ]
+ },
+ {
+  "id": "empa-duebendorf",
+  "name": "Empa (Swiss Federal Laboratories for Materials Science and Technology)",
+  "country": "Switzerland",
+  "city": "Dübendorf (ZH)",
+  "careers_url": "https://www.empa.ch/web/empa/jobs",
+  "website": "https://www.empa.ch",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "entalpic-paris",
+  "name": "Entalpic",
+  "country": "France",
+  "city": "Paris",
+  "careers_url": "https://jobs.breega.com/jobs/4582598-materials-scientist-ml-for-synthesisability-entalpic",
+  "website": "https://www.entalpic.ai",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "esmc-dresden",
+  "name": "ESMC (European Semiconductor Manufacturing Company, TSMC JV)",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://careers.tsmc.com/en_US/careers",
+  "website": "https://www.esmc-dresden.com",
+  "pinned": true,
+  "hints": [
+   "https://careers.tsmc.com/en_US/careers"
+  ]
+ },
+ {
+  "id": "ev-group-st-florian",
+  "name": "EV Group (EVG)",
+  "country": "Austria",
+  "city": "St. Florian am Inn",
+  "careers_url": "https://www.evgroup.com/careers/jobs/",
+  "website": "https://www.evgroup.com",
+  "pinned": true,
+  "hints": [
+   "https://www.evgroup.com/careers/jobs/",
+   "https://www.evgroup.com/careers/jobs/data-analyst-mfd"
+  ]
+ },
+ {
+  "id": "evonik-marl",
+  "name": "Evonik Industries AG",
+  "country": "Germany",
+  "city": "Marl",
+  "careers_url": "https://careers.evonik.com",
+  "website": "https://www.evonik.com",
+  "pinned": true,
+  "hints": [
+   "https://www.evonik.com/en/careers.html"
+  ]
+ },
+ {
+  "id": "fhi-nomad-berlin",
+  "name": "Fritz Haber Institute of the Max Planck Society (incl. NOMAD Laboratory)",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://www.fhi.mpg.de/jobs",
+  "website": "https://www.fhi.mpg.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fmc-dresden",
+  "name": "Ferroelectric Memory Company (FMC)",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://ferroelectric-memory-gmbh.jobs.personio.de",
+  "website": "https://ferroelectric-memory.com",
+  "pinned": false,
+  "hints": [
+   "https://ferroelectric-memory-gmbh.jobs.personio.de"
+  ]
+ },
+ {
+  "id": "fraunhofer-enas-chemnitz",
+  "name": "Fraunhofer ENAS",
+  "country": "Germany",
+  "city": "Chemnitz",
+  "careers_url": "https://www.enas.fraunhofer.de/en/jobs.html",
+  "website": "https://www.enas.fraunhofer.de",
+  "pinned": false,
+  "hints": [
+   "https://www.enas.fraunhofer.de/en/jobs.html"
+  ]
+ },
+ {
+  "id": "fraunhofer-fep-dresden",
+  "name": "Fraunhofer FEP",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://jobs.fraunhofer.de",
+  "website": "https://www.fep.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-ffb-muenster",
+  "name": "Fraunhofer FFB (Forschungsfertigung Batteriezelle)",
+  "country": "Germany",
+  "city": "Münster",
+  "careers_url": "https://www.ffb.fraunhofer.de/en/jobs.html",
+  "website": "https://www.ffb.fraunhofer.de",
+  "pinned": false,
+  "hints": [
+   "https://www.ffb.fraunhofer.de/de/jobs/wissenschaft.html"
+  ]
+ },
+ {
+  "id": "fraunhofer-iisb-erlangen",
+  "name": "Fraunhofer IISB",
+  "country": "Germany",
+  "city": "Erlangen",
+  "careers_url": "https://jobs.fraunhofer.de",
+  "website": "https://www.iisb.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-imws-halle",
+  "name": "Fraunhofer IMWS (Center for Applied Microstructure Diagnostics CAM)",
+  "country": "Germany",
+  "city": "Halle (Saale)",
+  "careers_url": "https://jobs.fraunhofer.de",
+  "website": "https://www.imws.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-ipms-dresden",
+  "name": "Fraunhofer IPMS (incl. Center Nanoelectronic Technologies CNT)",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://jobs.fraunhofer.de",
+  "website": "https://www.ipms.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-isc-wuerzburg",
+  "name": "Fraunhofer ISC (Silicate Research)",
+  "country": "Germany",
+  "city": "Würzburg",
+  "careers_url": "https://www.isc.fraunhofer.de/en/career.html",
+  "website": "https://www.isc.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-ise-freiburg",
+  "name": "Fraunhofer ISE (Institute for Solar Energy Systems)",
+  "country": "Germany",
+  "city": "Freiburg",
+  "careers_url": "https://www.ise.fraunhofer.de/en/jobs-and-careers.html",
+  "website": "https://www.ise.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-ist-braunschweig",
+  "name": "Fraunhofer IST",
+  "country": "Germany",
+  "city": "Braunschweig",
+  "careers_url": "https://jobs.fraunhofer.de",
+  "website": "https://www.ist.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fraunhofer-iwm-freiburg",
+  "name": "Fraunhofer IWM (Institute for Mechanics of Materials)",
+  "country": "Germany",
+  "city": "Freiburg",
+  "careers_url": "https://www.iwm.fraunhofer.de/en/career.html",
+  "website": "https://www.iwm.fraunhofer.de",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "fz-juelich-self-driving-labs",
+  "name": "Forschungszentrum Jülich (self-driving labs, AMANDA platform)",
+  "country": "Germany",
+  "city": "Jülich",
+  "careers_url": "https://www.fz-juelich.de/en/careers",
+  "website": "https://www.fz-juelich.de",
+  "pinned": false,
+  "hints": [
+   "https://www.fz-juelich.de/en/careers/jobs"
+  ]
+ },
+ {
+  "id": "globalfoundries-dresden",
+  "name": "GlobalFoundries Dresden (Fab 1)",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://gf.com/careers/",
+  "website": "https://gf.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "google-deepmind-london",
+  "name": "Google DeepMind (Science unit, materials)",
+  "country": "United Kingdom",
+  "city": "London",
+  "careers_url": "https://job-boards.greenhouse.io/deepmind",
+  "website": "https://deepmind.google",
+  "pinned": false,
+  "hints": [
+   "https://job-boards.greenhouse.io/deepmind",
+   "https://job-boards.greenhouse.io/deepmind/jobs/7578225"
+  ]
+ },
+ {
+  "id": "google-deepmind-materials-us",
+  "name": "Google DeepMind (materials science)",
+  "country": "United States",
+  "city": "Mountain View, CA",
+  "careers_url": "https://deepmind.google/about/careers/",
+  "website": "https://deepmind.google",
+  "pinned": false,
+  "hints": [
+   "https://deepmind.google/about/careers/"
+  ]
+ },
+ {
+  "id": "graphenea-san-sebastian",
+  "name": "Graphenea (Graphenea Semiconductor fab)",
+  "country": "Spain",
+  "city": "Donostia-San Sebastián",
+  "careers_url": "https://www.graphenea.com",
+  "website": "https://www.graphenea.com",
+  "pinned": false,
+  "hints": [
+   "https://www.graphenea.com/pages/join-us"
+  ]
+ },
+ {
+  "id": "henkel-adhesive-technologies-duesseldorf",
+  "name": "Henkel AG & Co. KGaA (Adhesive Technologies R&D)",
+  "country": "Germany",
+  "city": "Düsseldorf",
+  "careers_url": "https://www.henkel.com/careers",
+  "website": "https://www.henkel.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "heraeus-consulting-it-hanau",
+  "name": "Heraeus (Digital R&D, Heraeus Consulting & IT Solutions)",
+  "country": "Germany",
+  "city": "Hanau",
+  "careers_url": "https://www.heraeus.com/en/group/careers/careers.html",
+  "website": "https://www.heraeus.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "hikstor-hangzhou",
+  "name": "Hikstor Technology (致真存储)",
+  "country": "China",
+  "city": "Hangzhou",
+  "careers_url": "unknown",
+  "website": "unknown",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "hitachi-energy-semiconductors-lenzburg",
+  "name": "Hitachi Energy Semiconductors (former ABB Semiconductors)",
+  "country": "Switzerland",
+  "city": "Lenzburg (AG)",
+  "careers_url": "https://www.hitachienergy.com/careers",
+  "website": "https://www.hitachienergy.com/products-and-solutions/semiconductors",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "horiba-germany-oberursel",
+  "name": "HORIBA Jobin Yvon GmbH / HORIBA Europe",
+  "country": "Germany",
+  "city": "Oberursel",
+  "careers_url": "https://www.horiba.com/deu/company/careers/",
+  "website": "https://www.horiba.com/deu/",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "huawei-semiconductor-china",
+  "name": "Huawei (Semiconductor Business Dept, Turing Business Dept)",
+  "country": "China",
+  "city": "Shenzhen",
+  "careers_url": "https://career.huawei.com",
+  "website": "https://www.huawei.com",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "hydro-aluminium-innovation-technology",
+  "name": "Norsk Hydro (Innovation and Technology, aluminium extrusion R&D)",
+  "country": "Norway",
+  "city": "Oslo",
+  "careers_url": "https://www.hydro.com/en/careers",
+  "website": "https://www.hydro.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "hzb-berlin",
+  "name": "Helmholtz-Zentrum Berlin (HZB)",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://www.helmholtz-berlin.de/karriere/",
+  "website": "https://www.helmholtz-berlin.de",
+  "pinned": false,
+  "hints": [
+   "https://www.helmholtz-berlin.de/karriere/"
+  ]
+ },
+ {
+  "id": "icn2-bellaterra",
+  "name": "ICN2 (Catalan Institute of Nanoscience and Nanotechnology)",
+  "country": "Spain",
+  "city": "Bellaterra (Barcelona)",
+  "careers_url": "https://icn2.cat",
+  "website": "https://icn2.cat",
+  "pinned": false,
+  "hints": [
+   "https://jobs.icn2.cat/"
+  ]
+ },
+ {
+  "id": "ihp-frankfurt-oder",
+  "name": "IHP – Leibniz-Institut für innovative Mikroelektronik",
+  "country": "Germany",
+  "city": "Frankfurt (Oder)",
+  "careers_url": "https://www.ihp-microelectronics.com/career",
+  "website": "https://www.ihp-microelectronics.com",
+  "pinned": true,
+  "hints": [
+   "https://www.ihp-microelectronics.com/career"
+  ]
+ },
+ {
+  "id": "iit-genoa",
+  "name": "IIT (Istituto Italiano di Tecnologia)",
+  "country": "Italy",
+  "city": "Genoa",
+  "careers_url": "https://www.iit.it",
+  "website": "https://www.iit.it",
+  "pinned": false,
+  "hints": [
+   "https://www.iit.it/openings"
+  ]
+ },
+ {
+  "id": "imdea-materials-madrid",
+  "name": "IMDEA Materials Institute",
+  "country": "Spain",
+  "city": "Getafe (Madrid)",
+  "careers_url": "https://jobs.materials.imdea.org",
+  "website": "https://materials.imdea.org",
+  "pinned": false,
+  "hints": [
+   "https://jobs.materials.imdea.org"
+  ]
+ },
+ {
+  "id": "imec-leuven",
+  "name": "imec",
+  "country": "Belgium",
+  "city": "Leuven",
+  "careers_url": "https://www.imec-int.com/en/work-at-imec/job-opportunities",
+  "website": "https://www.imec-int.com",
+  "pinned": true,
+  "hints": [
+   "https://www.imec-int.com/en/work-at-imec/job-opportunities",
+   "https://www.imec-int.com/en/work-at-imec/job-opportunities/data-scientist-ai-rd-semicon-manufacturing",
+   "https://www.imec-int.com/en/work-at-imec/job-opportunities/rd-scientist-machine-learning-scientific-computing"
+  ]
+ },
+ {
+  "id": "infineon-dresden",
+  "name": "Infineon Technologies Dresden",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://www.infineon.com/cms/en/careers/",
+  "website": "https://www.infineon.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "infineon-regensburg-neubiberg",
+  "name": "Infineon Technologies AG (Regensburg / Neubiberg / Warstein)",
+  "country": "Germany",
+  "city": "Regensburg",
+  "careers_url": "https://www.infineon.com/cms/en/careers/",
+  "website": "https://www.infineon.com",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "infineon-technologies-austria-villach",
+  "name": "Infineon Technologies Austria AG",
+  "country": "Austria",
+  "city": "Villach",
+  "careers_url": "https://jobs.infineon.com",
+  "website": "https://www.infineon.com/austria",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "inl-braga",
+  "name": "INL (International Iberian Nanotechnology Laboratory)",
+  "country": "Portugal",
+  "city": "Braga",
+  "careers_url": "https://jobs.jobvite.com/inl",
+  "website": "https://inl.int",
+  "pinned": false,
+  "hints": [
+   "https://jobs.jobvite.com/inl"
+  ]
+ },
+ {
+  "id": "intel-foundry-hillsboro-usa",
+  "name": "Intel Foundry Technology Development (Hillsboro and Chandler)",
+  "country": "United States",
+  "city": "Hillsboro, OR",
+  "careers_url": "https://jobs.intel.com",
+  "website": "https://www.intel.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "intel-ireland-leixlip",
+  "name": "Intel Ireland (Fab 34, Leixlip)",
+  "country": "Ireland",
+  "city": "Leixlip",
+  "careers_url": "https://jobs.intel.com/en/search-jobs/Leixlip",
+  "website": "https://www.intel.ie",
+  "pinned": false,
+  "hints": [
+   "https://jobs.intel.com/en/job/leixlip/data-science-ds-engineer/41147/53619182736",
+   "https://jobs.intel.com/en/job/leixlip/data-science-ds-engineer/41147/53619182736",
+   "https://jobs.intel.com/en/job/leixlip/yield-modelling-engineer/41147/53619179776"
+  ]
+ },
+ {
+  "id": "intellegens-cambridge",
+  "name": "Intellegens",
+  "country": "United Kingdom",
+  "city": "Cambridge",
+  "careers_url": "https://www.intellegens.com/careers",
+  "website": "https://www.intellegens.com",
+  "pinned": false,
+  "hints": [
+   "https://www.intellegens.com/careers"
+  ]
+ },
+ {
+  "id": "iop-cas-beijing",
+  "name": "Institute of Physics, Chinese Academy of Sciences",
+  "country": "China",
+  "city": "Beijing",
+  "careers_url": "https://www.gaoxiaojob.com/announcement/detail/403091.html",
+  "website": "https://www.iphy.ac.cn",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "johnson-matthey-sonning",
+  "name": "Johnson Matthey (Technology Centre, Sonning Common)",
+  "country": "United Kingdom",
+  "city": "Sonning Common",
+  "careers_url": "https://matthey.com/careers",
+  "website": "https://matthey.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "kit-helma-karlsruhe",
+  "name": "KIT (HELMA Helmholtz Acceleration Alliance for self-driving labs)",
+  "country": "Germany",
+  "city": "Karlsruhe",
+  "careers_url": "https://www.kit.edu/kit/english/jobs.php",
+  "website": "https://www.kit.edu",
+  "pinned": false,
+  "hints": [
+   "https://www.kit.edu/kit/english/jobs.php"
+  ]
+ },
+ {
+  "id": "kla-germany-weilburg",
+  "name": "KLA Germany (KLA GmbH / KLA Jena)",
+  "country": "Germany",
+  "city": "Weilburg",
+  "careers_url": "https://www.kla.com/careers",
+  "website": "https://www.kla.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "kla-icos-leuven",
+  "name": "KLA (ICOS division)",
+  "country": "Belgium",
+  "city": "Leuven",
+  "careers_url": "https://www.kla.com/careers",
+  "website": "https://www.kla.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "kla-milpitas-usa",
+  "name": "KLA (Milpitas and Ann Arbor)",
+  "country": "United States",
+  "city": "Milpitas, CA",
+  "careers_url": "https://www.kla.com/careers",
+  "website": "https://www.kla.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "lam-research-fremont-usa",
+  "name": "Lam Research (Fremont and Tualatin)",
+  "country": "United States",
+  "city": "Fremont, CA",
+  "careers_url": "https://careers.lamresearch.com",
+  "website": "https://www.lamresearch.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "lam-research-villach",
+  "name": "Lam Research (Lam Research Salzburg GmbH, Villach site)",
+  "country": "Austria",
+  "city": "Villach",
+  "careers_url": "https://careers.lamresearch.com",
+  "website": "https://www.lamresearch.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "leydenjar-technologies-eindhoven",
+  "name": "LeydenJar Technologies",
+  "country": "Netherlands",
+  "city": "Eindhoven",
+  "careers_url": "https://leydenjar.recruitee.com/",
+  "website": "https://www.leydenjar.com",
+  "pinned": false,
+  "hints": [
+   "https://leydenjar.recruitee.com/"
+  ]
+ },
+ {
+  "id": "lila-sciences-us",
+  "name": "Lila Sciences",
+  "country": "United States",
+  "city": "Cambridge, MA",
+  "careers_url": "https://job-boards.greenhouse.io/lilasciences",
+  "website": "https://www.lila.ai",
+  "pinned": false,
+  "hints": [
+   "https://boards-api.greenhouse.io/v1/boards/lilasciences/jobs",
+   "https://job-boards.greenhouse.io/lilasciences/jobs/4246305009",
+   "https://job-boards.greenhouse.io/lilasciences/jobs/4423504009"
+  ]
+ },
+ {
+  "id": "list-luxembourg",
+  "name": "LIST (Luxembourg Institute of Science and Technology)",
+  "country": "Luxembourg",
+  "city": "Belvaux",
+  "careers_url": "https://www.list.lu",
+  "website": "https://www.list.lu",
+  "pinned": false,
+  "hints": [
+   "https://www.list.lu/career/job-offers"
+  ]
+ },
+ {
+  "id": "materials-center-leoben",
+  "name": "Materials Center Leoben Forschung GmbH (MCL)",
+  "country": "Austria",
+  "city": "Leoben",
+  "careers_url": "https://www.mcl.at/karriere/",
+  "website": "https://www.mcl.at",
+  "pinned": false,
+  "hints": [
+   "https://www.mcl.at/karriere/"
+  ]
+ },
+ {
+  "id": "materials-nexus-matnex-london",
+  "name": "Materials Nexus (MatNex)",
+  "country": "United Kingdom",
+  "city": "London",
+  "careers_url": "https://www.materialsnexus.com/careers",
+  "website": "https://www.materialsnexus.com",
+  "pinned": true,
+  "hints": [
+   "https://matnex.ai/careers"
+  ]
+ },
+ {
+  "id": "mdt-multidimension-zhangjiagang",
+  "name": "MultiDimension Technology (MDT)",
+  "country": "China",
+  "city": "Zhangjiagang",
+  "careers_url": "unknown",
+  "website": "unknown",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "melexis-tessenderlo",
+  "name": "Melexis",
+  "country": "Belgium",
+  "city": "Tessenderlo",
+  "careers_url": "https://www.melexis.com/en/careers",
+  "website": "https://www.melexis.com",
+  "pinned": false,
+  "hints": [
+   "https://www.melexis.com/en/careers",
+   "https://www.melexis.com/en/careers/3814/coe-ai-scientist"
+  ]
+ },
+ {
+  "id": "merck-electronics-darmstadt",
+  "name": "Merck KGaA - Electronics (EMD Electronics)",
+  "country": "Germany",
+  "city": "Darmstadt",
+  "careers_url": "https://www.merckgroup.com/en/careers.html",
+  "website": "https://www.emdgroup.com/en/expertise/electronics.html",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "meta-fair-chemistry-us",
+  "name": "Meta FAIR Chemistry",
+  "country": "United States",
+  "city": "New York, NY",
+  "careers_url": "https://www.metacareers.com/jobs",
+  "website": "https://ai.meta.com/research/",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "michelin-clermont-ferrand",
+  "name": "Michelin (materials R&D, Ladoux)",
+  "country": "France",
+  "city": "Clermont-Ferrand",
+  "careers_url": "https://recrutement.michelin.fr",
+  "website": "https://www.michelin.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "micro-resist-technology-berlin",
+  "name": "micro resist technology GmbH",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://www.microresist.de/en/company/career/",
+  "website": "https://www.microresist.de",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "micron-boise-usa",
+  "name": "Micron Technology (Boise)",
+  "country": "United States",
+  "city": "Boise, ID",
+  "careers_url": "https://careers.micron.com",
+  "website": "https://www.micron.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "microsoft-ai-for-science-us",
+  "name": "Microsoft Research AI for Science (materials)",
+  "country": "United States",
+  "city": "Redmond, WA",
+  "careers_url": "https://www.microsoft.com/en-us/research/project/materials/opportunities",
+  "website": "https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/",
+  "pinned": false,
+  "hints": [
+   "https://www.microsoft.com/en-us/research/project/materials/opportunities"
+  ]
+ },
+ {
+  "id": "microsoft-research-ai-for-science-cambridge",
+  "name": "Microsoft Research AI for Science (Cambridge)",
+  "country": "United Kingdom",
+  "city": "Cambridge",
+  "careers_url": "https://careers.microsoft.com",
+  "website": "https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "mycronic-taby",
+  "name": "Mycronic (Pattern Generator division)",
+  "country": "Sweden",
+  "city": "Täby",
+  "careers_url": "https://www.mycronic.com/en/career/",
+  "website": "https://www.mycronic.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "nanogune-donostia",
+  "name": "CIC nanoGUNE",
+  "country": "Spain",
+  "city": "Donostia-San Sebastián",
+  "careers_url": "https://www.nanogune.eu/en/nanogune/join-us",
+  "website": "https://www.nanogune.eu",
+  "pinned": false,
+  "hints": [
+   "https://www.nanogune.eu/en/nanogune/join-us"
+  ]
+ },
+ {
+  "id": "naura-beijing",
+  "name": "NAURA Technology Group (北方华创)",
+  "country": "China",
+  "city": "Beijing",
+  "careers_url": "https://campus.niuqizp.com/job-vYl5zMZ5C.html",
+  "website": "https://www.naura.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "nearfield-instruments-rotterdam",
+  "name": "Nearfield Instruments",
+  "country": "Netherlands",
+  "city": "Rotterdam",
+  "careers_url": "https://careers.nearfieldinstruments.com/",
+  "website": "https://www.nearfieldinstruments.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.nearfieldinstruments.com/"
+  ]
+ },
+ {
+  "id": "nexperia-hamburg",
+  "name": "Nexperia Germany",
+  "country": "Germany",
+  "city": "Hamburg",
+  "careers_url": "https://www.nexperia.com/about/careers",
+  "website": "https://www.nexperia.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "nimte-cas-ningbo",
+  "name": "Ningbo Institute of Materials Technology and Engineering, CAS (NIMTE)",
+  "country": "China",
+  "city": "Ningbo",
+  "careers_url": "https://www.gaoxiaojob.com/announcement/detail/326580.html",
+  "website": "https://www.nimte.cas.cn",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "nist-gaithersburg-usa",
+  "name": "NIST (Gaithersburg MD and Boulder CO)",
+  "country": "United States",
+  "city": "Gaithersburg, MD",
+  "careers_url": "https://www.nist.gov/careers",
+  "website": "https://www.nist.gov",
+  "pinned": false,
+  "hints": [
+   "https://www.nist.gov/careers/associate-positions",
+   "https://www.nist.gov/careers/associate-positions",
+   "https://www.nist.gov/careers/associate-positions"
+  ]
+ },
+ {
+  "id": "nlr-nrel-us",
+  "name": "National Laboratory of the Rockies (formerly NREL)",
+  "country": "United States",
+  "city": "Golden, CO",
+  "careers_url": "https://www.nrel.gov/careers",
+  "website": "https://www.nrel.gov",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "nova-sentronics-mannheim",
+  "name": "Sentronics Metrology GmbH (Nova Ltd.)",
+  "country": "Germany",
+  "city": "Mannheim",
+  "careers_url": "https://www.novami.com/careers/",
+  "website": "https://www.sentronics-metrology.com",
+  "pinned": false,
+  "hints": [
+   "https://www.novami.com/careers/working-at-nova/",
+   "https://www.novami.com/comeetitem/0c565/",
+   "https://www.novami.com/comeetitem/96476-2/"
+  ]
+ },
+ {
+  "id": "npl-teddington",
+  "name": "NPL (National Physical Laboratory), Data Science and AI",
+  "country": "United Kingdom",
+  "city": "Teddington",
+  "careers_url": "https://jobs.npl.co.uk/vacancies/vacancy-search-results.aspx",
+  "website": "https://www.npl.co.uk",
+  "pinned": false,
+  "hints": [
+   "https://jobs.npl.co.uk/vacancies/vacancy-search-results.aspx"
+  ]
+ },
+ {
+  "id": "nvidia-alchemi-us",
+  "name": "NVIDIA (ALCHEMI, AI for materials and chemistry)",
+  "country": "United States",
+  "city": "Santa Clara, CA",
+  "careers_url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
+  "website": "https://developer.nvidia.com/alchemi",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "onto-innovation-usa",
+  "name": "Onto Innovation",
+  "country": "United States",
+  "city": "Wilmington, MA",
+  "careers_url": "https://ontoinnovation.com/careers",
+  "website": "https://www.ontoinnovation.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "orbital-materials-london",
+  "name": "Orbital Materials",
+  "country": "United Kingdom",
+  "city": "London",
+  "careers_url": "https://builtinlondon.uk/company/orbital-materials/jobs",
+  "website": "https://www.orbitalmaterials.com",
+  "pinned": false,
+  "hints": [
+   "https://api.ashbyhq.com/posting-api/job-board/orbitalindustries",
+   "https://jobs.ashbyhq.com/orbitalindustries/0405b3d7-c134-43e4-a7af-a9763a5bf3d9"
+  ]
+ },
+ {
+  "id": "oriental-xingang-ic-shanghai",
+  "name": "Shanghai Oriental Xingang Integrated Circuit (芯港集成)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://xjic.zhaopin.com",
+  "website": "unknown",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "osium-ai-paris",
+  "name": "Osium AI",
+  "country": "France",
+  "city": "Paris",
+  "careers_url": "https://www.workatastartup.com/jobs/67314",
+  "website": "https://osium.ai",
+  "pinned": false,
+  "hints": [
+   "https://osium.ai/careers",
+   "https://osium.ai/careers/job-posting-data-scientist"
+  ]
+ },
+ {
+  "id": "outokumpu-finland",
+  "name": "Outokumpu (Advanced Modelling and Data Science, Tornio)",
+  "country": "Finland",
+  "city": "Tornio",
+  "careers_url": "https://careers.outokumpu.com/search/",
+  "website": "https://www.outokumpu.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.outokumpu.com/search/"
+  ]
+ },
+ {
+  "id": "oxford-instruments-wiesbaden",
+  "name": "Oxford Instruments GmbH (incl. WITec Ulm)",
+  "country": "Germany",
+  "city": "Wiesbaden",
+  "careers_url": "https://jobs.oxinst.com",
+  "website": "https://www.oxinst.com",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "pdf-solutions-usa",
+  "name": "PDF Solutions",
+  "country": "United States",
+  "city": "Santa Clara, CA",
+  "careers_url": "https://careers-pdf.icims.com",
+  "website": "https://www.pdf.com",
+  "pinned": false,
+  "hints": [
+   "https://careers-pdf.icims.com",
+   "https://careers-pdf.icims.com/jobs/1139/data-scientist/job"
+  ]
+ },
+ {
+  "id": "periodic-labs-us",
+  "name": "Periodic Labs",
+  "country": "United States",
+  "city": "Menlo Park, CA",
+  "careers_url": "https://jobs.ashbyhq.com/periodic-labs",
+  "website": "https://periodic.com",
+  "pinned": false,
+  "hints": [
+   "https://api.ashbyhq.com/posting-api/job-board/periodic-labs",
+   "https://jobs.ashbyhq.com/periodic-labs/0d96f03c-8f08-44ae-a7cb-8c4bbc80976c"
+  ]
+ },
+ {
+  "id": "phasetree-denmark",
+  "name": "PhaseTree",
+  "country": "Denmark",
+  "city": "Kongens Lyngby",
+  "careers_url": "https://thehub.io/startups/phasetree",
+  "website": "https://thehub.io/startups/phasetree",
+  "pinned": false,
+  "hints": [
+   "https://www.phasetree.ai/careers",
+   "https://www.phasetree.ai/careers/ai-scientist-generative-modeling-of-inorganic-materials"
+  ]
+ },
+ {
+  "id": "polaron-london",
+  "name": "Polaron",
+  "country": "United Kingdom",
+  "city": "London",
+  "careers_url": "https://www.polaron.ai/careers",
+  "website": "https://www.polaron.ai",
+  "pinned": false,
+  "hints": [
+   "https://www.polaron.ai/careers"
+  ]
+ },
+ {
+  "id": "powerco-salzgitter",
+  "name": "PowerCo SE",
+  "country": "Germany",
+  "city": "Salzgitter",
+  "careers_url": "https://powerco.se/en/careers",
+  "website": "https://www.powerco.se",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "pragmatic-semiconductor-durham",
+  "name": "Pragmatic Semiconductor",
+  "country": "United Kingdom",
+  "city": "Sedgefield / Durham",
+  "careers_url": "https://talent.pragmaticsemi.com/jobs",
+  "website": "https://www.pragmaticsemi.com",
+  "pinned": false,
+  "hints": [
+   "https://talent.pragmaticsemi.com/jobs"
+  ]
+ },
+ {
+  "id": "psi-villigen",
+  "name": "Paul Scherrer Institute (PSI) incl. Park Innovaare",
+  "country": "Switzerland",
+  "city": "Villigen (AG)",
+  "careers_url": "https://www.psi.ch/en/hr/job-opportunities",
+  "website": "https://www.psi.ch",
+  "pinned": false,
+  "hints": [
+   "https://www.psi.ch/en/hr/job-opportunities"
+  ]
+ },
+ {
+  "id": "q-ant-stuttgart",
+  "name": "Q.ANT GmbH",
+  "country": "Germany",
+  "city": "Stuttgart",
+  "careers_url": "https://q-ant-gmbh.jobs.personio.de/",
+  "website": "https://qant.com",
+  "pinned": false,
+  "hints": [
+   "https://q-ant-gmbh.jobs.personio.de/",
+   "https://q-ant-gmbh.jobs.personio.de/job/2479398"
+  ]
+ },
+ {
+  "id": "qcells-thalheim",
+  "name": "Qcells (Hanwha Qcells Germany)",
+  "country": "Germany",
+  "city": "Thalheim (Bitterfeld-Wolfen)",
+  "careers_url": "https://www.q-cells.de/jobs-en",
+  "website": "https://www.q-cells.de",
+  "pinned": false,
+  "hints": [
+   "https://www.q-cells.de/jobs-en",
+   "https://www.q-cells.de/jobs-en/hqp-qt-101-data-analytics-line-optimization-rd-scientist-/-engineer-m/f/d"
+  ]
+ },
+ {
+  "id": "qnami-muttenz",
+  "name": "Qnami AG (acquired by Quantum Design International, 2026)",
+  "country": "Switzerland",
+  "city": "Muttenz (BL)",
+  "careers_url": "https://qnami.ch/careers/",
+  "website": "https://qnami.ch",
+  "pinned": true,
+  "hints": [
+   "https://qnami.ch/careers/"
+  ]
+ },
+ {
+  "id": "quantumdiamonds-munich",
+  "name": "QuantumDiamonds GmbH",
+  "country": "Germany",
+  "city": "Munich",
+  "careers_url": "https://quantum-diamond.jobs.personio.de",
+  "website": "https://www.quantumdiamonds.de",
+  "pinned": false,
+  "hints": [
+   "https://quantum-diamond.jobs.personio.de"
+  ]
+ },
+ {
+  "id": "quantumscape-us",
+  "name": "QuantumScape",
+  "country": "United States",
+  "city": "San Jose, CA",
+  "careers_url": "https://careers.quantumscape.com",
+  "website": "https://www.quantumscape.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.quantumscape.com/search/"
+  ]
+ },
+ {
+  "id": "radical-ai-us",
+  "name": "Radical AI",
+  "country": "United States",
+  "city": "New York, NY",
+  "careers_url": "https://jobs.lever.co/RadicalAI",
+  "website": "https://www.radical-ai.com",
+  "pinned": false,
+  "hints": [
+   "https://api.lever.co/v0/postings/RadicalAI"
+  ]
+ },
+ {
+  "id": "rise-research-institutes-of-sweden",
+  "name": "RISE Research Institutes of Sweden (Materials and Production, Mölndal)",
+  "country": "Sweden",
+  "city": "Mölndal",
+  "careers_url": "https://career.ri.se/jobs",
+  "website": "https://www.ri.se",
+  "pinned": false,
+  "hints": [
+   "https://career.ri.se/jobs"
+  ]
+ },
+ {
+  "id": "saint-gobain-research-germany-herzogenrath",
+  "name": "Saint-Gobain Research Germany",
+  "country": "Germany",
+  "city": "Herzogenrath (Aachen)",
+  "careers_url": "https://www.saint-gobain.com/en/careers",
+  "website": "https://www.saint-gobain.com/en/saint-gobain-research-germany",
+  "pinned": true,
+  "hints": [
+   "https://www.saint-gobain.com/en/careers"
+  ]
+ },
+ {
+  "id": "saint-gobain-research-paris",
+  "name": "Saint-Gobain Research Paris",
+  "country": "France",
+  "city": "Aubervilliers",
+  "careers_url": "https://www.saint-gobain.com/en/careers/our-professions/research-and-development",
+  "website": "https://www.saint-gobain.com",
+  "pinned": false,
+  "hints": [
+   "https://www.saint-gobain.com/en/careers/our-professions/research-and-development"
+  ]
+ },
+ {
+  "id": "samsung-austin-semiconductor-usa",
+  "name": "Samsung Austin Semiconductor (Austin and Taylor)",
+  "country": "United States",
+  "city": "Austin, TX",
+  "careers_url": "https://www.samsung.com/us/careers/",
+  "website": "https://semiconductor.samsung.com",
+  "pinned": false,
+  "hints": [
+   "https://semiconductor.samsung.com/us/about-us/careers/"
+  ]
+ },
+ {
+  "id": "sandbox-semiconductor-usa",
+  "name": "SandBox Semiconductor",
+  "country": "United States",
+  "city": "unknown",
+  "careers_url": "https://www.sandboxsemiconductor.com",
+  "website": "https://www.sandboxsemiconductor.com",
+  "pinned": false,
+  "hints": [
+   "https://sandboxsemiconductor.com/company/careers"
+  ]
+ },
+ {
+  "id": "schott-mainz",
+  "name": "SCHOTT AG",
+  "country": "Germany",
+  "city": "Mainz",
+  "careers_url": "https://www.schott.com/en-gb/careers",
+  "website": "https://www.schott.com",
+  "pinned": false,
+  "hints": [
+   "https://www.schott.com/en-gb/careers"
+  ]
+ },
+ {
+  "id": "schrodinger-materials-us",
+  "name": "Schrödinger (materials science)",
+  "country": "United States",
+  "city": "New York, NY",
+  "careers_url": "https://www.schrodinger.com/company/careers/",
+  "website": "https://www.schrodinger.com",
+  "pinned": false,
+  "hints": [
+   "https://job-boards.greenhouse.io/schrdinger",
+   "https://job-boards.greenhouse.io/schrdinger/jobs/7786803003",
+   "https://job-boards.greenhouse.io/schrdinger/jobs/7776872003"
+  ]
+ },
+ {
+  "id": "scm-amsterdam",
+  "name": "SCM (Software for Chemistry and Materials)",
+  "country": "Netherlands",
+  "city": "Amsterdam",
+  "careers_url": "https://www.scm.com/about/jobs/",
+  "website": "https://www.scm.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "seagate-bloomington-usa",
+  "name": "Seagate Technology (Bloomington and Normandale, MN)",
+  "country": "United States",
+  "city": "Bloomington, MN",
+  "careers_url": "https://seagatecareers.com",
+  "website": "https://www.seagate.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "shanghai-ai-lab",
+  "name": "Shanghai Artificial Intelligence Laboratory (AI4S)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://campus.niuqizp.com/job-vYU5NZCZn.html",
+  "website": "https://www.shlab.org.cn",
+  "pinned": false,
+  "hints": [
+   "https://www.shlab.org.cn/joinus"
+  ]
+ },
+ {
+  "id": "shanghai-university-mge",
+  "name": "Materials Genome Engineering Institute, Shanghai University (Materials Informatics and Data Science team)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://campus.niuqizp.com/job-vk85tz5NL.html",
+  "website": "https://www.shu.edu.cn",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "shanghai-yuwei-semiconductor",
+  "name": "Shanghai Yuwei Semiconductor Technology (上海御微半导体)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://campus.niuqizp.com/job-vUyNLNz5M.html",
+  "website": "unknown",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "siemens-energy-materials-berlin",
+  "name": "Siemens Energy AG (materials and self-driven labs, Berlin)",
+  "country": "Germany",
+  "city": "Berlin",
+  "careers_url": "https://jobs.siemens-energy.com",
+  "website": "https://www.siemens-energy.com",
+  "pinned": false,
+  "hints": [
+   "https://jobs.siemens-energy.com",
+   "https://jobs.siemens-energy.com/hu_HU/jobs/FolderDetail/Senior-Expert-f-m-d-for-Self-driven-Labs-for-Materials-Discovery/296021"
+  ]
+ },
+ {
+  "id": "sila-nanotechnologies-us",
+  "name": "Sila Nanotechnologies",
+  "country": "United States",
+  "city": "Alameda, CA",
+  "careers_url": "https://job-boards.greenhouse.io/silananotechnologies",
+  "website": "https://silanano.com",
+  "pinned": false,
+  "hints": [
+   "https://job-boards.greenhouse.io/silananotechnologies",
+   "https://job-boards.greenhouse.io/silananotechnologies/jobs/8205743"
+  ]
+ },
+ {
+  "id": "silicon-austria-labs-villach-graz-linz",
+  "name": "Silicon Austria Labs (SAL)",
+  "country": "Austria",
+  "city": "Graz",
+  "careers_url": "https://silicon-austria-labs.com/en/career",
+  "website": "https://silicon-austria-labs.com",
+  "pinned": true,
+  "hints": [
+   "https://career.silicon-austria-labs.com/"
+  ]
+ },
+ {
+  "id": "singulus-technologies-kahl",
+  "name": "Singulus Technologies AG",
+  "country": "Germany",
+  "city": "Kahl am Main",
+  "careers_url": "https://www.singulus.com/career/",
+  "website": "https://www.singulus.com",
+  "pinned": true,
+  "hints": [
+   "https://singulus.career.softgarden.de/"
+  ]
+ },
+ {
+  "id": "sinomags-china",
+  "name": "Sinomags (Ningbo Sinomags Electrical Technology)",
+  "country": "China",
+  "city": "Bengbu / Ningbo",
+  "careers_url": "unknown",
+  "website": "unknown",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "sintef-industry-materials-processing-modelling",
+  "name": "SINTEF Industry and SINTEF Digital (Oslo)",
+  "country": "Norway",
+  "city": "Oslo",
+  "careers_url": "https://www.sintef.no/en/sintef-group/career/vacant-positions/",
+  "website": "https://www.sintef.no",
+  "pinned": false,
+  "hints": [
+   "https://www.sintef.no/en/sintef-group/career/vacant-positions/"
+  ]
+ },
+ {
+  "id": "sixonia-tech-dresden",
+  "name": "Sixonia Tech GmbH",
+  "country": "Germany",
+  "city": "Dresden",
+  "careers_url": "https://jobboerse.htw-dresden.de/companies/sixonia-mnkyuoj8t-dresden-de/",
+  "website": "https://www.sixonia.tech",
+  "pinned": true,
+  "hints": [
+   "https://jobboerse.htw-dresden.de/companies/sixonia-mnkyuoj8t-dresden-de/"
+  ]
+ },
+ {
+  "id": "skyverse-shenzhen",
+  "name": "Skyverse Technology (中科飞测)",
+  "country": "China",
+  "city": "Shenzhen",
+  "careers_url": "https://campus.niuqizp.com/job-vsl5aL5ta.html",
+  "website": "unknown",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "smic-shanghai",
+  "name": "SMIC (Semiconductor Manufacturing International)",
+  "country": "China",
+  "city": "Shanghai",
+  "careers_url": "https://campus.niuqizp.com/job-v8s5aNa55.html",
+  "website": "https://www.smics.com",
+  "pinned": true,
+  "hints": [
+   "https://smics.zhiye.com/campus"
+  ]
+ },
+ {
+  "id": "soitec-bernin",
+  "name": "Soitec",
+  "country": "France",
+  "city": "Bernin",
+  "careers_url": "https://careers-soitec.icims.com/jobs/search",
+  "website": "https://www.soitec.com",
+  "pinned": false,
+  "hints": [
+   "https://careers-soitec.icims.com/jobs/search"
+  ]
+ },
+ {
+  "id": "stmicroelectronics-agrate-catania",
+  "name": "STMicroelectronics (Agrate Brianza and Catania fabs)",
+  "country": "Italy",
+  "city": "Agrate Brianza",
+  "careers_url": "https://stcareers.talent-soft.com",
+  "website": "https://www.st.com",
+  "pinned": false,
+  "hints": [
+   "https://www.st.com/content/st_com/en/about/careers/job-categories.html"
+  ]
+ },
+ {
+  "id": "stmicroelectronics-crolles-rousset",
+  "name": "STMicroelectronics (Crolles and Rousset fabs)",
+  "country": "France",
+  "city": "Crolles",
+  "careers_url": "https://www.st.com/content/st_com/en/about/careers.html",
+  "website": "https://www.st.com",
+  "pinned": false,
+  "hints": [
+   "https://www.st.com/content/st_com/en/about/careers/job-categories.html"
+  ]
+ },
+ {
+  "id": "suss-microtec-garching",
+  "name": "SUSS MicroTec SE",
+  "country": "Germany",
+  "city": "Garching (Munich)",
+  "careers_url": "https://career.suss.com/en",
+  "website": "https://www.suss.com",
+  "pinned": true,
+  "hints": [
+   "https://career.suss.com/en"
+  ]
+ },
+ {
+  "id": "synopsys-copenhagen-quantumatk",
+  "name": "Synopsys Denmark (QuantumATK atomic-scale modelling team)",
+  "country": "Denmark",
+  "city": "Copenhagen",
+  "careers_url": "https://careers.synopsys.com/search-jobs",
+  "website": "https://www.synopsys.com/silicon/quantumatk.html",
+  "pinned": false,
+  "hints": [
+   "https://careers.synopsys.com/search-jobs"
+  ]
+ },
+ {
+  "id": "texas-instruments-usa",
+  "name": "Texas Instruments (Dallas, Richardson and Sherman)",
+  "country": "United States",
+  "city": "Richardson, TX",
+  "careers_url": "https://careers.ti.com",
+  "website": "https://www.ti.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "thermo-fisher-brno",
+  "name": "Thermo Fisher Scientific, Brno (electron microscopy R&D)",
+  "country": "Czechia",
+  "city": "Brno",
+  "careers_url": "https://jobs.thermofisher.com",
+  "website": "https://www.thermofisher.com",
+  "pinned": false,
+  "hints": [
+   "https://jobs.thermofisher.com"
+  ]
+ },
+ {
+  "id": "tno-delft-eindhoven",
+  "name": "TNO (incl. Holst Centre and TNO at ASML)",
+  "country": "Netherlands",
+  "city": "Delft",
+  "careers_url": "https://www.tno.nl/en/careers/",
+  "website": "https://www.tno.nl",
+  "pinned": true,
+  "hints": [
+   "https://www.tno.nl/en/careers/"
+  ]
+ },
+ {
+  "id": "toyota-research-institute-materials-us",
+  "name": "Toyota Research Institute (Accelerated Materials Design and Discovery)",
+  "country": "United States",
+  "city": "Los Altos, CA",
+  "careers_url": "https://jobs.lever.co/tri",
+  "website": "https://www.tri.global",
+  "pinned": false,
+  "hints": [
+   "https://jobs.lever.co/tri",
+   "https://jobs.lever.co/tri/70d2acf0-f013-447d-bdaa-26ae1118bc98"
+  ]
+ },
+ {
+  "id": "tsmc-taiwan",
+  "name": "TSMC (Intelligent Manufacturing Center)",
+  "country": "Taiwan",
+  "city": "Hsinchu",
+  "careers_url": "https://careers.tsmc.com",
+  "website": "https://www.tsmc.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.tsmc.com/en_US/careers/JobDetail/Intelligent-Manufacturing-System-Engineer-IMC/16026",
+   "https://careers.tsmc.com/en_US/careers/JobDetail/Intelligent-Manufacturing-System-Engineer-IMC/16026"
+  ]
+ },
+ {
+  "id": "tyndall-national-institute",
+  "name": "Tyndall National Institute (University College Cork)",
+  "country": "Ireland",
+  "city": "Cork",
+  "careers_url": "https://www.tyndall.ie/careers/",
+  "website": "https://www.tyndall.ie",
+  "pinned": false,
+  "hints": [
+   "https://www.tyndall.ie/careers/"
+  ]
+ },
+ {
+  "id": "umicore-olen",
+  "name": "Umicore (Electro-Optic Materials / Research)",
+  "country": "Belgium",
+  "city": "Olen",
+  "careers_url": "https://www.umicore.com/en/careers/",
+  "website": "https://www.umicore.com",
+  "pinned": false,
+  "hints": [
+   "https://www.umicore.com/en/careers/job-finder/"
+  ]
+ },
+ {
+  "id": "varta-ellwangen",
+  "name": "VARTA AG",
+  "country": "Germany",
+  "city": "Ellwangen",
+  "careers_url": "https://www.varta-ag.com/en/career",
+  "website": "https://www.varta-ag.com",
+  "pinned": true,
+  "hints": [
+   "https://www.varta-ag.com/en/career/job-offers"
+  ]
+ },
+ {
+  "id": "vat-group-haag",
+  "name": "VAT Group (VAT Vakuumventile AG)",
+  "country": "Switzerland",
+  "city": "Haag (SG)",
+  "careers_url": "https://www.vatvalve.com/en/company/careers",
+  "website": "https://www.vatvalve.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "verkor-grenoble",
+  "name": "Verkor",
+  "country": "France",
+  "city": "Grenoble",
+  "careers_url": "https://jobs.lever.co/verkor",
+  "website": "https://verkor.com",
+  "pinned": false,
+  "hints": [
+   "https://jobs.lever.co/verkor"
+  ]
+ },
+ {
+  "id": "vito-mol",
+  "name": "VITO",
+  "country": "Belgium",
+  "city": "Mol",
+  "careers_url": "https://vito.be/en/jobs",
+  "website": "https://vito.be",
+  "pinned": false,
+  "hints": [
+   "https://vito.be/en/jobs/it-data-science"
+  ]
+ },
+ {
+  "id": "vtt-technical-research-centre-of-finland",
+  "name": "VTT Technical Research Centre of Finland",
+  "country": "Finland",
+  "city": "Espoo",
+  "careers_url": "https://www.vttresearch.com/en/careers/come-and-build-future-vtt",
+  "website": "https://www.vttresearch.com",
+  "pinned": false,
+  "hints": [
+   "https://www.vttresearch.com/en/careers/come-and-build-future-vtt",
+   "https://ats.talentadore.com/apply/intelligent-automation-expert-plastics-processing/DPVN7W"
+  ]
+ },
+ {
+  "id": "western-digital-san-jose-usa",
+  "name": "Western Digital (San Jose Research and wafer fab)",
+  "country": "United States",
+  "city": "San Jose, CA",
+  "careers_url": "https://jobs.smartrecruiters.com/WesternDigital",
+  "website": "https://www.westerndigital.com",
+  "pinned": false,
+  "hints": [
+   "https://careers.smartrecruiters.com/WesternDigital"
+  ]
+ },
+ {
+  "id": "xtalpi-shenzhen",
+  "name": "XtalPi (晶泰科技)",
+  "country": "China",
+  "city": "Shenzhen",
+  "careers_url": "https://en.xtalpi.com",
+  "website": "https://www.xtalpi.com",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "ymtc-wuhan",
+  "name": "Yangtze Memory Technologies (YMTC)",
+  "country": "China",
+  "city": "Wuhan",
+  "careers_url": "https://campus.niuqizp.com/job-vkk5nztLZ.html",
+  "website": "https://www.ymtc.com",
+  "pinned": true,
+  "hints": []
+ },
+ {
+  "id": "zeiss-smt-oberkochen",
+  "name": "Carl Zeiss SMT GmbH",
+  "country": "Germany",
+  "city": "Oberkochen",
+  "careers_url": "https://www.zeiss.com/corporate/en/careers.html",
+  "website": "https://www.zeiss.com/semiconductor-manufacturing-technology/home.html",
+  "pinned": false,
+  "hints": []
+ },
+ {
+  "id": "zhejiang-lab-hangzhou",
+  "name": "Zhejiang Lab (之江实验室)",
+  "country": "China",
+  "city": "Hangzhou",
+  "careers_url": "unknown",
+  "website": "https://www.zhejianglab.com",
+  "pinned": true,
+  "hints": []
+ }
+]

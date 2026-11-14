@@ -1,0 +1,28 @@
+name: scrape-careers-pages
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily 04:17 UTC
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated employer ids (empty = all)"
+        required: false
+        default: ""
+permissions:
+  contents: write
+concurrency: radar-data
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt && python -m playwright install --with-deps chromium
+      - run: python -m radar.run --only "${{ inputs.only }}"
+      - name: Commit
+        run: |
+          git config user.name "radar-bot"; git config user.email "radar-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "scrape: $(date -u +%F)" && git push

@@ -1,0 +1,30 @@
+name: discover-sources
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated employer ids (empty = all without an override)"
+        required: false
+        default: ""
+      render:
+        description: "Try a headless browser for pages that need JavaScript"
+        type: boolean
+        default: true
+permissions:
+  contents: write
+concurrency: radar-data
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt && python -m playwright install --with-deps chromium
+      - run: python -m radar.discover --only "${{ inputs.only }}" ${{ inputs.render && '--render' || '' }}
+      - name: Commit
+        run: |
+          git config user.name "radar-bot"; git config user.email "radar-bot@users.noreply.github.com"
+          git add data/sources.json
+          git diff --cached --quiet || git commit -m "discover: update sources" && git push
