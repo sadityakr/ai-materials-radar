@@ -7982,7 +7982,17 @@
    "type": "eightfold",
    "params": {
     "base": "https://jobs.nvidia.com",
-    "domain": "nvidia.com"
+    "domain": "nvidia.com",
+    "queries": [
+     "materials",
+     "chemistry",
+     "semiconductor",
+     "ALCHEMI",
+     "computational chemistry",
+     "molecular",
+     "physics",
+     "lithography"
+    ]
    }
   },
   "count": 2691,

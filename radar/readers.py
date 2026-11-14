@@ -310,9 +310,20 @@ def _eightfold(p, base, getj):
 
 
 def _eightfold_pcsx(p, base, getj):
+    if p.get("queries"):
+        out = {}
+        for q in p["queries"]:
+            for j in _eightfold_pcsx_q(p, base, getj, q):
+                out[j["job_id"]] = j
+        return list(out.values())
+    return _eightfold_pcsx_q(p, base, getj, "")
+
+
+def _eightfold_pcsx_q(p, base, getj, q):
+    from urllib.parse import quote
     jobs, start = [], 0
     while True:
-        d = getj(f"{base}/api/pcsx/search?domain={p['domain']}&query=&location=&start={start}&sort_by=timestamp")
+        d = getj(f"{base}/api/pcsx/search?domain={p['domain']}&query={quote(q)}&location=&start={start}&sort_by=timestamp")
         data = d.get("data") or {}
         page = data.get("positions") or []
         for j in page:
@@ -345,6 +356,17 @@ def _eightfold_v2(p, base, getj):
 
 def eightfold_detail(p, job):
     base = p.get("base") or f"https://{p['sub']}.eightfold.ai"
+    try:
+        d = _json(net.get(f"{base}/api/pcsx/position_details?position_id={job['_pid']}&domain={p['domain']}&hl=en",
+                          headers={"Accept": "application/json"}))
+        data = d.get("data") or {}
+        txt = data.get("jobDescription") or data.get("job_description") or data.get("description") or ""
+        if not txt:  # unknown field name: take the longest string value
+            txt = max((v for v in data.values() if isinstance(v, str)), key=len, default="")
+        if txt:
+            return _clean(txt, 3000)
+    except Exception:
+        pass
     try:
         d = _json(net.get(f"{base}/api/apply/v2/jobs/{job['_pid']}?domain={p['domain']}", headers={"Accept": "application/json"}))
         return _clean(d.get("job_description"), 3000)
