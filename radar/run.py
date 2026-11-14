@@ -102,18 +102,29 @@ def main():
         results = list(ex.map(work, todo))
 
     for e, src, res in results:
+        try:
+            apply_result(e, src, res, state, health, T, a, opened, closed, reopened)
+        except Exception as ex_:
+            health[e["id"]] = {"name": e["name"], "type": (src or {}).get("type"), "checked": T, "status": "failed",
+                               "error": f"processing: {type(ex_).__name__}: {str(ex_)[:200]}"}
+
+    write_outputs(T, emps, state, health, opened, closed, reopened)
+
+
+def apply_result(e, src, res, state, health, T, a, opened, closed, reopened):
+    if True:
         eid = e["id"]
         ss = state["sources"].setdefault(eid, {"last_ok": None, "fails": 0, "zero_runs": 0, "last_count": 0})
         h = {"name": e["name"], "type": (src or {}).get("type"), "checked": T}
         if not src:
             h.update(status="no_source")
             health[eid] = h
-            continue
+            return
         if not res["ok"]:
             ss["fails"] += 1
             h.update(status="failed", error=res["error"], fails_in_row=ss["fails"], last_ok=ss["last_ok"])
             health[eid] = h
-            continue
+            return
         jobs = [_norm_job(j) for j in res["jobs"]]
         if src.get("location"):
             import re as _re
@@ -126,7 +137,7 @@ def main():
             if ss["zero_runs"] < CONFIRM_ZERO:
                 h.update(status="suspect_zero", zero_runs=ss["zero_runs"], last_count=ss["last_count"], last_ok=ss["last_ok"])
                 health[eid] = h
-                continue
+                return
         ss.update(last_ok=T, fails=0, zero_runs=0, last_count=len(jobs))
         h.update(status="ok", count=len(jobs))
         health[eid] = h
@@ -184,6 +195,7 @@ def main():
                     rec["desc_error"] = str(ex_)[:120]
                 n += 1
 
+def write_outputs(T, emps, state, health, opened, closed, reopened):
     # candidates: open postings that pass both filters
     cands = []
     names = {e["id"]: e["name"] for e in emps}
