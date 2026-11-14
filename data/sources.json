@@ -1,12 +1,13 @@
 {
  "acm-research-shanghai": {
   "chosen": {
-   "type": "generic_render",
+   "type": "generic",
    "params": {
-    "url": "https://campus.niuqizp.com/job-vsm5aNtCn.html"
-   }
+    "url": "https://www.acmrcsh.com/"
+   },
+   "zero_at_discovery": true
   },
-  "count": 1,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.acmrcsh.com",
@@ -29,13 +30,11 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vsm5aNtCn.html"
+     "url": "https://www.acmrcsh.com"
     },
     "ok": true,
-    "count": 1,
-    "sample": [
-     "查看更多分享"
-    ]
+    "count": 0,
+    "sample": []
    }
   ]
  },
@@ -349,12 +348,13 @@
  },
  "altrove-paris": {
   "chosen": {
-   "type": "generic_render",
+   "type": "generic",
    "params": {
-    "url": "https://www.linkedin.com/company/altrove-ai/jobs"
-   }
+    "url": "https://www.altrove.ai/"
+   },
+   "zero_at_discovery": true
   },
-  "count": 14,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.altrove.ai",
@@ -377,28 +377,17 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://www.linkedin.com/company/altrove-ai/jobs"
+     "url": "https://www.altrove.ai"
     },
     "ok": true,
-    "count": 14,
-    "sample": [
-     "Key Account Manager jobs 1,238 open jobs",
-     "Marketing Manager jobs 3,742 open jobs",
-     "Research Assistant jobs 2,647 open jobs",
-     "Quantitative Analyst jobs 138 open jobs",
-     "Financial Analyst jobs 1,717 open jobs"
-    ]
+    "count": 0,
+    "sample": []
    }
   ]
  },
  "amec-shanghai": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://campus.niuqizp.com/job-vwy5z5CM5.html"
-   }
-  },
-  "count": 1,
+  "chosen": null,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.amecnsh.com",
@@ -412,13 +401,10 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vwy5z5CM5.html"
+     "url": "https://www.amecnsh.com"
     },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "查看更多分享"
-    ]
+    "ok": false,
+    "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.amecnsh.com/\nCall log:\n  - navigating to \"https://www.amecnsh.com/\", waiting until \"networkidle\"\n"
    }
   ]
  },
@@ -1621,11 +1607,13 @@
   "chosen": {
    "type": "smartrecruiters",
    "params": {
-    "company": "BoschGroup"
-   },
-   "location": "Renningen"
+    "company": "BoschGroup",
+    "cities": [
+     "Renningen"
+    ]
+   }
   },
-  "count": 4000,
+  "count": 51,
   "pages": [
    {
     "url": "https://www.bosch.com/careers/",
@@ -1661,22 +1649,32 @@
     "status": 200,
     "error": null,
     "rendered": null
+   },
+   {
+    "url": "https://www.bosch.com/careers/",
+    "final": "https://www.bosch.com/careers/",
+    "status": 200,
+    "error": null,
+    "rendered": true
    }
   ],
   "tried": [
    {
     "type": "smartrecruiters",
     "params": {
-     "company": "BoschGroup"
+     "company": "BoschGroup",
+     "cities": [
+      "Renningen"
+     ]
     },
     "ok": true,
-    "count": 4000,
+    "count": 51,
     "sample": [
-     "Senior Research Scientist – Molecular Diagnostics",
-     "Research Scientist – Molecular Diagnostics",
-     "Quality Auditor (2nd Shift)",
-     "Lider de Almacén",
-     "Ing. de Seg. Higiene y Medio Amb "
+     "Promotion - Prädiktive Modellierung von Silikongelen an der Schnittstelle von Polymerphysik und numerischer Mechanik",
+     "Pflichtpraktikum im Bereich Human Resources",
+     "Tech Lead - Robot Safety and Security (f/m/div.)",
+     "Technical Lead / Technical Product Owner - Data Pipeline (f/m/div.)",
+     "Technical Product Owner - Robot Safety and Security (f/m/div.)"
     ]
    }
   ]
@@ -1685,11 +1683,14 @@
   "chosen": {
    "type": "smartrecruiters",
    "params": {
-    "company": "BoschGroup"
-   },
-   "location": "Reutlingen|Dresden"
+    "company": "BoschGroup",
+    "cities": [
+     "Reutlingen",
+     "Dresden"
+    ]
+   }
   },
-  "count": 4000,
+  "count": 89,
   "pages": [
    {
     "url": "https://www.bosch.de/karriere/",
@@ -1711,22 +1712,33 @@
     "status": 200,
     "error": null,
     "rendered": null
+   },
+   {
+    "url": "https://www.bosch.de/karriere/",
+    "final": "https://www.bosch.de/karriere/",
+    "status": 200,
+    "error": null,
+    "rendered": true
    }
   ],
   "tried": [
    {
     "type": "smartrecruiters",
     "params": {
-     "company": "BoschGroup"
+     "company": "BoschGroup",
+     "cities": [
+      "Reutlingen",
+      "Dresden"
+     ]
     },
     "ok": true,
-    "count": 4000,
+    "count": 89,
     "sample": [
-     "Senior Research Scientist – Molecular Diagnostics",
-     "Research Scientist – Molecular Diagnostics",
-     "Quality Auditor (2nd Shift)",
-     "Lider de Almacén",
-     "Ing. de Seg. Higiene y Medio Amb "
+     "Praktikum im Supply Chain Management",
+     "Praktikum im Warehouse- und Prozessmanagement",
+     "Praktikum im Projektmanagement im Einkauf eMobility",
+     "Internship in MEMS & Electronics – Development, Characterization, and Prototyping",
+     "ASIC Digital Lead - ATPG & Methodology (f/m/div.) "
     ]
    }
   ]
@@ -2477,13 +2489,8 @@
   ]
  },
  "cuspai-amsterdam": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://builtin.com/company/cuspai/jobs"
-   }
-  },
-  "count": 21,
+  "chosen": null,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.cuspai.com",
@@ -2497,28 +2504,16 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://builtin.com/company/cuspai/jobs"
+     "url": "https://www.cuspai.com"
     },
-    "ok": true,
-    "count": 21,
-    "sample": [
-     "Partnerships Manager",
-     "Product Marketing Lead",
-     "Technical Program Manager (AI/ML)",
-     "Scientific Software Engineer (Lab Integration)",
-     "Security Engineer"
-    ]
+    "ok": false,
+    "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cuspai.com/\nCall log:\n  - navigating to \"https://www.cuspai.com/\", waiting until \"networkidle\"\n"
    }
   ]
  },
  "cuspai-cambridge": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://builtin.com/company/cuspai/jobs"
-   }
-  },
-  "count": 21,
+  "chosen": null,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.cuspai.com",
@@ -2532,17 +2527,10 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://builtin.com/company/cuspai/jobs"
+     "url": "https://www.cuspai.com"
     },
-    "ok": true,
-    "count": 21,
-    "sample": [
-     "Partnerships Manager",
-     "Product Marketing Lead",
-     "Technical Program Manager (AI/ML)",
-     "Scientific Software Engineer (Lab Integration)",
-     "Security Engineer"
-    ]
+    "ok": false,
+    "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.cuspai.com/\nCall log:\n  - navigating to \"https://www.cuspai.com/\", waiting until \"networkidle\"\n"
    }
   ]
  },
@@ -2639,31 +2627,10 @@
   ]
  },
  "datin-karlsruhe": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://www.arbeitnow.com/jobs/companies/datin-gmbh"
-   }
-  },
-  "count": 10,
+  "chosen": null,
+  "count": 0,
   "pages": [],
-  "tried": [
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.arbeitnow.com/jobs/companies/datin-gmbh"
-    },
-    "ok": true,
-    "count": 10,
-    "sample": [
-     "Resigning your job in Germany",
-     "econex verkehrsconsult GmbH Jobs",
-     "cbs Corporate Business Solutions GmbH Jobs",
-     "Quantum-Systems GmbH Jobs",
-     "BRÜGGEN ENGINEERING GmbH Jobs"
-    ]
-   }
-  ]
+  "tried": []
  },
  "differ-eindhoven": {
   "chosen": {
@@ -3102,10 +3069,11 @@
   "chosen": {
    "type": "generic_render",
    "params": {
-    "url": "https://jobs.breega.com/jobs/4582598-materials-scientist-ml-for-synthesisability-entalpic"
-   }
+    "url": "https://www.entalpic.ai"
+   },
+   "zero_at_discovery": true
   },
-  "count": 2,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.entalpic.ai",
@@ -3128,14 +3096,11 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://jobs.breega.com/jobs/4582598-materials-scientist-ml-for-synthesisability-entalpic"
+     "url": "https://www.entalpic.ai"
     },
     "ok": true,
-    "count": 2,
-    "sample": [
-     "Materials Scientist - ML for synthesisability @Entalpic",
-     "Skip to main content"
-    ]
+    "count": 0,
+    "sample": []
    }
   ]
  },
@@ -7540,12 +7505,13 @@
  },
  "naura-beijing": {
   "chosen": {
-   "type": "generic_render",
+   "type": "generic",
    "params": {
-    "url": "https://campus.niuqizp.com/job-vYl5zMZ5C.html"
-   }
+    "url": "https://www.naura.com/"
+   },
+   "zero_at_discovery": true
   },
-  "count": 1,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.naura.com",
@@ -7568,13 +7534,10 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vYl5zMZ5C.html"
+     "url": "https://www.naura.com"
     },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "查看更多分享"
-    ]
+    "ok": false,
+    "error": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.naura.com/\", waiting until \"networkidle\"\n"
    }
   ]
  },
@@ -8207,13 +8170,7 @@
   ]
  },
  "oriental-xingang-ic-shanghai": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://xjic.zhaopin.com"
-   },
-   "zero_at_discovery": true
-  },
+  "chosen": null,
   "count": 0,
   "pages": [
    {
@@ -8228,11 +8185,10 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://xjic.zhaopin.com"
+     "url": "unknown"
     },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "ok": false,
+    "error": "Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n  - navigating to \"unknown\", waiting until \"networkidle\"\n"
    }
   ]
  },
@@ -8735,13 +8691,7 @@
   ]
  },
  "phasetree-denmark": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://thehub.io/startups/phasetree"
-   },
-   "zero_at_discovery": true
-  },
+  "chosen": null,
   "count": 0,
   "pages": [
    {
@@ -8773,15 +8723,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.phasetree.ai/careers/ai-scientist-generative-modeling-of-inorganic-materials"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://thehub.io/startups/phasetree"
     },
     "ok": true,
     "count": 0,
@@ -10048,12 +9989,13 @@
  },
  "shanghai-ai-lab": {
   "chosen": {
-   "type": "generic_render",
+   "type": "generic",
    "params": {
-    "url": "https://campus.niuqizp.com/job-vYU5NZCZn.html"
-   }
+    "url": "https://www.shlab.org.cn/joinus"
+   },
+   "zero_at_discovery": true
   },
-  "count": 1,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.shlab.org.cn/joinus",
@@ -10124,24 +10066,23 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vYU5NZCZn.html"
+     "url": "https://www.shlab.org.cn"
     },
     "ok": true,
-    "count": 1,
-    "sample": [
-     "返回校招职位列表"
-    ]
+    "count": 0,
+    "sample": []
    }
   ]
  },
  "shanghai-university-mge": {
   "chosen": {
-   "type": "generic_render",
+   "type": "generic",
    "params": {
-    "url": "https://campus.niuqizp.com/job-vk85tz5NL.html"
-   }
+    "url": "https://www.shu.edu.cn/"
+   },
+   "zero_at_discovery": true
   },
-  "count": 1,
+  "count": 0,
   "pages": [
    {
     "url": "https://www.shu.edu.cn",
@@ -10164,24 +10105,16 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vk85tz5NL.html"
+     "url": "https://www.shu.edu.cn"
     },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "查看更多分享"
-    ]
+    "ok": false,
+    "error": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.shu.edu.cn/\", waiting until \"networkidle\"\n"
    }
   ]
  },
  "shanghai-yuwei-semiconductor": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://campus.niuqizp.com/job-vUyNLNz5M.html"
-   }
-  },
-  "count": 1,
+  "chosen": null,
+  "count": 0,
   "pages": [
    {
     "url": "unknown",
@@ -10195,13 +10128,10 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vUyNLNz5M.html"
+     "url": "unknown"
     },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "查看更多分享"
-    ]
+    "ok": false,
+    "error": "Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n  - navigating to \"unknown\", waiting until \"networkidle\"\n"
    }
   ]
  },
@@ -10680,13 +10610,7 @@
   ]
  },
  "sixonia-tech-dresden": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://jobboerse.htw-dresden.de/companies/sixonia-mnkyuoj8t-dresden-de/"
-   },
-   "zero_at_discovery": true
-  },
+  "chosen": null,
   "count": 0,
   "pages": [
    {
@@ -10701,22 +10625,16 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://jobboerse.htw-dresden.de/companies/sixonia-mnkyuoj8t-dresden-de/"
+     "url": "https://www.sixonia.tech"
     },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "ok": false,
+    "error": "Error: Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://www.sixonia.tech/\nCall log:\n  - navigating to \"https://www.sixonia.tech/\", waiting until \"networkidle\"\n"
    }
   ]
  },
  "skyverse-shenzhen": {
-  "chosen": {
-   "type": "generic_render",
-   "params": {
-    "url": "https://campus.niuqizp.com/job-vsl5aL5ta.html"
-   }
-  },
-  "count": 1,
+  "chosen": null,
+  "count": 0,
   "pages": [
    {
     "url": "unknown",
@@ -10730,13 +10648,10 @@
    {
     "type": "generic_render",
     "params": {
-     "url": "https://campus.niuqizp.com/job-vsl5aL5ta.html"
+     "url": "unknown"
     },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "查看更多分享"
-    ]
+    "ok": false,
+    "error": "Error: Page.goto: Protocol error (Page.navigate): Cannot navigate to invalid URL\nCall log:\n  - navigating to \"unknown\", waiting until \"networkidle\"\n"
    }
   ]
  },
