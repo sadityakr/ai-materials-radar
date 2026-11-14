@@ -1,9 +1,9 @@
-# Run 2026-11-14T01:51:12Z
+# Run 2026-11-14T02:15:42Z
 
-Employers: 183. Read OK: 162. Failed: 0. Suspect zero: 0. No source: 21.
-Open postings tracked: 13341. New this run: 13341. Closed this run: 0. Reopened: 0. Candidates after pre-filter: 1804.
+Employers: 183. Read OK: 160. Failed: 2. Suspect zero: 0. No source: 21.
+Open postings tracked: 13341. New this run: 0. Closed this run: 0. Reopened: 0. Candidates after pre-filter: 1792.
 
-Readers in use: generic 86, generic_render 35, eightfold 7, personio 6, greenhouse 4, ashby 4, smartrecruiters 3, oracle 3, workday 3, lever 3, sitemap 2, recruitee 2, sf_csb 1, icims 1, phenom 1, zeiss 1
+Readers in use: generic 84, generic_render 35, eightfold 7, personio 6, greenhouse 4, ashby 4, smartrecruiters 3, oracle 3, workday 3, lever 3, sitemap 2, recruitee 2, sf_csb 1, icims 1, phenom 1, zeiss 1
 
 | Employer | System | Status | Postings | Candidates | Note |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@ Readers in use: generic 86, generic_render 35, eightfold 7, personio 6, greenhou
 | Analog Devices (Limerick wafer fab) | generic_render | ok | 0 |  |  |
 | Applied Materials (Santa Clara and Sunnyvale) | generic | ok | 3 | 3 |  |
 | ARCNL (Advanced Research Center for Nanolithography) | generic | ok | 4 | 1 |  |
-| Argonne National Laboratory (CNM, APS, Polybot, Aurora) | generic | ok | 0 |  |  |
+| Argonne National Laboratory (CNM, APS, Polybot, Aurora) | generic | failed |  |  | ReaderError: HTTP 403 https://www.anl.gov/ |
 | ASM International (ASM) | greenhouse | ok | 527 | 115 |  |
 | ASML | sitemap | ok | 815 | 72 |  |
 | ASML US (Wilton CT and San Jose) | sitemap | ok | 815 | 72 |  |
@@ -54,7 +54,7 @@ Readers in use: generic 86, generic_render 35, eightfold 7, personio 6, greenhou
 | Dunia Innovations | personio | ok | 3 | 1 |  |
 | Empa (Swiss Federal Laboratories for Materials Science and Technology) | - | no_source |  |  |  |
 | Entalpic | generic_render | ok | 0 |  |  |
-| ESMC (European Semiconductor Manufacturing Company, TSMC JV) | generic | ok | 7 | 3 |  |
+| ESMC (European Semiconductor Manufacturing Company, TSMC JV) | generic | failed |  | 3 | ReaderError: HTTP 403 https://careers.tsmc.com/en_US/careers |
 | EV Group (EVG) | generic | ok | 10 | 4 |  |
 | Evonik Industries AG | generic | ok | 16 | 1 |  |
 | Ferroelectric Memory Company (FMC) | personio | ok | 4 |  |  |
@@ -126,7 +126,7 @@ Readers in use: generic 86, generic_render 35, eightfold 7, personio 6, greenhou
 | NIST (Gaithersburg MD and Boulder CO) | generic | ok | 68 | 38 |  |
 | Norsk Hydro (Innovation and Technology, aluminium extrusion R&D) | generic_render | ok | 8 |  |  |
 | NPL (National Physical Laboratory), Data Science and AI | generic | ok | 13 |  |  |
-| NVIDIA (ALCHEMI, AI for materials and chemistry) | eightfold | ok | 2691 | 661 |  |
+| NVIDIA (ALCHEMI, AI for materials and chemistry) | eightfold | ok | 589 | 649 |  |
 | Onto Innovation | generic | ok | 0 |  |  |
 | Orbital Materials | ashby | ok | 7 | 1 |  |
 | Osium AI | generic_render | ok | 5 | 2 |  |
