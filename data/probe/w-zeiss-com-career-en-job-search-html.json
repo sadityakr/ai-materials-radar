@@ -10,23 +10,17 @@
    "type": "text/html; charset=UTF-8"
   },
   {
-   "url": "https://dci-assets.zeiss.com/solution-apps/loader.aem/prod/versions/latest/solution-app-loader.js",
+   "url": "https://www.zeiss.com/bin/core/cached/services/crisis/content.json?context=/content/chr/international/website/en/job-search",
    "method": "GET",
    "status": 200,
-   "type": "application/javascript"
+   "type": "application/json;charset=utf-8",
+   "preview": "[]"
   },
   {
    "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.all.lc-8e2ed02d6c5fed6166224667e6b27ead-lc.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/bin/core/cached/services/crisis/content.json?context=/content/chr/international/website/en/job-search",
-   "method": "GET",
-   "status": 200,
-   "type": "application/json;charset=utf-8",
-   "preview": "[]"
   },
   {
    "url": "https://www.zeiss.com/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
@@ -42,13 +36,13 @@
    "preview": "{\"country\":\"US\",\"session_info\":{\"valid\":false,\"expires\":\"\",\"client_state\":\"\",\"created\":\"\",\"last_login\":\"\",\"exists\":false},\"language\":\"en\"}\n"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/93476.e9408db1b375018c.chunk.js",
+   "url": "https://dci-assets.zeiss.com/solution-apps/loader.aem/prod/versions/latest/solution-app-loader.js",
    "method": "GET",
    "status": 200,
-   "type": "text/javascript"
+   "type": "application/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/77186.7130b399ef80fac9.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/Header.4d340a6fc70b6f6f.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
@@ -60,37 +54,7 @@
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/18321.fdf0b1736172e0e4.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/92820.ecef74dc19beb9bc.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/90836.621a507abcbb7e15.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/EventCalendar.b693d78dbfaa3baa.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/Header.4d340a6fc70b6f6f.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/38515.097f282321523a83.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/77186.7130b399ef80fac9.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
@@ -102,13 +66,31 @@
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/44997.b5223f7ec2c69c4f.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/74183.ebf77e0fcc60f629.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/19628.dea030c10b570253.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/18321.fdf0b1736172e0e4.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/95635.856c20d2ace34ec1.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/58226.a4633d1b59dd49f2.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/57298.b0c12aecee86220a.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
@@ -126,19 +108,31 @@
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/57298.b0c12aecee86220a.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/93476.e9408db1b375018c.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/components.9aaacd8c6cc6cbf2.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/19628.dea030c10b570253.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/95635.856c20d2ace34ec1.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/90836.621a507abcbb7e15.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/92820.ecef74dc19beb9bc.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/57112.74ebd5a71d8df0ad.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
@@ -150,25 +144,31 @@
    "type": "text/javascript"
   },
   {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/EventCalendar.b693d78dbfaa3baa.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/44997.b5223f7ec2c69c4f.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/38515.097f282321523a83.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
    "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/TextBlock.71faae50f250c1e4.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
   },
   {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/74183.ebf77e0fcc60f629.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/58226.a4633d1b59dd49f2.chunk.js",
-   "method": "GET",
-   "status": 200,
-   "type": "text/javascript"
-  },
-  {
-   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/57112.74ebd5a71d8df0ad.chunk.js",
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/components.9aaacd8c6cc6cbf2.chunk.js",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
@@ -192,22 +192,22 @@
    "type": "text/javascript; charset=utf-8"
   },
   {
-   "url": "blob:https://www.zeiss.com/ef0d4df6-b303-41e5-b024-a45ff155e64c",
+   "url": "blob:https://www.zeiss.com/7a4a1e30-2ce0-464c-b602-dacd0b4cb5a6",
    "method": "GET",
    "status": 200,
    "type": "text/javascript"
-  },
-  {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/91217.d7599520.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript"
   },
   {
    "url": "https://eu.api.fpjs.io/DwmA/JNZ1Dz7/7?q=jNuzi3DMR5z6Ri3Aps4E",
    "method": "GET",
    "status": 200,
    "type": "text/plain; charset=utf-8"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/91217.d7599520.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
   },
   {
    "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/30143.2025e671.js",
@@ -228,21 +228,15 @@
    "type": "application/javascript"
   },
   {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/23355.18846d65.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript"
-  },
-  {
    "url": "https://eu.api.fpjs.io/?ci=js/4.1.6&q=jNuzi3DMR5z6Ri3Aps4E",
    "method": "POST",
    "status": 200,
    "type": "application/json; charset=utf-8",
-   "post": "����\u0011��E֓9\u0011\u0015�\u001b����J�-\tdL����C'E\u0014\u0014�`� ^�Px���*\u0012T �\u0019i�N�L5pBR,����9���20\u0013\u0004�Fs�F[�N��\u001a\u001a��#n�JS�e>ԫp&\"��H\u001a.�\u0010\f�������GT��\u0011��� \u0000a\u001a�\u001d�H���\b\u0012(�iC勺j%�kp�\u0003<��*��{m���O���Y�<�\u0006���|f�w�~+f�0!�F�N}�\f�;����\\T6�I\f��p��\u0011?c����4Ҧr9���J�\u0012_8��`/\u0016�y�^�t/��1r��:y\u0013�\u0001\u0000�x�b���(&!n�\t����P��!O�\u001fܟ>��\u0010��f��=1e��K��_i\u001day�古�_Q�J����\u001e\u0019��d\u0006!��� ����\u001a\u0016��g`o�$�Yvc\u0006J�C�\u0012�z0H�l\u0013��q�dņ����f��\u0015�t��(�S\\TU\u0006\u0002�z\u0000\u001eb�g��\u0000sݐL�/Z�'�\u0011�|=n�ըI�\u0017\u001c�\u0010m֪\"�!\u0015�*\u001d�$zZ\u001c\u0014`_��\u0002M�S��7��\u001c\f8�5;%�����8 ���k�UƢ��F�z�A}b8&4&:�}��_��E�(���>C΢?g��~]��j��h���JeO �8\"�Ґ�¿8��(�C1�\u0013�\u0016\b�ʹC�\u001aS\u001a\u0004�\u000fW�5�A%�\u0014�%\u0017m��q\u0016���n�S�\u001e����&�7�D*k�\u001f���x|����HT\u0019\u0017��,�\u001c{�M)��p��ϓ\b���~Dv\u001b%��\n�\u001c�\rd5I��\u000f�\t�l/\u001c��ĭ�;2\u0013���2_E\u000b+S͙i\u0000�\u0004�f�$�j��u~NQF{��|�=Y�Qn�Y�ct:�S��U��\u0015\t���W6P<s!\r��<ڃ\fBa�=�\bW\u0012�}���\u00057]&m��\u001b�8y`�J��2}��H[���d�Q��:�\u0011�R��\u0019�TM]�[����e���F� V\u0006Qp\u0003E:�\u001b\u0003\u0005��\n����g 9�g̾xC���p",
-   "preview": "{\"version\":\"4\",\"event_id\":\"1794618304339.4i7aMp\",\"sealed_result\":null,\"visitor_id\":\"3Ix0CKzxjmDSwD1YYggX\",\"internal\":\"6+74+nwVlc5rv8yL90S2oefWeqI62UboCN6jwtkYry+bYarMsP1Oti2NZvyZ4JZIgX+FcZeSttZImDKOb6f68ttdgTejXa7Vq5AVlDe/ZO2R8uN3lxWZTp/Pp5dYlB6ORe7Vm81wnQyiWrr3i/YJrDzHeq7SmOkJ9g2kSeOe4I4YtymcYbjKocNOsCmGe/yZmf9H\"}"
+   "post": "{~�{(�����B�����P#�����i��*��|�`����,�\u0000o.+X�+�\u000b�)zQ�\u0003�n��\u0003�RJ�\u000b�L�R~���P�ب���,�\"s�T�\t8j@U����v\f���\u001e@\u001d<���E�}�\u0018|l ��\"\u001e��\u0003�\u0016�\u0002ӯȪ0Y�!�����\u001fy��ZN��\u0017:\u001b�8�s�CKNVn�W��z\\\u0000Bk�\u000f��P�>tϬ,4�b\u0012\u0014�,9BB�O�}����eZ�MMFF]���P����\r�\u0002�\ne<M���d+C��W��i%>h;��\"�Oe\u000f\u001fԯƫ\u0005AF0�%}��]A��\u0007=+�\r�#T?�\bD�+�5t\t\u001fqZh\u0016|/}���c�p��̩���\u0010cc\u0010�\u000e�\b��B^ޓG_,��6\u001bf\u001c\u0005\u0018$���Ն��\u0017\"�\u0018:�ҭ>��6B��9��ng�i'oT\u0010-;�\u0013|��\u001a�\u0001��X#'s�\u0007��\u0006W��N�O����T�(\u000f���{$nZ�R_tk\u001b\u0006��t�:�ޛ\u0003���h\u000b.՚_=8�A5#Q��G�0�(mA�s!V͸���(�ϝ�5X����<2CX����\u0018��P��\u0004����X��\u0007��%ZfTmV\u000e�\u0018���B�v�N\rX�\\�\u001a������~�sRR��@Fo���\u001f\u0014\u0019j��R�\u0011�i���kӡ76D�)�F\u0003.���<�\u0001��;�M�\u0019W�\u0012�w���bk���Z��\u001b\u0016��\u0002}�\u0007��G��\"޸!��\n�i\u0014d;���R)��C��$.��\t\t�.\u0015�ٸ��\"�>��\u0018��ˈFB�^k�x�0�\u001f���\u001eK�\u0010�cd\u0018\u0002W�\u001b��n�)�_��<,[��#ݢ\u0011\u0013\u0006\t� �;��\u0017�0ߜ\u0000�\u001d7!i\u0014\u0018$suR��svV����U���ڭ�\u0010�~\u001b��l�=ݚ*\u0011���m\u001a��xk\u001c��2�A���y�ِ߱(�K��\u0000���Ж(\u0006?qKd�J�?�Fv,X�\u0015�� �G�2Z$2\b}l\f�G�5�`�\u0007e�~�Nn�z�O�\u000fM���8&눮���jL�\u001a�\u0010\" c�\u001b�T�ay\u0011\u00029O�� \u0017��|b�$���\u0014��zla�\u0001,w\u0003�����t\u0014'��?�Y*�� |8\u0006����$�_�h�|\u000e2\u001b��\u0013�nb��;\u0012v�\b.�zP\u001a\u0016�H�\u0013\u0019���XD-�,���v��R?����_�k��\u0003+>��X���\u001aH8�������g�k��\u0003\u000bwc�\u001d�Ov�C��Jr�V\\\u0002�~��H���\u0015#\u0011�\\@\u000b��,\u0005��\u0005�>�T��U�F��p�\fq�\u0014������|7�2��L@��>\u0002�\t,��G�<�EPV���?=�\u0017wW�\b�#kj��\"n~��t�{�5���}�&�pK:\u0019���J�q\nrX��D�90#�m�}\u0002�>\u0012\t�ON;�[�B\u0007�HvV�\u0004\u0000=�C�͖��3���j�I���dαZ�8�\u0006DަY��w\u0016M}�jf��?�Y����l�@�\u001cH\u0007\u001dU$�:��\u001c\u0013��~�ô�O\u0013�9RIؠ���\u0018\u0003��&��]�vo\n��\u0010�5��nv-��\u000e�$�d�E��V\tB�����, �h��\u001f54pF�\u0015p�B7�\n�&ima\u000e�(��\t\u0005�%\f��{�U�\u001c��\u001dS\u000b�\u001f���/�/CS�3\u0016?Y�\u0011\u0017�\u001b�Ω\u0003%)�4��s���O\u0000��gN��������67 }\t\u0007AM��\"(�i8��@n/3��l�\u0003����m�p8o��\u0017\n���Ș���+�/V\u0017H[�&:���%\u0018���Y�mԖu\u000f\u0016���:ֶ��\u001b\u001394��tr��r\u0019=e���O�jVB��\u0017Z�\u0007��L����T�s!��fm��\u001dKԠ��̷��x��H�Q.��G��\u001d�d��ţ�\u0004|Y�C���-��Mm*:����@\u001a+��qQ�\u0018_��d�t���@�:`���]<�0�z\u00001u��@\u0002����RB|sE�#���a�\u001eK�Ӣ�0�\u001e�\fK|�\u001f�\\��\\/\u0011��˻�&�劮�`'\u000f[�&�}��op������f�SQٳ��.�lu�q�T\u0004.i\u000eWQj���9\u00067`\u0006�R�0\b2\u0013A`ODr\u000e\b���gx�Ҋ\ns+\r\u000b�_���5C3}���j�\u0003�J\u001c91���\u0019\u000e�F&���)w\u000f_�\r�Y�o\u0004�+�5\u0000U��\u0015-����Câ\u0017�:�\u0000������äd��d�r�t�2N���\u000f�r�fT� z����\u000e=5��\u0012]Q_�\u0007\u0007х�M\u0015�OŰC~�S.&\\�'T\u0016\u000f&ߛ���j��zp���psi�\u0001��_�8�^�\u0006@:޴�m�\u0003�e��\u001d�`��*�뀆�s\u0000-����Mk��\u0001KA\u0010�����iFϻ@�X�E�eGbv��|'^�\u000b5�[\u0014\u001f����U��Ͻ7���\u0011\u0007�;D%��!��8\b��\u0005,�\u001d�q�����I{4��\u0018�\u0014I�{�@�\u001a�M\u001b'S-@�q{�a�QwВ߮ݎ\u001c1F�=�/�P�9���L�0�\u001flY�f�`+6w�\u0014���MO(���q;(�e+R���Z\r��\b�\u0004�[�IZ��[_\n�V����X?\u0014���D\\��t�}7�Yk��\"�S���\u001b��30k���7Ȑ�;;#\u0002¤ޚ�D�����\u0018\u000bۼ�I�!�3�=\u0014=\u0005��Qt��[UM�k#���s�!\u0000��\u00138B!Y6\u0016��\u000b!��Y���u\u0019\u001fY%�7dW,:�^\r�\u0006&��q�mᜱm��FOq�d��\u0007�h�\u0017E�����\u0006uH`Z7t'g\u000fp\u0013�ҋ��`0�\u000e�:�K\u0013\u001beׁ���\u0001:�n7<�\\\u000bo#X�4\u0003:]\u00133j(1Zf�\u0018RM�\u0019Pt�'�\u001c&v\ti �g<�l�A�9��gc����N�\u0017z� 5�R�E����w\u0010\u0001�;�\u0013\u000b�@w��Ұc��x�m=}���[{�����\n0�f��Ի�S��q{[\u0014\u000f�,����D5�h�\b�,�@좣n\u0003�m�\u0002ݙ\u00137\bD\r\u0011���0�5(��0�\u0004�>\u0007�\u000b#ZC��.\u0016���o�Y\u001fX�ٔ��3��W�;�m�V�6��[�z�\"���\u0012��n����Y��Nn\u0014,\u0001�?%`y#y\u0019x7#孞\u0000rFh��i\u001dD���O��\u0017�z3�q�����C\f����W��\u001cC+?�uv��\u0019�F)�\u0004v��j5k\u0011��9e�F�,�\u001f��\t��\r�\u0015\u001dޖ�YaѦ��=o�\u001f�\u0007�6[L\u0006���D,\t�\f�\u0005���Rx{c�ZDx��\u000b�x$��R�\u000f�\t\b�g�L����r�\u001fRb�!s��\f�����g\u0010�o��\u0013\u000b�wՊ1�\\\u0011T�n3^Q��z\u001e4�\u000b4��2#k/�d\u001cWU\u0004\"�\u0011����O-J5�>69\u0000g�!�u\u0012\u001dI�\u0015h_J����\u0005�5���7Rԉܒ��¯���>�v�UTë\u001d\\�r\u001d��\u0018�@~��U�b\u0012�_Y�~���Oqy�+\u0004)�]\u001fA\u001f!\u000e\u001f\u001d�O#�t��1Z\f\u0017\u001e��d!母�A�B!�@{�6��C\u001a�Si�|��T���>O��\u0013�x�(\u0014�o{ҽ�\u0012�\u0014�� Q�P8虐\u0019\u001c�*���X�v;{\u0000^��4\u0002�����|4j��;��6V!\u000e\u00045\u00170�@�h�f�\u0002w�^a��x�43��_�%czA�11��uD=\n�w}��˛�4����<�ժU\nz����M�rs/��;��&���j0�\u0007�ӽ�۠\u0013��Kε-�\"\u0011N�r��i�Qmw���E^-0�빙\u0012�\u000b4�'���\\x5\u0004D�J��2��\u000b��\u000e�\u0015\u0018��C�\u0016�[&����U\u001067\u000fތH�h0f��ݨO�`�pA����7<��_-Vj�Rο\u0000\u000eJH���A�^W��ll��<����~\u0018\u001d)Mi�g�_WڙmG����\u000f��ԉT\u0019�Te�ƈ���gr��gc\fA��5H\u0007\u0007Npֳ~\u0014ǒ�I�O�\u0006�}Hp\u001e�W\u0007�v^u��m\u0006��#��/$\u0010T�V��F\u0006n\u0015\u0017�\u0001�\u0019ݷIK�&bM\b��OGV�Cm�\\.5��y�/��\u0000\u0006�\u0014�{�{m�p9 �\u0013�\u001b����+�\u0018�Ư]1С�\\\u0014���rX��R���.�30���GQ�V�\u0012\f�4�\u0010�\u001a��p\u0010ˉ�\u0004���-\r(�\u0013�^\b��@\u0012z����M����\u0018���p�\u0015Jh�Q���\u0014r�Ҿ�\b�t�\u0016\u0014Iq���%k�3|�,?Ր�p�{��M^�����\u0019�u\u0010}8ӁI�� \u000br\"�ZBbA\u000e� m&�s\u0001�u�:�.��L�\u0000�(P#+z���~1\u0001\u0014��ͦ�\u001a\u0012�:�<J�\u0015���'�\"5�\u001b�W\u0010v��K�\u0017\u0019�\u001a&b����{���QTf�\u0005��<��U�t\u001b�\\.�\u001c��k�����ي[��8�s,TMz�gBM����\u0010O��?v�/B\u0015�/�q\u0001q*�\u0016�$�r�\u0013�OO\u0005#�J��Y�\u0010��wꢅ棻�p��\u0004\u0003,2\u001bX�Ͻdm�a�O���,X��\u001d��]\u0006m\u001c�\u0004y\u001am\u0003��C�M�W��t�\u0018�M�\u0019^\u0007Y)\r�\u001eESV�%\u001dRi��c��.��\u0017\u0000.*�\u0017$\u0007�'�B\u001fOʋ�W,+��:��Ҁcu�ਣd��:a�8\u000e.",
+   "preview": "{\"version\":\"4\",\"event_id\":\"1794618504492.iCj8ga\",\"sealed_result\":null,\"visitor_id\":\"3Ix0CKzxjmDSwD1YYggX\",\"internal\":\"io2XtbnLtn2gxASVzRLIrBuRoj4d6Qf9U0jRzcXMqzUYpvXKj7NRqIHPCVL6S8VM4ZntlzqaA3Q3w++E5FPubAYTlfaG8lS4OVZ7tN7b+UDAR0EUmfeYuELyZxgljuChzQLKRRc/h+Gc3mCjUxM6jdDVp33WeT94rdigxn21QSEZuNCl5FvXWjENm9PUwgnzWgQWueDVo0/4eUUitKyi4kvcbFs6rdCP/H2xWhgcl6681Gv4NxEvk82J8WunPlZgw/eC41P8ahctlfCC+Um4OS8RnA==\"}"
   },
   {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/92817.b097281f.js",
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/23355.18846d65.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript"
@@ -260,12 +254,18 @@
    "type": "application/javascript"
   },
   {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/92817.b097281f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
    "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
    "method": "POST",
    "status": 200,
    "type": "application/json",
-   "post": "{\"operationName\":\"xSBUGetJobCategories\",\"variables\":{},\"query\":\"query xSBUGetJobCategories($role: String, $keyword: String, $locations: [String], $jobTypes: [String]) {\\n  xSBUGetJobCategories(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    jobTypes: $jobTypes\\n  ) {\\n    key\\n    label\\n    __typename\\n  }\\n}\"}",
-   "preview": "{\"data\":{\"xSBUGetJobCategories\":[{\"key\":\"Administration & Support Services\",\"label\":\"Administration & Support Services (154)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Content Management & Creative Design\",\"label\":\"Content Management & Creative Design (1)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Customer Service\",\"label\":\"Customer Service (118)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Data Management & Business Intelligence\",\"label\":\"Data Management & Business Intelligence (6)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Engineering\",\"label\":\"Engineering (103)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Environmental Health & Safety\",\"label\":\"Environmental Health & Safety (7)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Executive Management\",\"label\":\"Executive Management (2)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Finance\",\"label\":\"Finance (20)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Human Resources\",\"label\":\"Human Resources (11)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Information Technology\",\"label\":\"Information Technology (109)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Legal, Compliance, Audit & Risk\",\"label\":\"Legal, Compliance, Audit & Risk (12)\",\"__typename\":"
+   "post": "{\"operationName\":\"XSBUGetGroupedLocations\",\"variables\":{},\"query\":\"query XSBUGetGroupedLocations($role: String, $keyword: String, $jobTypes: [String], $categories: [String]) {\\n  xSBUGetGroupedLocations(\\n    role: $role\\n    keyword: $keyword\\n    jobTypes: $jobTypes\\n    categories: $categories\\n  ) {\\n    country\\n    locations\\n    __typename\\n  }\\n}\"}",
+   "preview": "{\"data\":{\"xSBUGetGroupedLocations\":[{\"country\":\"Australia\",\"locations\":[\"Caloundra\",\"Macquarie Park\",\"Melbourne\",\"Tonsley\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Austria\",\"locations\":[\"Graz\",\"Wien\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Belgium\",\"locations\":[\"Leuven\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Brazil\",\"locations\":[\"Distrito Federal\",\"São Paulo\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Canada\",\"locations\":[\"Dorval\",\"Halifax\",\"Remote - CAN Quebec\",\"Toronto\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"China\",\"locations\":[\"Beijing\",\"Guangzhou\",\"Hangzhou City\",\"Jiangsu\",\"Shanghai\",\"Shenzhen\",\"Sichuan\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Colombia\",\"locations\":[\"Bogota D.C\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Croatia\",\"locations\":[\"Zagreb\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Czechia\",\"locations\":[\"Praha\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Denmark\",\"locations\":[\"Birkerød\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"France\",\"locations\":[\"Besançon\",\"Fougères\",\"Perigny\",\"Rueil-Malmaison\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Germany\",\"locations\":[\"Aachen\",\"Aalen\",\"Berlin\",\"Braunschweig\",\"Coswig\",\"Dresden\",\"Eggenstein-Leopoldshafen\",\"Göttingen\",\"Jena\",\"München\",\"Oberkochen\",\"Rossdorf\",\"Wetzlar\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Hong Kong (S.A.R.)\",\"locations\":[\"Hong Kong Shatin, N.T.\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Hungary\",\"locations\":[\"Budapest\",\"Mátészalka\",\"Miskolc\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"India\",\"locations\":[\"Bangalore\",\"Bhubaneshwar\",\"Chandigarh\",\"Chennai\",\"Delhi\",\"Gurugram\",\"Hubli\",\"Hyderabad\",\"Indore\",\"Kolkata\",\"Mumbai\",\"Nasik\",\"New Delhi\",\"Pune\",\"Ranchi\",\"Salem\",\"Vadodra\",\"Vijayawada\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Indonesia\",\"locations\":[\"Jakarta\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Italy\",\"locations\":[\"Castiglione Olona\",\"Milano\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Japan\",\"locations\":[\"Chiyoda-ku\",\"Fukuoka-shi\",\"Izumisano-shi\",\"Nagoya-shi\",\"Suita-shi\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Korea, Republic of\",\"locations\":[\"Busan\",\"Changwon\",\"Cheongju\",\"Daegu\",\"Gwangju\",\"Hwaseong\",\"Seoul\",\"Yongin\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Malaysia\",\"locations\":[\"Petaling Jaya\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Mexico\",\"locations\":[\"México D.F.\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Netherlands\",\"locations\":[\"Breda\",\"Zuidland\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"New Zealand\",\"locations\":[\"Auckland\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Philippines\",\"locations\":[\"Muntinlupa City\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Poland\",\"locations\":[\"Poznan\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Portugal\",\"locations\":[\"Lisboa\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Romania\",\"locations\":[\"Bucharest\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Singapore\",\"locations\":[\"Singapore\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Sweden\",\"locations\":[\"Stockholm\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Switzerland\",\"locations\":[\"Feldbach, CH\",\"Zurich\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Taiwan (Region)\",\"locations\":[\"East District\",\"Lingya Dist\",\"West Dist.\",\"Xinshi Dist\",\"ZhongShan District\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Thailand\",\"locations\":[\"Bangkok\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Türkiye\",\"locations\":[\"Ankara\",\"Bursa\",\"Istanbul\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"United Arab Emirates\",\"locations\":[\"Dubai\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"United Kingdom\",\"locations\":[\"Birmingham\",\"Cambourne/GB\",\"London\",\"Lutterworth\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"United States of America\",\"locations\":[\"Blackwood\",\"Bloomfield\",\"Boise\",\"Chesterfield\",\"Dublin\",\"Hebron\",\"Hillsboro\",\"Huntersville\",\"Maple Grove\",\"New Britain\",\"Ontario\",\"Orlando\",\"Princeton\",\"Remote - USA AK\",\"Remote - USA AL\",\"Remote - USA AR\",\"Remote - USA AZ\",\"Remote - USA CA\",\"Remote - USA CO\",\"Remote - USA CT\",\"Remote - USA DC\",\"Remote - USA DE\",\"Remote - USA FL\",\"Remote - USA GA\",\"Remote - USA IL\",\"Remote - USA IN\",\"Remote - USA KS\",\"Remote - USA KY\",\"Remote - USA LA\",\"Remote - USA MA\",\"Remote - USA MD\",\"Remote - USA MI\",\"Remote - USA MN\",\"Remote - USA NC\",\"Remote - USA NH\",\"Remote - USA NJ\",\"Remote - USA NM\",\"Remote - USA NV\",\"Remote - USA NY\",\"Remote - USA OH\",\"Remote - USA OK\",\"Remote - USA OR\",\"Remote - USA PA\",\"Remote - USA SC\",\"Remote - USA TN\",\"Remote - USA TX\",\"Remote - USA VA\",\"Remote - USA WA\",\"Remote - USA WI\",\"Santa Ana\",\"Seabrook\",\"St. Cloud\",\"White Plains\",\"Wixom\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Vietnam\",\"locations\":[\"An Khanh Ward\",\"Dong Da District\",\"Ho Chi Minh City\"],\"__typename\":\"GroupedLocationsResponse\"}]}}"
   },
   {
    "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
@@ -273,7 +273,15 @@
    "status": 200,
    "type": "application/json",
    "post": "{\"operationName\":\"xSBUGetRoles\",\"variables\":{\"resultSize\":50},\"query\":\"query xSBUGetRoles($locations: [String], $jobTypes: [String], $categories: [String], $resultSize: Int) {\\n  xSBUGetRoles(\\n    locations: $locations\\n    jobTypes: $jobTypes\\n    categories: $categories\\n    resultSize: $resultSize\\n  )\\n}\"}",
-   "preview": "{\"data\":{\"xSBUGetRoles\":[\"(Senior) Data Engineer (f/m/d)\",\"(Senior) Electronic Engineer\",\"(Senior) Electronic Engineer - Firmware\",\"(Senior) Electronic Engineer - Hardware\",\"(Senior) Expert Foreign Trade (Export Control) (m/w/x)\",\"(Senior) Manager für Strategische Projekte (m/w/x)\",\"(Senior) Project Manager Photonic Integrated Circuit (m/f/x)\",\"(Senior) System Engineer Photonic Integrated Circuits (m/f/x)\",\"3D Metrologist\",\"AI Architect\",\"AI Business Expert Operations (m/w/x)\",\"AI Developer (m/w/x)\",\"AR Engineer\",\"Account Manager\",\"Account Manager - Chronic Disease Management\",\"Account Manager - Refractive and Intraocular lenses\",\"Account Manager I, CDM & SUR, MED, Vietnam\",\"Account Manager, Managed Vision Care\",\"Account Manager- Myopia Management\",\"Accountant (AP Specialist)\",\"Accounts Receivable Credit & Collections Specialist\",\"Algorithm Engineer\",\"Analista Contábil Senior\",\"Analista de Licitações Senior\",\"Analista de Marketing | Inteligência de Mercado\",\"Anlagen- und Instandhaltungsmechatroniker (m/w/x) - 1 Jahr befristet\",\"Application Development Engineer (f/m/x)\",\"Application Engineer\",\"Application Engineer (Mask Repair)\",\"Application Engineer (Photomask Optic)\",\"Application "
+   "preview": "{\"data\":{\"xSBUGetRoles\":[\"(Senior) Data Engineer (f/m/d)\",\"(Senior) Electronic Engineer\",\"(Senior) Electronic Engineer - Firmware\",\"(Senior) Electronic Engineer - Hardware\",\"(Senior) Expert Foreign Trade (Export Control) (m/w/x)\",\"(Senior) Manager für Strategische Projekte (m/w/x)\",\"(Senior) Project Manager Photonic Integrated Circuit (m/f/x)\",\"(Senior) System Engineer Photonic Integrated Circuits (m/f/x)\",\"3D Metrologist\",\"AI Architect\",\"AI Business Expert Operations (m/w/x)\",\"AI Developer (m/w/x)\",\"AR Engineer\",\"Account Manager\",\"Account Manager - Chronic Disease Management\",\"Account Manager - Refractive and Intraocular lenses\",\"Account Manager I, CDM & SUR, MED, Vietnam\",\"Account Manager, Managed Vision Care\",\"Account Manager- Myopia Management\",\"Accountant (AP Specialist)\",\"Accounts Receivable Credit & Collections Specialist\",\"Algorithm Engineer\",\"Analista Contábil Senior\",\"Analista de Licitações Senior\",\"Analista de Marketing | Inteligência de Mercado\",\"Anlagen- und Instandhaltungsmechatroniker (m/w/x) - 1 Jahr befristet\",\"Application Development Engineer (f/m/x)\",\"Application Engineer\",\"Application Engineer (Mask Repair)\",\"Application Engineer (Photomask Optic)\",\"Application Engineer Level II\",\"Application Engineer Mask Repair (f/m/x)\",\"Application Specialist\",\"Application/Technical Sales Engineer\",\"Applications Development - Diagnostics\",\"Applications Engineer\",\"Applications Engineer II\",\"Applications Engineer III\",\"Arbeitsplaner (m/w/x)\",\"Assembler\",\"Assembly Technician (m/w/x)\",\"Assembly Technician I\",\"Assistant Application Specialist\",\"Assistenz der Einheit & Sales Support Planetarien (m/w/x)\",\"Associate Manufacturing and Test Engineer\",\"Associate Product Manager\",\"Associate Test Engineer Lvl 1-CW\",\"Augenoptiker/in (m/w/x) befristet auf ein Jahr\",\"Ausbildung – Feinoptiker (m/w/x),  Beginn Sommer 2027\",\"Ausbildung – Feinoptiker (m/w/x), Beginn Herbst 2027\"]}}"
+  },
+  {
+   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"operationName\":\"xSBUSearchJobs\",\"variables\":{\"page\":1,\"pageSize\":20},\"query\":\"query xSBUSearchJobs($role: String, $keyword: String, $locations: [String], $jobTypes: [String], $categories: [String], $page: Int, $pageSize: Int) {\\n  xSBUSearchJobs(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    page: $page\\n    jobTypes: $jobTypes\\n    categories: $categories\\n    pageSize: $pageSize\\n  ) {\\n    totalJobs\\n    totalPages\\n    page\\n    pageSize\\n    resultCount\\n    jobs {\\n      jobRequirements\\n      jobRequisitionStatus\\n      jobFamilyGroup\\n      timeType\\n      title\\n      recruiters\\n      locationRegionStateProvince\\n      locationCountry\\n      primaryLocation\\n      jobFamily\\n      jobProfile\\n      isConfidential\\n      jobPostingSite\\n      status\\n      isRemote\\n      jobPosting\\n      workerSubType\\n      jobProfileHiringRequirement\\n      isEvergreen\\n      hiringManager\\n      jobRequisitionCostCenter\\n      jobRequisition\\n      jobRequisitionCompany\\n      jobDescription\\n      jobRequisitionID\\n      externalApplyURL\\n      startDate\\n      locationsGroup {\\n        country\\n        state\\n        region\\n        Location\\n        city\\n        __typename\\n      }\\n      __typename\\n    }\\n    __typename\\n  }\\n}\"}",
+   "preview": "{\"data\":{\"xSBUSearchJobs\":{\"totalJobs\":930,\"totalPages\":47,\"page\":1,\"pageSize\":20,\"resultCount\":930,\"jobs\":[{\"jobRequirements\":\"<p><span style=\\\"color:#000000\\\">Your profile:</span></p><br /><ul><li><span style=\\\"color:#000000\\\">Strong data modeling expertise: 5–7 years of cross-domain data modeling experience (Data Vault, dimensional, logical/physical) — ideally in a complex manufacturing or high-tech environment</span></li><li><span style=\\\"color:#000000\\\">Bridge between physics and data: Proven ability to collaborate with domain experts in manufacturing, development, or engineering and translate highly complex, physically grounded processes into robust data models</span></li><li><span style=\\\"color:#000000\\\">Turning poor data quality into an strength: Experience in systematic profiling, assessment, and cleaning of heterogeneous, historically grown data sources — you see data chaos as a design challenge, not a hurdle</span></li><li><span style=\\\"color:#000000\\\">Mastery of a hybrid tech stack: Hands-on experience with Trino (on-prem), dbt (transformation &amp; documentation), Apache Kafka (streaming), and Databricks (Delta Lake, Spark); know the strengths and limits of each tool</span></li><li><span style=\\\"color:#000000\\\">Seizing new technologies: Very good familiarity with state-of-the-art GenAI models and their reliable use to improve and accelerate daily work; also aware of their limits and safe-use requirements</span></li><li><span style=\\\"color:#000000\\\">SAP and supply-chain data competence: Familiarity with SAP data structures (MM, PP, SD, QM) as well as MES/SCADA or PLM data; experience integrating these sources into an analytical data platform</span></li><li><span style=\\\"color:#000000\\\">Data governance as a discipline: Embedding quality rules, lineage, and metadata from the outset in pipelines and models — governance is not overhead but part of good engineering</span></li><li><span style=\\\"color:#000000\\\">Communication strength at all levels: Ability to discuss complex data architectures clearly and purposefully with process engineers, management, and data scientists — in German and English</span></li><li><span style=\\\"color:#000000\\\">Senior mindset: Take independent architectural decisions, mentor less experienced colleagues, and demonstrate a pragmatic, solution-oriented approach even in the face of uncertain or poor data conditions</span></li></ul>\",\"jobRequisitionStatus\":\"Open\",\"jobFamilyGroup\":\"Data Management & Business Intelligence\",\"timeType\":\"Full time\",\"title\":\"(Senior) Data Engineer (f/m/d)\",\"recruiters\":\"Adrian Kahl\",\"locationRegionStateProvince\":\"Baden-Wurttemberg\",\"locationCountry\":\"Germany\",\"primaryLocation\":\"Oberkochen\",\"jobFamily\":\"Data Management\",\"jobProfile\":\"Data Engineer 3\",\"isConfidential\":false,\"jobPostingSite\":\"ZEISS External Career Site\",\"status\":\"Open\",\"isRemote\":false,\"jobPosting\":\"(Senior) Data Engineer (f/m/d)\",\"workerSubType\":\"Regular Employee\",\"jobProfileHiringRequirement\":\"JR_1052189 (Senior) Data Engineer (f/m/d) (Open)\",\"isEvergreen\":false,\"hiringManager\":\"Dr. Lukas Jahnke\",\"jobRequisitionCostCenter\":\"1003600 SMT-ID (Data Strategy & Enablement)\",\"jobRequisition\":\"JR_1052189 (Senior) Data Engineer (f/m/d) (Open)\",\"jobRequisitionCompany\":\"Carl Zeiss SMT GmbH\",\"jobDescription\":\"<p><span style=\\\"color:#000000\\\">ZEISS Semiconductor Manufacturing Technology​</span></p><p style=\\\"color:!important\\\"><span style=\\\"color:#000000\\\"> ​</span></p><p style=\\\"color:!important\\\"><span style=\\\"color:#000000\\\">Enabler for smaller, more powerful, and more energy-efficient microchips​</span></p><p style=\\\"color:!important\\\"><span style=\\\"color:#000000\\\"> ​</span></p><p style=\\\"color:!important\\\"><span style=\\\"color:#000000\\\">Working for tomorrow today. ​</span></p><p style=\\\"color:!important\\\"><span style=\\\"color:#000000\\\">Around 80 percent of all microchips worldwide are produced using ZEISS technologies. As the centerpiece of every electronically controlled system, they have become an integral part of our everyday lives – whether in smartphones, smart homes or smart factories. ZEISS is a technology leader in the field of semiconductor manufacturing equipment. With high-precision lithography optics, photomask systems and process control solutions, ZEISS enables the production of ever smaller, increasingly powerful, and more energy-efficient microchips, and thus plays a pivotal role in the age of micro- and nanoelectronics.</span></p><br /><p><span style=\\\"color:#000000\\\">Your role:</span></p><ul><li><span style=\\\"color:#000000\\\">Conceptualization, implementation, and further development of data models that seamlessly link development, manufacturing, SAP, and supply-chain data</span></li><li><span style=\\\"color:#000000\\\">Translating physical and process requirements into robust, traceable data models (OLAP/OLTP, Data Vault, dimensional modeling)</span></li><li><span style=\\\"color:#000000\\\">Collaboration with process and domain experts to clarify definitions, thresholds, quality rules, and compliance requirements</span></li><li><span style=\\\"color:#000000\\\">Design and implementation of data governance, quality checks, metadata management, and lineage tracking</span></li><li><span style=\\\"color:#000000\\\">Implementation of production data pipelines (ETL/ELT) via Kafka Streams, dbt transformations, and on-prem (notably Trino) as well as cloud environments (notably Databricks) using CI/CD (Quality Gates, automated tests)</span></li><li><span style=\\\"color:#000000\\\">Ensuring data consistency, visibility, and availability for analytics, AI/ML models, and simulations</span></li><li><span style=\\\"color:#000000\\\">Development of performance and scaling strategies including monitoring, profiling, and performance tuning</span></li><li><span style=\\\"color:#000000\\\">Mentoring less experienced Data Engineers, promoting best practices and code reviews</span></li><li><span style=\\\"color:#000000\\\">Contributions to architecture decisions, security-by-design, and data privacy requir"
   },
   {
    "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
@@ -288,37 +296,11 @@
    "method": "POST",
    "status": 200,
    "type": "application/json",
-   "post": "{\"operationName\":\"XSBUGetGroupedLocations\",\"variables\":{},\"query\":\"query XSBUGetGroupedLocations($role: String, $keyword: String, $jobTypes: [String], $categories: [String]) {\\n  xSBUGetGroupedLocations(\\n    role: $role\\n    keyword: $keyword\\n    jobTypes: $jobTypes\\n    categories: $categories\\n  ) {\\n    country\\n    locations\\n    __typename\\n  }\\n}\"}",
-   "preview": "{\"data\":{\"xSBUGetGroupedLocations\":[{\"country\":\"Australia\",\"locations\":[\"Caloundra\",\"Macquarie Park\",\"Melbourne\",\"Tonsley\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Austria\",\"locations\":[\"Graz\",\"Wien\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Belgium\",\"locations\":[\"Leuven\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Brazil\",\"locations\":[\"Distrito Federal\",\"São Paulo\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Canada\",\"locations\":[\"Dorval\",\"Halifax\",\"Remote - CAN Quebec\",\"Toronto\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"China\",\"locations\":[\"Beijing\",\"Guangzhou\",\"Hangzhou City\",\"Jiangsu\",\"Shanghai\",\"Shenzhen\",\"Sichuan\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Colombia\",\"locations\":[\"Bogota D.C\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Croatia\",\"locations\":[\"Zagreb\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Czechia\",\"locations\":[\"Praha\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Denmark\",\"locations\":[\"Birkerød\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"France\",\"locations\":[\"Besançon\",\"Fougères\",\"Perigny\",\"Rueil-Malmaison\"],\"__typename\":\"GroupedLocationsResponse\"},{\"c"
-  },
-  {
-   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
-   "method": "POST",
-   "status": 200,
-   "type": "application/json",
-   "post": "{\"operationName\":\"xSBUSearchJobs\",\"variables\":{\"page\":1,\"pageSize\":20},\"query\":\"query xSBUSearchJobs($role: String, $keyword: String, $locations: [String], $jobTypes: [String], $categories: [String], $page: Int, $pageSize: Int) {\\n  xSBUSearchJobs(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    page: $page\\n    jobTypes: $jobTypes\\n    categories: $categories\\n    pageSize: $pageSize\\n  ) {\\n    totalJobs\\n    totalPages\\n    page\\n    pageSize\\n    resultCount\\n    jobs {\\n      jobRequirements\\n      jobRequisitionStatus\\n      jobFamilyGroup\\n      timeType\\n      title\\n      recruiters\\n      locationRegionStateProvince\\n      locationCountry\\n      primaryLocation\\n      jobFamily\\n      jobProfile\\n      isConfidential\\n      jobPostingSite\\n      status\\n  ",
-   "preview": "{\"data\":{\"xSBUSearchJobs\":{\"totalJobs\":930,\"totalPages\":47,\"page\":1,\"pageSize\":20,\"resultCount\":930,\"jobs\":[{\"jobRequirements\":\"<p><span style=\\\"color:#000000\\\">Your profile:</span></p><br /><ul><li><span style=\\\"color:#000000\\\">Strong data modeling expertise: 5–7 years of cross-domain data modeling experience (Data Vault, dimensional, logical/physical) — ideally in a complex manufacturing or high-tech environment</span></li><li><span style=\\\"color:#000000\\\">Bridge between physics and data: Proven ability to collaborate with domain experts in manufacturing, development, or engineering and translate highly complex, physically grounded processes into robust data models</span></li><li><span style=\\\"color:#000000\\\">Turning poor data quality into an strength: Experience in systematic profiling, assessment, and cleaning of heterogeneous, historically grown data sources — you see data chaos as a design challenge, not a hurdle</span></li><li><span style=\\\"color:#000000\\\">Mastery of a hybrid tech stack: Hands-on experience with Trino (on-prem), dbt (transformation &amp; documentation), Apache Kafka (streaming), and Databricks (Delta Lake, Spark); know the strengths and limits of each tool</"
+   "post": "{\"operationName\":\"xSBUGetJobCategories\",\"variables\":{},\"query\":\"query xSBUGetJobCategories($role: String, $keyword: String, $locations: [String], $jobTypes: [String]) {\\n  xSBUGetJobCategories(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    jobTypes: $jobTypes\\n  ) {\\n    key\\n    label\\n    __typename\\n  }\\n}\"}",
+   "preview": "{\"data\":{\"xSBUGetJobCategories\":[{\"key\":\"Administration & Support Services\",\"label\":\"Administration & Support Services (154)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Content Management & Creative Design\",\"label\":\"Content Management & Creative Design (1)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Customer Service\",\"label\":\"Customer Service (118)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Data Management & Business Intelligence\",\"label\":\"Data Management & Business Intelligence (6)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Engineering\",\"label\":\"Engineering (103)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Environmental Health & Safety\",\"label\":\"Environmental Health & Safety (7)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Executive Management\",\"label\":\"Executive Management (2)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Finance\",\"label\":\"Finance (20)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Human Resources\",\"label\":\"Human Resources (11)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Information Technology\",\"label\":\"Information Technology (109)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Legal, Compliance, Audit & Risk\",\"label\":\"Legal, Compliance, Audit & Risk (12)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Marketing\",\"label\":\"Marketing (1)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Marketing & Product Management\",\"label\":\"Marketing & Product Management (39)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Production\",\"label\":\"Production (91)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Project & Business Process Management\",\"label\":\"Project & Business Process Management (1)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Project, Program & Business Process Management\",\"label\":\"Project, Program & Business Process Management (41)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Property Management\",\"label\":\"Property Management (12)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Quality Management\",\"label\":\"Quality Management (26)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Research & Advanced Development\",\"label\":\"Research & Advanced Development (19)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Sales & Business Development\",\"label\":\"Sales & Business Development (111)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Strategic Planning & Development\",\"label\":\"Strategic Planning & Development (8)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Supply Chain & Logistics\",\"label\":\"Supply Chain & Logistics (38)\",\"__typename\":\"CategoriesResponse\"}]}}"
   },
   {
    "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/83338.d181b0ab.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript"
-  },
-  {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/7002.80227a08.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript"
-  },
-  {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/74265.9690afb5.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript"
-  },
-  {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/45781.ff9af2cb.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript"
@@ -330,13 +312,25 @@
    "type": "application/javascript"
   },
   {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/93509.6a4d79a0.js",
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/7002.80227a08.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript"
   },
   {
-   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/2083.5bc850a6.js",
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/45781.ff9af2cb.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/74265.9690afb5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/93509.6a4d79a0.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript"
@@ -349,6 +343,12 @@
   },
   {
    "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/14891.b0134b47.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/2083.5bc850a6.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript"

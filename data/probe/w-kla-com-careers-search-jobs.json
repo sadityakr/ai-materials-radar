@@ -1,0 +1,26 @@
+{
+ "url": "https://www.kla.com/careers/search-jobs",
+ "final": "https://www.kla.com/careers/search-jobs",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://www.kla.com/careers/search-jobs",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=UTF-8"
+  },
+  {
+   "url": "blob:https://www.kla.com/fabf406d-165a-418e-9cd7-d9483faa4da1",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.kla.com/careers/search-jobs",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=UTF-8"
+  }
+ ],
+ "job_links": []
+}

@@ -10,13 +10,13 @@
    "type": "text/html; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/_next/static/chunks/webpack-c698ab775dedae75.js",
+   "url": "https://jobs.bosch.de/_next/static/chunks/7803-0f9b9b972019a732.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/_next/static/b2FG5r4tByGJqXJNWmpKf/_buildManifest.js",
+   "url": "https://jobs.bosch.de/_next/static/chunks/webpack-c698ab775dedae75.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
@@ -28,19 +28,7 @@
    "type": "application/javascript; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/_next/static/chunks/7105-d05b9a932b1c5420.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript; charset=utf-8"
-  },
-  {
-   "url": "https://jobs.bosch.de/_next/static/chunks/main-5ed5b180cdc5ec02.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript; charset=utf-8"
-  },
-  {
-   "url": "https://jobs.bosch.de/_next/static/chunks/7803-0f9b9b972019a732.js",
+   "url": "https://jobs.bosch.de/_next/static/chunks/442-0f593481434a7de6.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
@@ -52,19 +40,19 @@
    "type": "application/javascript; charset=utf-8"
   },
   {
+   "url": "https://jobs.bosch.de/_next/static/b2FG5r4tByGJqXJNWmpKf/_buildManifest.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
    "url": "https://jobs.bosch.de/_next/static/chunks/framework-18f3d10fd924e320.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/_next/static/chunks/4138-b1c82caef69432c4.js",
-   "method": "GET",
-   "status": 200,
-   "type": "application/javascript; charset=utf-8"
-  },
-  {
-   "url": "https://jobs.bosch.de/_next/static/chunks/pages/_app-90c8508d3a21c847.js",
+   "url": "https://jobs.bosch.de/_next/static/chunks/7105-d05b9a932b1c5420.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
@@ -76,13 +64,19 @@
    "type": "application/javascript; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/_next/static/chunks/2068-61cfb1c8afc3bad1.js",
+   "url": "https://jobs.bosch.de/_next/static/chunks/main-5ed5b180cdc5ec02.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/_next/static/chunks/442-0f593481434a7de6.js",
+   "url": "https://jobs.bosch.de/_next/static/chunks/4138-b1c82caef69432c4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/2068-61cfb1c8afc3bad1.js",
    "method": "GET",
    "status": 200,
    "type": "application/javascript; charset=utf-8"
@@ -94,18 +88,24 @@
    "type": "application/javascript; charset=utf-8"
   },
   {
-   "url": "https://jobs.bosch.de/api/filter/query?indexName=bosch_de&page=0&q=&filter=%257B%257D",
+   "url": "https://jobs.bosch.de/_next/static/chunks/pages/_app-90c8508d3a21c847.js",
    "method": "GET",
    "status": 200,
-   "type": "application/json; charset=utf-8",
-   "preview": "{\"facetsCounts\":{\"data.businessUnit\":{\"Building Technologies\":210,\"Drive and Control Technology\":138,\"Mobility Electronics\":103,\"Home Comfort\":91,\"Mobility\":63,\"BSH Hausgeräte Gruppe\":60,\"Bosch Ausbildung & Studium\":58,\"Power Solutions\":49,\"Corporate Research\":47,\"Corporate\":43,\"Vehicle Motion\":41,\"Mobility Aftermarket\":26,\"Bosch Service Solutions\":24,\"Power Tools\":18,\"Bosch Manufacturing Solutions\":16,\"Electrified Motion\":13,\"Global Business Services\":13,\"Value Accelerator & Portfolio Companies\":11,\"ETAS GmbH\":10,\"Bosch eBike Systems\":9,\"Cross-Domain Computing Solutions\":7,\"Global Real Estate\":5,\"Bosch Digital\":4,\"Robert Bosch Stiftung GmbH\":1,\"Robert Bosch Smart Home GmbH\":1},\"data.category\":{\"Ausbildung\":231,\"Nicht definiert\":60},\"data.company\":{\"Robert Bosch GmbH\":377,\"Bosch Rexroth AG\":138,\"Bosch Sicherheitssysteme GmbH\":115,\"Bosch Thermotechnik GmbH\":89,\"BSH Hausgeräte Gruppe\":60,\"Bosch Sicherheitssysteme Montage und Service GmbH\":43,\"Bosch Ausbildung & Studium\":41,\"Bosch Building Automation GmbH\":27,\"Robert Bosch Semiconductor Manufacturing Dresden GmbH\":26,\"Robert Bosch Power Tools GmbH\":18,\"Hörburger GmbH\":17,\"Bosch Industriekessel GmbH\":13,\"Bosch Service Solutions Magdebu"
+   "type": "application/javascript; charset=utf-8"
   },
   {
    "url": "https://jobs.bosch.de/api/filter/info?locale=de",
    "method": "GET",
    "status": 200,
    "type": "application/json; charset=utf-8",
-   "preview": "{\"facetsCounts\":{\"data.businessUnit\":{\"Bosch Service Solutions\":24,\"Corporate\":43,\"Drive and Control Technology\":138,\"Home Comfort\":91,\"Power Solutions\":49,\"Mobility Electronics\":103,\"Building Technologies\":211,\"Vehicle Motion\":41,\"Mobility\":63,\"Corporate Research\":47,\"Power Tools\":18,\"Bosch Digital\":4,\"Bosch Ausbildung & Studium\":59,\"Mobility Aftermarket\":26,\"BSH Hausgeräte Gruppe\":60,\"Bosch Manufacturing Solutions\":16,\"Global Business Services\":13,\"Electrified Motion\":13,\"Bosch eBike Systems\":9,\"ETAS GmbH\":10,\"Global Real Estate\":5,\"Cross-Domain Computing Solutions\":7,\"Robert Bosch Smart Home GmbH\":1,\"Value Accelerator & Portfolio Companies\":11,\"Robert Bosch Stiftung GmbH\":1},\"data.category\":{\"undefined\":770,\"Ausbildung\":233,\"Nicht definiert\":60},\"data.company\":{\"Bosch Service Solutions Magdeburg GmbH\":12,\"Robert Bosch GmbH\":377,\"Bosch Rexroth AG\":138,\"Bosch Thermotechnik GmbH\":89,\"Robert Bosch Fahrzeugelektrik Eisenach GmbH\":8,\"Bosch Sensortec GmbH\":10,\"Bosch Sicherheitssysteme GmbH\":116,\"Bosch Sicherheitssysteme Montage und Service GmbH\":43,\"Bosch Building Automation GmbH\":27,\"Robert Bosch Semiconductor Manufacturing Dresden GmbH\":26,\"Bosch Solar Services GmbH\":1,\"Robert Bosch "
+   "preview": "{\"facetsCounts\":{\"data.businessUnit\":{\"Bosch Service Solutions\":24,\"Corporate\":43,\"Drive and Control Technology\":138,\"Home Comfort\":91,\"Power Solutions\":49,\"Mobility Electronics\":103,\"Building Technologies\":211,\"Vehicle Motion\":41,\"Mobility\":63,\"Corporate Research\":47,\"Power Tools\":18,\"Bosch Digital\":4,\"Bosch Ausbildung & Studium\":59,\"Mobility Aftermarket\":26,\"BSH Hausgeräte Gruppe\":60,\"Bosch Manufacturing Solutions\":16,\"Global Business Services\":13,\"Electrified Motion\":13,\"Bosch eBike Systems\":9,\"ETAS GmbH\":10,\"Global Real Estate\":5,\"Cross-Domain Computing Solutions\":7,\"Robert Bosch Smart Home GmbH\":1,\"Value Accelerator & Portfolio Companies\":11,\"Robert Bosch Stiftung GmbH\":1},\"data.category\":{\"undefined\":770,\"Ausbildung\":233,\"Nicht definiert\":60},\"data.company\":{\"Bosch Service Solutions Magdeburg GmbH\":12,\"Robert Bosch GmbH\":377,\"Bosch Rexroth AG\":138,\"Bosch Thermotechnik GmbH\":89,\"Robert Bosch Fahrzeugelektrik Eisenach GmbH\":8,\"Bosch Sensortec GmbH\":10,\"Bosch Sicherheitssysteme GmbH\":116,\"Bosch Sicherheitssysteme Montage und Service GmbH\":43,\"Bosch Building Automation GmbH\":27,\"Robert Bosch Semiconductor Manufacturing Dresden GmbH\":26,\"Bosch Solar Services GmbH\":1,\"Robert Bosch Power Tools GmbH\":18,\"Bosch Ausbildung & Studium\":42,\"Hörburger GmbH\":17,\"Robert Bosch Automotive Steering GmbH\":6,\"Koller + Schwemmer GmbH\":4,\"Bosch Service Solutions Leipzig GmbH\":3,\"Robert Bosch Elektronika Gyártó Kft.\":1,\"BSH Hausgeräte Gruppe\":60,\"Robert Bosch Elektronik GmbH\":11,\"Robert Bosch Manufacturing Solutions GmbH\":11,\"Bosch Service Solutions GmbH\":9,\"ETAS GmbH\":10,\"Bosch Energy and Building Solutions GmbH\":1,\"Bosch Industriekessel GmbH\":13,\"Robert Bosch Smart Home GmbH\":1,\"Moehwald GmbH\":2,\"Prüfzentrum Boxberg GmbH\":1,\"Bosch Automotive Products (Changsha) Co., Ltd. Shanghai branch\":2,\"Circular Economy Solutions GmbH\":1,\"Bosch Secure Authentication GmbH\":1,\"Robert Bosch Stiftung GmbH\":1,\"Bosch Quantum Sensing GmbH\":1},\"data.contract\":{\"unbefristet\":292,\"befristet\":737,\"unbefristet oder befristet\":34},\"data.employmentType\":{\"Vollzeit\":846,\"Voll- oder Teilzeit\":168,\"Teilzeit\":49},\"data.classification\":{\"undefined\":1063},\"data.entryLevel\":{\"Berufserfahrene\":170,\"Absolvent*in\":66,\"Student*in\":432,\"(Technische) Fachkraft / Gewerbliche Mitarbeiter*in\":136,\"Schüler*in\":259},\"data.jobField\":{\"Kundenservice\":27,\"Sonstige\":15,\"Personal\":43,\"Logistik\":57,\"Fertigung\":71,\"Technik/Ingenieurwesen\":216,\"Marketing\":52,\"Vertrieb\":76,\"Informationstechnologie\":72,\"Strategie\":23,\"Einkauf\":28,\"Forschung, Voraus- und Technologieentwicklung\":80,\"Bosch Ausbildung & Studium\":233,\"Projektmanagement\":18,\"Controlling, Accounting und Finanzen\":27,\"Produktmanagement\":8,\"Betriebswirtschaft\":5,\"Unternehmenskommunikation und PR\":2,\"Qualitätsmanagement\":10},\"data.language\":{\"DE\":759,\"EN\":71,\"de\":233},\"data.remote\":{\"Hybrid\":231,\"vor Ort\":827,\"Remote\":5},\"data.locations.city\":{\"Magdeburg\":13,\"Gerlingen-Schillerhöhe\":29,\"Deutschlandweit\":20,\"Horb am Neckar\":14,\"Kempten-St.Mang\":3,\"Eisenach\":8,\"Augsfeld\":7,\"Dresden\":43,\"Lohr am Main\":46,\"Stuhr\":2,\"Hamburg\":15,\"Bremen\":7,\"Reutlingen-Kusterdingen\":52,\"Berlin-Mitte\":9,\"Wolfsburg\":1,\"Kiel\":5,\"Siegen\":5,\"Wittlich\":3,\"Arnstadt\":8,\"Gerlingen\":7,\"Waiblingen - Alte Bundesstraße\":5,\"Erfurt\":9,\"München-Neuperlach\":19,\"Berlin-Charlottenburg\":3,\"Landshut\":5,\"Salzgitter\":12,\"Ulm\":8,\"Chemnitz\":6,\"Jena\":5,\"Blaichach\":38,\"Isernhagen\":3,\"Erbach\":5,\"Schwieberdingen\":15,\"Köln\":3,\"Nürnberg\":15,\"Karlsruhe\":20,\"Stuttgart-Feuerbach\":84,\"Bochum\":6,\"Elchingen bei Ulm\":19,\"Renningen\":51,\"Berlin - Prenzlauer Berg\":2,\"Willershausen\":1,\"Ravensburg\":4,\"Eschenburg-Eibelshausen\":3,\"Bietigheim-Bissingen\":5,\"Bühl\":5,\"Stuttgart-Weilimdorf\":13,\"Schwäbisch Gmünd\":11,\"Hannover\":4,\"Ansbach\":13,\"Gunzenhausen\":16,\"Eschborn\":6,\"Nürnberg-Nord\":3,\"Nordhorn\":2,\"Düsseldorf\":5,\"Wernau\":20,\"Hildesheim\":17,\"Braunschweig\":1,\"Wetzlar\":11,\"Leipzig\":9,\"Deutschland\":1,\"Berlin\":7,\"Halle (Saale)\":1,\"Rostock\":1,\"Dortmund\":2,\"Essen\":2,\"Meschede\":3,\"Aachen\":1,\"Oldenburg (Oldb)\":1,\"Lübeck\":1,\"Osnabrück\":2,\"Bielefeld\":4,\"Bayreuth\":1,\"Frankfurt am Main\":1,\"Offenbach am Main\":1,\"Langen\":1,\"Kassel\":2,\"Fulda\":1,\"Regensburg\":7,\"Rodgau\":1,\"München\":18,\"Augsburg\":4,\"Traunstein\":2,\"Ingolstadt\":1,\"Koblenz\":1,\"Kaiserslautern\":2,\"Freiburg im Breisgau\":1,\"Mainz\":9,\"Mannheim\":1,\"Radolfzell am Bodensee\":1,\"Trier\":2,\"Saarbrücken\":3,\"Verl\":7,\"Elchingen\":5,\"Abstatt\":5,\"Wernau (Neckar)\":2,\"Eibelshausen\":2,\"Lollar\":4,\"Esslingen am Neckar\":2,\"Reutlingen\":7,\"Velten\":2,\"Schweinfurt\":20,\"Volkach\":2,\"Homburg\":10,\"Traunreut\":10,\"Leinfelden-Echterdingen\":14,\"Waltenhofen\":3,\"Bamberg\":8,\"Würzburg\":2,\"Bühl/Bühlertal\":9,\"Frankfurt-Gallus\":2,\"Murrhardt\":1,\"Giengen an der Brenz\":11,\"München-Mitte\":5,\"Abstatt bei Stuttgart\":11,\"Dillingen an der Donau\":16,\"Heilbronn\":1,\"Kulmbach\":1,\"Neu-Ulm\":1,\"Tettnang\":1,\"Tamm\":1,\"Hainburg\":1,\"Hamburg-Allermöhe\":1,\"Leonberg\":5,\"Gießen\":3,\"Rottendorf\":1,\"Flugplatz Trier GmbH\":1,\"Viernheim\":1,\"Markranstädt\":1,\"Neubrandenburg\":1,\"Zwickau\":1,\"Bentwisch\":1,\"Münster\":1,\"Wesel\":1,\"Bad Neustadt an der Saale\":1,\"Esslingen\":1,\"Frankfurt-Nord-Ost\":1,\"Stuttgart-Vaihingen\":1,\"Ludwigsburg\":4,\"Walldorf\":2,\"Viernheim, Germany\":1,\"Stuttgart-Mitte\":3,\"Frankfurt - Mainzer Landstraße\":5,\"Plochingen bei Stuttgart\":4,\"Berlin-Tempelhof\":1,\"Freiburg\":2,\"Stuttgart\":1,\"Nauen\":1,\"Neukirchen (Erzgebirge), None, Deutschland\":1,\"Boxberg, Germany\":1,\"Biblis\":1,\"Shanghai, Germany\":2,\"Nürnberg-Nordring\":1},\"data.locations.cityState\":{\"Magdeburg, Sachsen-Anhalt\":13,\"Gerlingen-Schillerhöhe, Baden-Württemberg\":29,\"Deutschlandweit, Deutschlandweit\":20,\"Horb am Neckar, Baden-Württemberg\":14,\"Kempten-St.Mang, Bayern\":3,\"Eisenach, Thüringen\":8,\"Augsfeld, Bayern\":7,\"Dresden, Sachsen\":43,\"Lohr am Main, Bayern\":46,\"Stuhr, Niedersachsen\":2,\"Hamburg, Hamburg\":15,\"Bremen, Bremen\":7,\"Reutlingen-Kusterdingen, Baden-Württemberg\":52,\"Berlin-Mitte, Berlin\":9,\"Wolfsburg, Niedersachsen\":1,\"Kiel, Schleswig-Holstein\":5,\"Siegen, Nordrhein-Westfalen\":5,\"Wittlich, Rheinland-Pfalz\":3,\"Arnstadt, Thüring"
+  },
+  {
+   "url": "https://jobs.bosch.de/api/filter/query?indexName=bosch_de&page=0&q=&filter=%257B%257D",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"facetsCounts\":{\"data.businessUnit\":{\"Building Technologies\":210,\"Drive and Control Technology\":138,\"Mobility Electronics\":103,\"Home Comfort\":91,\"Mobility\":63,\"BSH Hausgeräte Gruppe\":60,\"Bosch Ausbildung & Studium\":58,\"Power Solutions\":49,\"Corporate Research\":47,\"Corporate\":43,\"Vehicle Motion\":41,\"Mobility Aftermarket\":26,\"Bosch Service Solutions\":24,\"Power Tools\":18,\"Bosch Manufacturing Solutions\":16,\"Electrified Motion\":13,\"Global Business Services\":13,\"Value Accelerator & Portfolio Companies\":11,\"ETAS GmbH\":10,\"Bosch eBike Systems\":9,\"Cross-Domain Computing Solutions\":7,\"Global Real Estate\":5,\"Bosch Digital\":4,\"Robert Bosch Stiftung GmbH\":1,\"Robert Bosch Smart Home GmbH\":1},\"data.category\":{\"Ausbildung\":231,\"Nicht definiert\":60},\"data.company\":{\"Robert Bosch GmbH\":377,\"Bosch Rexroth AG\":138,\"Bosch Sicherheitssysteme GmbH\":115,\"Bosch Thermotechnik GmbH\":89,\"BSH Hausgeräte Gruppe\":60,\"Bosch Sicherheitssysteme Montage und Service GmbH\":43,\"Bosch Ausbildung & Studium\":41,\"Bosch Building Automation GmbH\":27,\"Robert Bosch Semiconductor Manufacturing Dresden GmbH\":26,\"Robert Bosch Power Tools GmbH\":18,\"Hörburger GmbH\":17,\"Bosch Industriekessel GmbH\":13,\"Bosch Service Solutions Magdeburg GmbH\":12,\"Robert Bosch Elektronik GmbH\":11,\"Robert Bosch Manufacturing Solutions GmbH\":11,\"ETAS GmbH\":10,\"Bosch Sensortec GmbH\":10,\"Bosch Service Solutions GmbH\":9,\"Robert Bosch Fahrzeugelektrik Eisenach GmbH\":8,\"Robert Bosch Automotive Steering GmbH\":6,\"Koller + Schwemmer GmbH\":4,\"Bosch Service Solutions Leipzig GmbH\":3,\"Moehwald GmbH\":2,\"Bosch Automotive Products (Changsha) Co., Ltd. Shanghai branch\":2,\"Prüfzentrum Boxberg GmbH\":1,\"Bosch Solar Services GmbH\":1,\"Robert Bosch Stiftung GmbH\":1,\"Bosch Quantum Sensing GmbH\":1,\"Robert Bosch Smart Home GmbH\":1,\"Circular Economy Solutions GmbH\":1,\"Bosch Secure Authentication GmbH\":1,\"Robert Bosch Elektronika Gyártó Kft.\":1,\"Bosch Energy and Building Solutions GmbH\":1},\"data.contract\":{\"befristet\":735,\"unbefristet\":292,\"unbefristet oder befristet\":34},\"data.employmentType\":{\"Vollzeit\":844,\"Voll- oder Teilzeit\":168,\"Teilzeit\":49},\"data.classification\":{},\"data.entryLevel\":{\"Student*in\":432,\"Schüler*in\":257,\"Berufserfahrene\":170,\"(Technische) Fachkraft / Gewerbliche Mitarbeiter*in\":136,\"Absolvent*in\":66},\"data.jobField\":{\"Bosch Ausbildung & Studium\":231,\"Technik/Ingenieurwesen\":216,\"Forschung, Voraus- und Technologieentwicklung\":80,\"Vertrieb\":76,\"Informationstechnologie\":72,\"Fertigung\":71,\"Logistik\":57,\"Marketing\":52,\"Personal\":43,\"Einkauf\":28,\"Kundenservice\":27,\"Controlling, Accounting und Finanzen\":27,\"Strategie\":23,\"Projektmanagement\":18,\"Sonstige\":15,\"Qualitätsmanagement\":10,\"Produktmanagement\":8,\"Betriebswirtschaft\":5,\"Unternehmenskommunikation und PR\":2},\"data.language\":{\"DE\":759,\"de\":231,\"EN\":71},\"data.remote\":{\"vor Ort\":825,\"Hybrid\":231,\"Remote\":5},\"data.locations.city\":{\"Stuttgart-Feuerbach\":84,\"Reutlingen-Kusterdingen\":52,\"Renningen\":51,\"Lohr am Main\":46,\"Dresden\":43,\"Blaichach\":38,\"Gerlingen-Schillerhöhe\":29,\"Wernau\":20,\"Karlsruhe\":20,\"Schweinfurt\":20,\"Deutschlandweit\":20,\"Elchingen bei Ulm\":19,\"München-Neuperlach\":19,\"München\":18,\"Hildesheim\":17,\"Gunzenhausen\":16,\"Dillingen an der Donau\":16,\"Hamburg\":15,\"Nürnberg\":15,\"Schwieberdingen\":15,\"Horb am Neckar\":14,\"Leinfelden-Echterdingen\":14,\"Ansbach\":13,\"Magdeburg\":13,\"Stuttgart-Weilimdorf\":13,\"Salzgitter\":12,\"Wetzlar\":11,\"Schwäbisch Gmünd\":11,\"Giengen an der Brenz\":11,\"Abstatt bei Stuttgart\":11,\"Homburg\":10,\"Traunreut\":10,\"Mainz\":9,\"Erfurt\":9,\"Leipzig\":9,\"Berlin-Mitte\":9,\"Bühl/Bühlertal\":9,\"Ulm\":8,\"Bamberg\":8,\"Eisenach\":8,\"Arnstadt\":8,\"Verl\":7,\"Bremen\":7,\"Berlin\":7,\"Augsfeld\":7,\"Gerlingen\":7,\"Reutlingen\":7,\"Regensburg\":7,\"Bochum\":6,\"Eschborn\":6,\"Kiel\":5,\"Jena\":5,\"Bühl\":5,\"Siegen\":5,\"Erbach\":5,\"Abstatt\":5,\"Leonberg\":5,\"Landshut\":5,\"Chemnitz\":5,\"Elchingen\":5,\"Düsseldorf\":5,\"München-Mitte\":5,\"Bietigheim-Bissingen\":5,\"Waiblingen - Alte Bundesstraße\":5,\"Frankfurt - Mainzer Landstraße\":5,\"Lollar\":4,\"Hannover\":4,\"Augsburg\":4,\"Bielefeld\":4,\"Ravensburg\":4,\"Ludwigsburg\":4,\"Plochingen bei Stuttgart\":4,\"Köln\":3,\"Gießen\":3,\"Wittlich\":3,\"Meschede\":3,\"Isernhagen\":3,\"Waltenhofen\":3,\"Saarbrücken\":3,\"Nürnberg-Nord\":3,\"Stuttgart-Mitte\":3,\"Kempten-St.Mang\":3,\"Berlin-Charlottenburg\":3,\"Eschenburg-Eibelshausen\":3,\"Trier\":2,\"Stuhr\":2,\"Essen\":2,\"Velten\":2,\"Kassel\":2,\"Volkach\":2,\"Walldorf\":2,\"Nordhorn\":2,\"Freiburg\":2,\"Dortmund\":2,\"Würzburg\":2,\"Traunstein\":2,\"Osnabrück\":2,\"Eibelshausen\":2,\"Kaiserslautern\":2,\"Wernau (Neckar)\":2,\"Frankfurt-Gallus\":2,\"Shanghai, Germany\":2,\"Esslingen am Neckar\":2,\"Berlin - Prenzlauer Berg\":2,\"Tamm\":1,\"Wesel\":1,\"Nauen\":1,\"Fulda\":1,\"Rodgau\":1,\"Langen\":1,\"Biblis\":1,\"Aachen\":1,\"Zwickau\":1,\"Rostock\":1,\"Neu-Ulm\":1,\"Lübeck\":1,\"Koblenz\":1,\"Tettnang\":1,\"Münster\":1,\"Mannheim\":1,\"Kulmbach\":1,\"Hainburg\":1,\"Bayreuth\":1,\"Wolfsburg\":1,\"Viernheim\":1,\"Stuttgart\":1,\"Murrhardt\":1,\"Heilbronn\":1,\"Esslingen\":1,\"Bentwisch\":1,\"Rottendorf\":1,\"Ingolstadt\":1,\"Deutschland\":1,\"Braunschweig\":1,\"Willershausen\":1,\"Markranstädt\":1,\"Halle (Saale)\":1,\"Neubrandenburg\":1,\"Oldenburg (Oldb)\":1,\"Boxberg, Germany\":1,\"Berlin-Tempelhof\":1,\"Offenbach am Main\":1,\"Frankfurt am Main\":1,\"Viernheim, Germany\":1,\"Nürnberg-Nordring\":1,\"Hamburg-Allermöhe\":1,\"Frankfurt-Nord-Ost\":1,\"Stuttgart-Vaihingen\":1,\"Freiburg im Breisgau\":1,\"Flugplatz Trier GmbH\":1,\"Radolfzell am Bodensee\":1,\"Bad Neustadt an der Saale\":1},\"data.locations.cityState\":{\"Stuttgart-Feuerbach, Baden-Württemberg\":84,\"Reutlingen-Kusterdingen, Baden-Württemberg\":52,\"Renningen, Baden-Württemberg\":51,\"Lohr am Main, Bayern\":46,\"Dresden, Sachsen\":43,\"Blaichach, Bayern\":38,\"Gerlingen-Schillerhöhe, Baden-Württemberg\":29,\"Schweinfurt, Bayern\":20,\"Wernau, Baden-Württemberg\":20,\"Karlsruhe, Baden-Württemberg\":20,\"Deutschlandweit, Deutschlandweit\":20,\"Elchingen bei Ulm, Bayern\":19,\"München-Neuperlach, Bayern\":19,\"München, Bayern\":18,\"Hildesheim, Niedersachsen\":17,\"Gunzenhausen, Bayern\":16,\"Dillingen an der Donau, Bayern\":16,\"Hamburg, Hamburg\":15,\"Nürnberg, Bayern\":15,\"Schwieberdingen, Baden-Württemberg\":15"
   }
  ],
  "job_links": []
