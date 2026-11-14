@@ -32,6 +32,11 @@ LIST_LINK = re.compile(r"(open (positions|roles|jobs)|current (openings|vacancie
                        r"offres d.emploi|vacatures|社会招聘|校园招聘)", re.I)
 
 
+AGGREGATORS = re.compile(r"linkedin\.|indeed\.|stepstone\.|glassdoor\.|builtin\.com|arbeitnow\.|thehub\.io|breega\.|"
+                         r"welcometothejungle|academicpositions|euraxess|niuqizp|zhaopin\.com|liepin|zhipin|jobboerse\.|"
+                         r"googletagmanager|youtube|vimeo|facebook|twitter|x\.com/|instagram", re.I)
+
+
 def domain_of(url):
     h = urlparse(url).netloc.lower()
     return h[4:] if h.startswith("www.") else h
@@ -72,9 +77,10 @@ def try_reader(typ, params):
 
 
 def discover_one(emp, render=False):
-    urls = [u for u in [emp.get("careers_url")] + emp.get("hints", []) if u]
+    urls = [u for u in [emp.get("job_list_url"), emp.get("careers_url")] + emp.get("hints", []) if u]
     if emp.get("website"):
         urls.append(emp["website"])
+    urls = [u for u in urls if not AGGREGATORS.search(u)]
     pages, seen = [], set()
     for u in urls:
         if u in seen:
@@ -83,7 +89,7 @@ def discover_one(emp, render=False):
         pages.append(fetch(u))
     for pg in list(pages[:2]):
         for u in subpage_links(pg):
-            if u not in seen:
+            if u not in seen and not AGGREGATORS.search(u):
                 seen.add(u)
                 pages.append(fetch(u))
     cands = []
@@ -111,16 +117,25 @@ def discover_one(emp, render=False):
                 continue
             chosen = {"type": typ, "params": params}
             break
-    if not chosen and render and emp.get("careers_url"):
-        params = {"url": emp["careers_url"]}
-        res = try_reader("generic_render", params)
-        tried.append({"type": "generic_render", "params": params, **res})
-        if res["ok"] and res["count"] > 0:
-            chosen = {"type": "generic_render", "params": params}
+    if not chosen and render:
+        for u in [x for x in [emp.get("job_list_url"), emp.get("careers_url")] if x][:2]:
+            params = {"url": u}
+            res = try_reader("generic_render", params)
+            tried.append({"type": "generic_render", "params": params, **res})
+            if res["ok"] and res["count"] > 0:
+                chosen = {"type": "generic_render", "params": params}
+                break
     if not chosen:
         weak = next((t for t in tried if t["ok"] and t["count"] > 0), None)
         if weak:
             chosen = {"type": weak["type"], "params": weak["params"]}
+    if not chosen:
+        # The job page loads but lists nothing right now: track it anyway (0 open jobs is a valid state).
+        u = emp.get("job_list_url") or emp.get("careers_url")
+        ok = next((t for t in tried if t["ok"] and t["type"].startswith("generic") and t["params"].get("url") and
+                   (urlparse(t["params"]["url"]).netloc == urlparse(u or "").netloc)), None)
+        if ok:
+            chosen = {"type": ok["type"], "params": ok["params"], "zero_at_discovery": True}
     return {
         "chosen": chosen,
         "count": next((t["count"] for t in tried if chosen and t["type"] == chosen["type"] and t["params"] == chosen["params"]), 0),

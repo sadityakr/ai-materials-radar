@@ -31,6 +31,8 @@ FINGERPRINTS = [
     ("teamtailor_custom", re.compile(r"teamtailor-cdn|assets\.teamtailor", re.I)),
     ("softgarden_custom", re.compile(r"softgarden", re.I)),
     ("rexx", re.compile(r"rexx-systems\.com|rexx-recruitment", re.I)),
+    ("sf_csb", re.compile(r'href="[^"]*/job/[^"/]+/\d{8,}/?"|jobTitle-link', re.I)),
+    ("oracle_custom", re.compile(r"/hcmUI/CandidateExperience|CandidateExperience/[a-z]{2}/sites/", re.I)),
 ]
 BAD_TOKENS = {"embed", "js", "v1", "api", "wday", "static", "assets", "www", "app", "careers", "jobs", "cdn", "images"}
 
@@ -52,7 +54,14 @@ def detect(url, html=""):
                 seen.add(key)
                 found.append((typ, p))
     host = urlparse(url).netloc if url else ""
+    m = re.search(r"/(?:hcmUI/CandidateExperience/[a-z-]+/)?sites/([A-Za-z0-9_]+)", url or "")
+    if m and "oraclecloud" not in host:
+        found.append(("oracle", {"host": host, "site": m.group(1)}))
+    if re.search(r"/job/[^/]+/\d{8,}/?", url or ""):
+        found.append(("sf_csb", {"base": f"{urlparse(url).scheme}://{host}"}))
     for typ, rx in FINGERPRINTS:
+        if typ == "oracle_custom":
+            continue
         if rx.search(html or ""):
             key = (typ, host)
             if key not in seen:

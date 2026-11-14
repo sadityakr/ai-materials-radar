@@ -41,10 +41,23 @@ def _json(resp):
 def workday(p):
     host = f"https://{p['tenant']}.{p['wd']}.myworkdayjobs.com"
     api = f"{host}/wday/cxs/{p['tenant']}/{p['site']}/jobs"
+    post = lambda body: _json(net.post(api, json=body, headers={"Accept": "application/json"}))
+    try:
+        return _workday(p, host, post)
+    except Exception as e:
+        if not _blocked(e):
+            raise
+    bf = BrowserFetcher(f"{host}/{p['site']}")
+    try:
+        return _workday(p, host, lambda body: bf.json(api, "POST", body))
+    finally:
+        bf.close()
+
+
+def _workday(p, host, post):
     jobs, offset, total = [], 0, None
     while True:
-        d = _json(net.post(api, json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": ""},
-                           headers={"Accept": "application/json"}))
+        d = post({"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": ""})
         if total is None:
             total = d.get("total", 0)
         page = d.get("jobPostings") or []
@@ -113,10 +126,38 @@ def ashby(p):
 
 # ---------------------------------------------------------------- Personio
 def personio(p):
-    base = f"https://{p['sub']}.jobs.personio.{p['tld']}"
-    r = net.get(f"{base}/xml?language=en")
-    if r.status_code != 200:
-        raise ReaderError(f"HTTP {r.status_code} {r.url}")
+    errs = []
+    for tld in [p["tld"], "de" if p["tld"] == "com" else "com"]:
+        base = f"https://{p['sub']}.jobs.personio.{tld}"
+        r = net.get(f"{base}/xml?language=en")
+        if r.status_code == 200 and b"<workzag-jobs" in r.content[:500]:
+            return _personio_xml(base, r)
+        errs.append(f"xml {r.status_code}")
+        r = net.get(f"{base}/search.json")
+        if r.status_code == 200:
+            try:
+                d = r.json()
+                return [{"job_id": str(j["id"]), "title": j.get("name", ""), "location": j.get("office", ""),
+                         "url": f"{base}/job/{j['id']}", "posted": ""} for j in d]
+            except Exception:
+                pass
+        errs.append(f"search.json {r.status_code}")
+        r = net.get(f"{base}/?language=en")
+        if r.status_code == 200:
+            soup = BeautifulSoup(r.text, "html.parser")
+            out = {}
+            for a in soup.select("a[href*='/job/']"):
+                m = re.search(r"/job/(\d+)", a["href"])
+                if m:
+                    t = a.select_one("h1,h2,h3,h4,[class*=title]")
+                    out[m.group(1)] = {"job_id": m.group(1), "title": (t or a).get_text(" ", strip=True)[:160],
+                                       "location": "", "url": f"{base}/job/{m.group(1)}", "posted": ""}
+            return list(out.values())
+        errs.append(f"page {r.status_code}")
+    raise ReaderError("Personio: " + ", ".join(errs))
+
+
+def _personio_xml(base, r):
     root = ET.fromstring(r.content)
     jobs = []
     for pos in root.iter("position"):
@@ -198,13 +239,91 @@ def dvinci(p):
     return out
 
 
+# ---------------------------------------------------------------- browser-context fetch
+class BrowserFetcher:
+    """Opens a real page once, then calls JSON APIs from inside it (same origin, real cookies).
+    Used when a site's bot protection rejects plain HTTP clients."""
+
+    def __init__(self, page_url):
+        from playwright.sync_api import sync_playwright
+        self._pw = sync_playwright().start()
+        self._b = self._pw.chromium.launch()
+        self.page = self._b.new_page(user_agent=net.UA.split(" ai-materials-radar")[0])
+        self.page.goto(page_url, wait_until="domcontentloaded", timeout=60000)
+        self.page.wait_for_timeout(3000)
+
+    def json(self, url, method="GET", body=None):
+        r = self.page.evaluate("""async ([url, method, body]) => {
+            const o = {method, headers: {'Accept': 'application/json'}, credentials: 'include'};
+            if (body) { o.body = JSON.stringify(body); o.headers['Content-Type'] = 'application/json'; }
+            const r = await fetch(url, o); const t = await r.text(); return [r.status, t];
+        }""", [url, method, body])
+        if r[0] != 200:
+            raise ReaderError(f"HTTP {r[0]} (browser) {url}")
+        try:
+            return json.loads(r[1])
+        except ValueError:
+            raise ReaderError(f"not JSON (browser) {url}")
+
+    def close(self):
+        try:
+            self._b.close()
+            self._pw.stop()
+        except Exception:
+            pass
+
+
+def _blocked(e):
+    return isinstance(e, ReaderError) and re.search(r"HTTP (401|403|406|429|5\d\d)", str(e))
+
+
 # ---------------------------------------------------------------- Eightfold
 def eightfold(p):
     base = p.get("base") or f"https://{p['sub']}.eightfold.ai"
+    try:
+        return _eightfold(p, base, lambda u: _json(net.get(u, headers={"Accept": "application/json"})))
+    except Exception as e:
+        if not _blocked(e) and "404" not in str(e):
+            raise
+    bf = BrowserFetcher(f"{base}/careers")
+    try:
+        return _eightfold(p, base, bf.json)
+    finally:
+        bf.close()
+
+
+def _eightfold(p, base, getj):
+    try:
+        return _eightfold_v2(p, base, getj)
+    except ReaderError as e:
+        if "404" not in str(e):
+            raise
+        return _eightfold_pcsx(p, base, getj)
+
+
+def _eightfold_pcsx(p, base, getj):
+    jobs, start = [], 0
+    while True:
+        d = getj(f"{base}/api/pcsx/search?domain={p['domain']}&query=&location=&start={start}&sort_by=timestamp")
+        data = d.get("data") or {}
+        page = data.get("positions") or []
+        for j in page:
+            locs = j.get("standardizedLocations") or j.get("locations") or []
+            jobs.append({"job_id": str(j.get("displayJobId") or j.get("id")), "title": j.get("name", ""),
+                         "location": "; ".join(locs[:3]) if isinstance(locs, list) else str(locs),
+                         "url": urljoin(base, j.get("positionUrl") or f"/careers/job/{j.get('id')}"),
+                         "posted": str(j.get("postedTs", "")), "_pid": j.get("id")})
+        start += len(page)
+        if not page or start >= (data.get("count") or 0) or len(jobs) >= MAX_JOBS:
+            break
+    return jobs
+
+
+def _eightfold_v2(p, base, getj):
     jobs, start = [], 0
     while True:
         url = f"{base}/api/apply/v2/jobs?domain={p['domain']}&start={start}&num=10&sort_by=timestamp"
-        d = _json(net.get(url, headers={"Accept": "application/json"}))
+        d = getj(url)
         page = d.get("positions") or []
         for j in page:
             jobs.append({"job_id": str(j.get("display_job_id") or j.get("id")), "title": j.get("name", ""),
@@ -218,8 +337,11 @@ def eightfold(p):
 
 def eightfold_detail(p, job):
     base = p.get("base") or f"https://{p['sub']}.eightfold.ai"
-    d = _json(net.get(f"{base}/api/apply/v2/jobs/{job['_pid']}?domain={p['domain']}", headers={"Accept": "application/json"}))
-    return _clean(d.get("job_description"), 3000)
+    try:
+        d = _json(net.get(f"{base}/api/apply/v2/jobs/{job['_pid']}?domain={p['domain']}", headers={"Accept": "application/json"}))
+        return _clean(d.get("job_description"), 3000)
+    except Exception:
+        return ""  # descriptions are optional; the classifier works from the title and a later page read
 
 
 # ---------------------------------------------------------------- SuccessFactors Career Site Builder
@@ -379,12 +501,26 @@ def generic(p, html=None):
         text = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
         if not (6 <= len(text) <= 160) or NAV_TEXT.match(text) or not JOB_HREF.search(href):
             continue
+        if len(text.split()) < 2 and not re.search(r"[\u4e00-\u9fff]{4,}", text):
+            continue
+        if not _looks_like_posting(href):
+            continue
         if href.rstrip("/") == url.rstrip("/") or href.startswith(("mailto:", "tel:", "javascript:")):
             continue
         if urlparse(href).netloc not in (host, "") and not p.get("allow_offsite"):
             continue
         jobs.setdefault(href, {"job_id": _norm(href), "title": text, "location": "", "url": href, "posted": ""})
     return list(jobs.values())
+
+
+def _looks_like_posting(href):
+    """A posting URL usually ends in an id (4+ digits / uuid) or a multi-word slug, not a section name."""
+    pr = urlparse(href)
+    last = [x for x in pr.path.split("/") if x]
+    last = last[-1] if last else ""
+    if re.search(r"\d{4,}|[0-9a-f]{8}-[0-9a-f]{4}", pr.path + "?" + (pr.query or ""), re.I):
+        return True
+    return len(re.split(r"[-_]+", re.sub(r"\.(html?|aspx?|php)$", "", last))) >= 3
 
 
 def _norm(u):
