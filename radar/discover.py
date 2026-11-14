@@ -25,6 +25,8 @@ ROOT = Path(__file__).resolve().parent.parent
 EMP = ROOT / "registry" / "employers.json"
 OVR = ROOT / "registry" / "overrides.json"
 OUT = ROOT / "data" / "sources.json"
+CAND_FILE = ROOT / "registry" / "candidates.json"
+CANDIDATES = json.loads(CAND_FILE.read_text()) if CAND_FILE.exists() else {}
 
 LIST_LINK = re.compile(r"(open (positions|roles|jobs)|current (openings|vacancies)|job (openings|offers|search)|all jobs|"
                        r"vacancies|stellenangebote|offene stellen|stellenbörse|jobbörse|jobs? (finden|suchen)|"
@@ -125,10 +127,17 @@ def discover_one(emp, render=False):
                         pages.append({"url": link, "final": f2, "status": 200, "html": h2 + "\n" + "\n".join(r2), "rendered": True})
             except Exception as e:
                 pages.append({"url": u, "final": u, "status": None, "error": f"render: {str(e)[:150]}", "html": ""})
-    cands = []
+    cands = [(c["type"], c["params"]) for c in CANDIDATES.get(emp["id"], [])]
+    locf = {json.dumps([c["type"], c["params"]], sort_keys=True): c.get("location") for c in CANDIDATES.get(emp["id"], [])}
     for pg in pages:
         for typ, params in detect(pg["final"], pg["html"]):
-            if typ == "eightfold":
+            if typ == "eightfold_api":
+                typ = "eightfold"
+            elif typ == "oracle_api":
+                typ = "oracle"
+            elif typ == "eightfold" and "domain" in params:
+                pass
+            elif typ == "eightfold":
                 params = {**params, "domain": domain_of(emp.get("website") or emp.get("careers_url"))}
             elif typ == "eightfold_custom":
                 typ, params = "eightfold", {"base": params["base"], "domain": domain_of(emp.get("website") or params["base"])}
@@ -149,6 +158,9 @@ def discover_one(emp, render=False):
             if typ.startswith("generic") and res["count"] < 3:
                 continue
             chosen = {"type": typ, "params": params}
+            lf = locf.get(json.dumps([typ, params], sort_keys=True))
+            if lf:
+                chosen["location"] = lf
             break
     if not chosen and render:
         for u in [x for x in [emp.get("job_list_url"), emp.get("careers_url")] if x][:2]:

@@ -294,11 +294,9 @@ def eightfold(p):
 
 def _eightfold(p, base, getj):
     try:
-        return _eightfold_v2(p, base, getj)
-    except ReaderError as e:
-        if "404" not in str(e):
-            raise
         return _eightfold_pcsx(p, base, getj)
+    except ReaderError:
+        return _eightfold_v2(p, base, getj)
 
 
 def _eightfold_pcsx(p, base, getj):
@@ -553,6 +551,71 @@ def generic_detail(p, job):
     return _clean(soup.get_text(" "), 3000)
 
 
+# ---------------------------------------------------------------- Sitemap
+def sitemap(p):
+    """Read job URLs from the site's XML sitemap(s). params: url, pattern (regex on job URLs),
+    optional id (regex with one group for the job id), optional include (regex the URL must match, e.g. a city)."""
+    pat = re.compile(p["pattern"], re.I)
+    idrx = re.compile(p.get("id") or r"(\d{5,}|[a-z]\d{6,})", re.I)
+    inc = re.compile(p["include"], re.I) if p.get("include") else None
+    todo, seen_maps, locs = [p["url"]], set(), []
+    while todo and len(seen_maps) < 60:
+        u = todo.pop(0)
+        if u in seen_maps:
+            continue
+        seen_maps.add(u)
+        r = net.get(u)
+        if r.status_code != 200:
+            if u == p["url"]:
+                raise ReaderError(f"HTTP {r.status_code} {u}")
+            continue
+        body = r.content
+        if body[:2] == b"\x1f\x8b":
+            import gzip
+            body = gzip.decompress(body)
+        try:
+            root = ET.fromstring(body)
+        except ET.ParseError:
+            raise ReaderError(f"sitemap not XML: {u}")
+        tag = root.tag.split("}")[-1]
+        for loc in root.iter():
+            if loc.tag.split("}")[-1] != "loc" or not loc.text:
+                continue
+            t = loc.text.strip()
+            if tag == "sitemapindex":
+                if not p.get("submap") or re.search(p["submap"], t, re.I):
+                    todo.append(t)
+            else:
+                locs.append(t)
+    jobs = {}
+    for u in locs:
+        if not pat.search(u) or (inc and not inc.search(u)):
+            continue
+        m = idrx.search(urlparse(u).path)
+        jid = m.group(1) if m else _norm(u)
+        slug = [x for x in urlparse(u).path.split("/") if x]
+        title = ""
+        for seg in reversed(slug):
+            if len(re.findall(r"[A-Za-z]{3,}", seg)) >= 2:
+                title = re.sub(r"[-_]+", " ", re.sub(r"-?[a-z]?\d{5,}$", "", seg)).strip()
+                break
+        jobs[jid] = {"job_id": jid, "title": title or u, "location": "", "url": u, "posted": ""}
+    return list(jobs.values())
+
+
+def sitemap_detail(p, job):
+    """Fetch the posting page: real title from <h1>/og:title plus description text."""
+    r = net.get(job["url"])
+    if r.status_code != 200:
+        return ""
+    soup = BeautifulSoup(r.text, "html.parser")
+    h = soup.find("meta", property="og:title") or soup.find("h1")
+    title = (h.get("content") if h and h.name == "meta" else h.get_text(" ", strip=True) if h else "") or ""
+    for t in soup(["script", "style", "nav", "header", "footer"]):
+        t.decompose()
+    return (f"[title: {title}] " if title else "") + _clean(soup.get_text(" "), 3000)
+
+
 READERS = {
     "workday": (workday, workday_detail), "oracle": (oracle, None), "greenhouse": (greenhouse, None),
     "lever": (lever, None), "ashby": (ashby, None), "personio": (personio, None),
@@ -560,6 +623,7 @@ READERS = {
     "workable": (workable, generic_detail), "bamboohr": (bamboohr, generic_detail), "dvinci": (dvinci, generic_detail),
     "eightfold": (eightfold, eightfold_detail), "sf_csb": (sf_csb, generic_detail), "phenom": (phenom, generic_detail),
     "icims": (icims, generic_detail), "join": (join, generic_detail),
+    "sitemap": (sitemap, sitemap_detail),
     "generic": (generic, generic_detail), "generic_render": (generic_render, generic_detail),
 }
 # Systems detected but read through the generic page reader.

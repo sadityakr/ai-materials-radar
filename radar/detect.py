@@ -4,6 +4,8 @@ from urllib.parse import urlparse, unquote
 
 # Order matters: more specific / API-friendly systems first.
 PATTERNS = [
+    ("eightfold_api", re.compile(r"(https://[a-z0-9.-]+)/api/(?:pcsx/search|apply/v2/jobs)\?domain=([a-z0-9.-]+)", re.I)),
+    ("oracle_api", re.compile(r"https://([a-z0-9-]+\.fa\.[a-z0-9-]+\.oraclecloud\.com)(?::443)?/hcmRestApi/CandidateExperience/[a-z-]+/siteSettings/([A-Za-z0-9_]+)", re.I)),
     ("workday", re.compile(r"https?://([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([A-Za-z0-9_-]+)", re.I)),
     ("oracle", re.compile(r"https?://([a-z0-9-]+\.fa\.[a-z0-9-]+\.oraclecloud\.com)/hcmUI/CandidateExperience/[a-z-]+/sites/([A-Za-z0-9_]+)", re.I)),
     ("greenhouse", re.compile(r"(?:boards|job-boards)(?:\.eu)?\.greenhouse\.io/(?:embed/job_board(?:/js)?\?for=)?([A-Za-z0-9_-]+)", re.I)),
@@ -72,6 +74,10 @@ def detect(url, html=""):
 
 def _params(typ, m):
     g = m.groups()
+    if typ == "eightfold_api":
+        return {"base": g[0].lower(), "domain": g[1].lower()}
+    if typ == "oracle_api":
+        return {"host": g[0].lower(), "site": g[1]}
     if typ == "workday":
         tenant, wd, site = g
         if site.lower() in BAD_TOKENS:

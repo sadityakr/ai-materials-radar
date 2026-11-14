@@ -1,0 +1,244 @@
+{
+ "infineon-dresden": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://jobs.infineon.com",
+    "domain": "infineon.com"
+   },
+   "location": "Dresden"
+  }
+ ],
+ "infineon-regensburg-neubiberg": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://jobs.infineon.com",
+    "domain": "infineon.com"
+   },
+   "location": "Regensburg|Neubiberg|Munich|M\u00fcnchen|Warstein|Germany|DE$"
+  }
+ ],
+ "infineon-technologies-austria-villach": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://jobs.infineon.com",
+    "domain": "infineon.com"
+   },
+   "location": "Austria|Villach|Graz|Linz|Klagenfurt|, AT"
+  }
+ ],
+ "lam-research-fremont-usa": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://careers.lamresearch.com",
+    "domain": "lamresearch.com"
+   },
+   "location": "United States|, US|CA$|OR$|Fremont|Tualatin"
+  }
+ ],
+ "lam-research-villach": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://careers.lamresearch.com",
+    "domain": "lamresearch.com"
+   },
+   "location": "Austria|Villach|Europe|Germany|Belgium|Netherlands|Ireland|France"
+  }
+ ],
+ "globalfoundries-dresden": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://careers.gf.com",
+    "domain": "globalfoundries.com"
+   },
+   "location": "Dresden|Germany"
+  }
+ ],
+ "nvidia-alchemi-us": [
+  {
+   "type": "eightfold",
+   "params": {
+    "base": "https://jobs.nvidia.com",
+    "domain": "nvidia.com"
+   },
+   "location": ""
+  }
+ ],
+ "texas-instruments-usa": [
+  {
+   "type": "oracle",
+   "params": {
+    "host": "edbz.fa.us2.oraclecloud.com",
+    "site": "CX"
+   }
+  }
+ ],
+ "asml-veldhoven": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://www.asml.com/sitemap.xml",
+    "pattern": "/careers/find-your-job/.+-j\\d{6,}",
+    "id": "-(j\\d{6,})"
+   }
+  }
+ ],
+ "asml-wilton-usa": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://www.asml.com/sitemap.xml",
+    "pattern": "/careers/find-your-job/.+-j\\d{6,}",
+    "id": "-(j\\d{6,})"
+   }
+  }
+ ],
+ "basf-ludwigshafen-digital-rd": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://basf.jobs/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Ludwigshafen"
+   }
+  }
+ ],
+ "fraunhofer-enas-chemnitz": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Chemnitz"
+   }
+  }
+ ],
+ "fraunhofer-fep-dresden": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Dresden"
+   }
+  }
+ ],
+ "fraunhofer-ipms-dresden": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Dresden"
+   }
+  }
+ ],
+ "fraunhofer-ffb-muenster": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "M(ue|%C3%BC|\u00fc)nster"
+   }
+  }
+ ],
+ "fraunhofer-iisb-erlangen": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Erlangen"
+   }
+  }
+ ],
+ "fraunhofer-imws-halle": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Halle"
+   }
+  }
+ ],
+ "fraunhofer-isc-wuerzburg": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "W(ue|%C3%BC|\u00fc)rzburg"
+   }
+  }
+ ],
+ "fraunhofer-ise-freiburg": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Freiburg"
+   }
+  }
+ ],
+ "fraunhofer-iwm-freiburg": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Freiburg"
+   }
+  }
+ ],
+ "fraunhofer-ist-braunschweig": [
+  {
+   "type": "sitemap",
+   "params": {
+    "url": "https://jobs.fraunhofer.de/sitemap.xml",
+    "pattern": "/job/",
+    "include": "Braunschweig"
+   }
+  }
+ ],
+ "kla-germany-weilburg": [
+  {
+   "type": "workday",
+   "params": {
+    "tenant": "kla",
+    "wd": "wd1",
+    "site": "Search"
+   },
+   "location": "Germany|Weilburg|Dresden|Jena|DEU"
+  }
+ ],
+ "kla-icos-leuven": [
+  {
+   "type": "workday",
+   "params": {
+    "tenant": "kla",
+    "wd": "wd1",
+    "site": "Search"
+   },
+   "location": "Belgium|Leuven|BEL"
+  }
+ ],
+ "kla-milpitas-usa": [
+  {
+   "type": "workday",
+   "params": {
+    "tenant": "kla",
+    "wd": "wd1",
+    "site": "Search"
+   },
+   "location": "United States|USA|, CA|Milpitas|Ann Arbor"
+  }
+ ]
+}

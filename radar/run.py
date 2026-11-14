@@ -96,6 +96,10 @@ def main():
             health[eid] = h
             continue
         jobs = res["jobs"]
+        if src.get("location"):
+            import re as _re
+            rx = _re.compile(src["location"], _re.I)
+            jobs = [j for j in jobs if not j.get("location") or rx.search(j.get("location", ""))]
         # dedupe by job id
         jobs = list({j["job_id"]: j for j in jobs if j.get("job_id") and j.get("title")}.values())
         if not jobs and ss["last_count"] >= 3:
