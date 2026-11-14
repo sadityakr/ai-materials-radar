@@ -27,4 +27,5 @@ jobs:
         run: |
           git config user.name "radar-bot"; git config user.email "radar-bot@users.noreply.github.com"
           git add data/sources.json
-          git diff --cached --quiet || git commit -m "discover: update sources" && git push
+          git diff --cached --quiet || git commit -m "discover: update sources"
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push && break; sleep 5; done
