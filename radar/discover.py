@@ -67,6 +67,27 @@ def subpage_links(page):
     return out[:4]
 
 
+def sniff(url):
+    """Render a page in a real browser and return (final_url, html, all request URLs it made, links)."""
+    from playwright.sync_api import sync_playwright
+    reqs = []
+    with sync_playwright() as pw:
+        b = pw.chromium.launch()
+        pg = b.new_page(user_agent=net.UA.split(" ai-materials-radar")[0])
+        pg.on("request", lambda r: reqs.append(r.url))
+        try:
+            pg.goto(url, wait_until="domcontentloaded", timeout=45000)
+            pg.wait_for_timeout(5000)
+            for _ in range(2):
+                pg.mouse.wheel(0, 3000)
+                pg.wait_for_timeout(800)
+            html, final = pg.content(), pg.url
+            frames = [f.url for f in pg.frames]
+        finally:
+            b.close()
+    return final, html, reqs + frames
+
+
 def try_reader(typ, params):
     fn = READERS[typ][0]
     try:
@@ -92,6 +113,18 @@ def discover_one(emp, render=False):
             if u not in seen and not AGGREGATORS.search(u):
                 seen.add(u)
                 pages.append(fetch(u))
+    if render:
+        for u in [x for x in [emp.get("job_list_url"), emp.get("careers_url")] if x and not AGGREGATORS.search(x)][:2]:
+            try:
+                final, html, reqs = sniff(u)
+                pages.append({"url": u, "final": final, "status": 200, "html": html + "\n" + "\n".join(reqs), "rendered": True})
+                for link in subpage_links({"html": html, "final": final})[:2]:
+                    if link not in seen and not AGGREGATORS.search(link):
+                        seen.add(link)
+                        f2, h2, r2 = sniff(link)
+                        pages.append({"url": link, "final": f2, "status": 200, "html": h2 + "\n" + "\n".join(r2), "rendered": True})
+            except Exception as e:
+                pages.append({"url": u, "final": u, "status": None, "error": f"render: {str(e)[:150]}", "html": ""})
     cands = []
     for pg in pages:
         for typ, params in detect(pg["final"], pg["html"]):
@@ -139,7 +172,7 @@ def discover_one(emp, render=False):
     return {
         "chosen": chosen,
         "count": next((t["count"] for t in tried if chosen and t["type"] == chosen["type"] and t["params"] == chosen["params"]), 0),
-        "pages": [{k: p.get(k) for k in ("url", "final", "status", "error")} for p in pages],
+        "pages": [{k: p.get(k) for k in ("url", "final", "status", "error", "rendered")} for p in pages],
         "tried": tried,
     }
 
