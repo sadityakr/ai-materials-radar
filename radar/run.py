@@ -207,7 +207,7 @@ def write_outputs(T, emps, state, health, opened, closed, reopened):
         cands.append({"key": key, "employer": rec["employer"], "employer_name": names.get(rec["employer"], rec["employer"]),
                       "title": rec["title"], "url": rec.get("url", ""), "location": rec.get("location", ""),
                       "first_seen": rec["first_seen"], "last_seen": rec["last_seen"], "has_desc": bool(rec.get("desc")),
-                      "desc": (rec.get("desc") or "")[:1500]})
+                      "desc": (rec.get("desc") or "")[:3000]})
     cands.sort(key=lambda c: (c["employer"], c["title"]))
 
     STATE.parent.mkdir(exist_ok=True)
