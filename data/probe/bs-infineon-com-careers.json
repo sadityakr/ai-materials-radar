@@ -1,0 +1,625 @@
+{
+ "url": "https://jobs.infineon.com/careers",
+ "final": "https://jobs.infineon.com/careers?start=0&pid=563808971931644&sort_by=timestamp",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://jobs.infineon.com/careers",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://code.jquery.com/jquery-3.6.0.min.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/user_interaction.d05956ed.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/i18n_data_en.a8a0de36.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api.js?render=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/infineon/1760511010::PCS+IX+stylesheet",
+   "method": "GET",
+   "status": 200,
+   "type": "text/css"
+  },
+  {
+   "url": "https://static.vscdn.net/gen/i18n/i18n_override_infineon.com_en_b130c042.js?sri=1",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/jquery.v3.min.c783fe34ac7e7855f86cb0137c4ca923.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/gettext.min.235fc3739e4f06089751dc69a2df8372.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/bootstrap-datepicker.52f776c78c7c4138d957d55e49b5d0e4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/bootstrap.v5.min.295fca799df673217ef6b8066252ef77.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/base_i18n.22343826eaf2c90f793657d87c08ecba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/toastr.min.302e74f93481e4a7c43e503b29a88d45.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/moment-with-locales.min.ca6972cb6a768aa6b2769b4a32162fa2.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/base.4875cb24675af9e8876384cd4b0b687f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-2.bcf4a0b52a842945.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-0.8f83764ade3a503f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-6.5ce7b962ae37855d.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-5.66827ad9695e1e06.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-11.493ec270054e2c31.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-12.1c848abaf229ff58.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-16.4ddcce63bcb3bb72.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-22.20205236e7a6ccc5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/vendor_react.e95728659e862fe8.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-4.d5ab2b6a0b5a4bae.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-9.3677df32ce3e55ee.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-17.61adc3819b2aef0b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-18.332e407e56b06cdd.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-1.f6e7d090622a898a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-3.7697d80fc0f8996e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-20.b6b518ab7a36d07a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-21.de50d436402aa6bc.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-8.f33e8bea239cbaaf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-19.773d88ad57c58ef4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-15.0d489509b984a95c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-7.99c1dda0d0e5e8f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-13.ed66e48f62ba678f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-ce0efe24.1bfb648ed5c92148.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/pcsxPwa.ceaedf5d9f9dac50.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/ef-14.49e71b97bf5f4c2a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://ssgtm.infineon.com/gtm.js?id=GTM-MC67MQB6",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=UTF-8"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/62094.679fae35eaab3281.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/39215.b64bd64c427e136b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/loginsignup-page.7f0956f3a5c0e6c9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/95085.1071b1e7dcf45c7e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/76782.6e857ab39c4b455a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/45910.ff26d3a0f8ed7949.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/30098.bd160a14916e3ec4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/13684.d75385cd64788702.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/36780.0f5a0ed45ef727f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/40690.942389daaa7d9c1c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/53023.d3cb54588b98accf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/navbar.8bd02382912953b7.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/careers-page.c79693d487a761ab.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/jobcartpanel.d58265aea61354d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/12480.6ba506c902de6e73.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/infineon/1760512441::Infineon+Logo",
+   "method": "GET",
+   "status": 200,
+   "type": "image/jpeg"
+  },
+  {
+   "url": "https://jobs.infineon.com/vslog?domain=infineon.com&pid=",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"position_id\":\"\",\"utm_parameters\":{\"utm_source\":null,\"utm_campaign\":null}},\"event\":\"careers_view\",\"namespace\":\"pcsx_app\"}"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/insightswidget-component.845af48eeec14cba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/82240.a3e0a8edc63135b9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/31663.55283cdb29a20649.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/22689.89c01ebb51c3b3d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/gen/js/43993.0937f7b5162b16a0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/notifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9qb2JzLmluZmluZW9uLmNvbTo0NDM.&hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=zg2fs3yehw5o",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/job_cart?domain=infineon.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"jobCartData\": [], \"invalidPositionIds\": []}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/login?domain=infineon.com&hl=en&next=https%3A%2F%2Fjobs.infineon.com%2Fapi%2Fpcsx%2Fnotifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/search?domain=infineon.com&query=&location=&start=0&",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 563808971931644, \"displayJobId\": \"HRC1779904\", \"name\": \"Director Application Management\", \"locations\": [\"San Jose, CA\", \"Austin, TX\"], \"standardizedLocations\": [\"San Jose, CA, US\", \"Austin, TX, US\"], \"postedTs\": 1794611554, \"solrScore\": null, \"stars\": 0, \"department\": \"SMD\", \"creationTs\": 1788282009, \"isHot\": 0, \"workLocationOption\": \"hybrid\", \"locationFlexibility\": \"flexible_within_country\", \"atsJobId\": \"HRC1779904\", \"positionUrl\": \"/careers/job/563808971931644\", \"efcustomTextWorkplaceType\": []}, {\"id\": 563808961449922, \"displayJobId\": \"MVLL2501450\", \"name\": \"Graduate - Senior Engineer Digital IC Design \", \"locations\": [\"San Jose\", \"CA (United States)\"], \"standardizedLocations\": [\"San Jose, CA, US\", \"CA,US\"], \"postedTs\": 1794605223, \"solrScore\": null, \"stars\": 0, \"department\": \"ATV\", \"creationTs\": 1754359746, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": \"flexible_within_country\", \"atsJobId\": \"119841\", \"positionUrl\": \"/careers/job/563808961449922\", \"efcustomTextWorkplaceType\": [\"Hybrid\"]}, {\"id\": 563808972366951, \"displayJobId\": \"HRC1884445\", \"name\": \"Graduate- Senior Engineer "
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/job_cart?domain=infineon.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"jobCartData\": [], \"invalidPositionIds\": []}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/webworker.js?hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/match_details?position_id=563808971931644&domain=infineon.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/position_details?position_id=563808971931644&domain=infineon.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"id\": 563808971931644, \"displayJobId\": \"HRC1779904\", \"name\": \"Director Application Management\", \"locations\": [\"San Jose, CA\", \"Austin, TX\"], \"standardizedLocations\": [\"San Jose, CA, US\", \"Austin, TX, US\"], \"postedTs\": 1794611554, \"stars\": 0, \"jobDescription\": \"<p style=\\\"color: rgb(34, 34, 34); box-sizing: border-box; margin: 0px; font-size: 14px; font-family: Arial;\\\">#WeAreIn for jobs that impact everyone's life.</p><p style=\\\"color: rgb(34, 34, 34); box-sizing: border-box; margin: 0px; font-size: 14px; font-family: Arial;\\\">Bridging needs with innovation - where customer challenges become our next big idea.</p><p style=\\\"color: rgb(34, 34, 34); box-sizing: border-box; margin: 0px; font-size: 14px; font-family: Arial;\\\">As a Director Application Management in our Customer Collaboration and Technical Marketing team, you work hand-in-hand with our customers, enabling them to transform our products into cutting-edge designs, all while building long lasting partnerships that thrive on success.\\u00a0</p><p style=\\\"color: rgb(34, 34, 34); box-sizing: border-box; margin: 0px; font-size: 14px; font-family: Arial;\\\"><span styl"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/position_insights?position_id=563808971931644&domain=infineon.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"insights\": {\"skills\": {\"Innovation Development\": 1, \"Management\": 2}, \"company\": {\"Massachusetts Institute of Technology MIT\": {\"name\": \"MIT\", \"count\": 1, \"logo\": \"https://static.vscdn.net/images/logos/1780484949-mit.edu_mit.png\"}}, \"experienceYears\": {}, \"titles\": {\"Senior Manager\": 13, \"Director\": 6, \"Vice President\": 5, \"Director Business Development\": 5, \"Product Director\": 5, \"Director Product Management\": 5, \"Managing Director\": 5, \"Head of Product Management\": 5, \"Principal Engineer\": 2, \"Manager\": 2}}}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/overrides?position_id=563808971931644&domain=infineon.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"pcsxBaseConfigOverrides\": {\"branding\": {\"privacyHtml\": \"Information on the processing of your personal data can be found under <a href='https://www.infineon.com/legal/privacy-policy' target='_blank'>Privacy Policy Statement</a>\"}, \"positionDetailsConfig\": {\"sectionsConfig\": {\"positionCustomContent\": {\"items\": [{\"title\": \"\", \"body\": \"<p style=\\\"text-align:center;\\\">For location specific benefits, please have a look<a href='https://www.infineon.com/careers/our-locations' target='_blank'> here.</a></p>\"}]}}}}}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://jobs.infineon.com/api/pcsx/similar_positions?domain=infineon.com&position_id=563808971931644",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 563808970793478, \"displayJobId\": \"HRC1645645\", \"name\": \"Manager Application Management AI DC/DC\", \"locations\": [\"Shenzhen, \\u6df1\\u5733\"], \"standardizedLocations\": [\"Shenzhen, Guangdong Province, CN\"], \"postedTs\": 1791877497, \"solrScore\": null, \"stars\": 0, \"department\": \"SMD\", \"creationTs\": 1778836603, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"130820\", \"positionUrl\": \"/careers/job/563808970793478\", \"efcustomTextWorkplaceType\": []}, {\"id\": 563808970377745, \"displayJobId\": \"HRC1597343\", \"name\": \"Director Global Application Marketing\", \"locations\": [\"Austin, TX\", \"San Jose, CA\"], \"standardizedLocations\": [\"Austin, TX, US\", \"San Jose, CA, US\"], \"postedTs\": 1787875157, \"solrScore\": null, \"stars\": 0, \"department\": \"SMD\", \"creationTs\": 1775854841, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"129408\", \"positionUrl\": \"/careers/job/563808970377745\", \"efcustomTextWorkplaceType\": []}, {\"id\": 563808972294505, \"displayJobId\": \"HRC1867405\", \"name\": \"Director Quality Management | Vertical Core Power \", \"locations\": [\"San Jose, CA\"]"
+  },
+  {
+   "url": "https://jobs.infineon.com/vslog?event=pageInteractiveTime&namespace=pcsx_job_search",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"appName\":\"pcsx\",\"pageNamespace\":\"pcsx_job_search\",\"path\":\"/careers\",\"visitCount\":1,\"pageVisitTs\":1794618254267,\"pageVisitTimeFromPageLoad\":876.0999999999985,\"events\":[{\"eventName\":\"pcsx_search_results_loaded\",\"ts\":1794618254883,\"timeFromPageLoad\":1491.5999999999985},{\"eventName\":\"pcsx_job_details_loaded\",\"ts\":1794618255108,\"timeFromPageLoad\":1717.0999999999985}],\"apiMetrics\":[{\"name\":\"https://jobs.infineon.com/api/pcsx/search?domain=infineon.com&query=&location=&start=0&\",\"entryType\":\"resource\",\"startTime\":1116.800000000003,\"duration\":242.29999999999563,\"navigationId\":6685,\"initiatorType\":\"xmlhttprequest\",\"deliveryType\":\"\",\"nextHopProtocol\":\"h3\",\"renderBlockingStatus\":\"non-blocking\",\"contentType\":\"application/json\",\"contentEncoding\":\"gzip\",\"workerStart\":0,\"workerRouterEvalua"
+  }
+ ],
+ "job_links": [
+  [
+   "https://jobs.infineon.com/careers?start=0&pid=563808971931644&sort_by=timestamp#main-content",
+   "Skip to main content"
+  ],
+  [
+   "https://www.infineon.com/careers",
+   ""
+  ],
+  [
+   "https://jobs.infineon.com/careers",
+   "Job Search"
+  ],
+  [
+   "https://jobs.infineon.com/careers/dashboard",
+   "My Activity"
+  ],
+  [
+   "https://jobs.infineon.com/careers/profile",
+   "Profile"
+  ],
+  [
+   "https://www.infineon.com/careers",
+   "Careers"
+  ],
+  [
+   "https://www.infineon.com/careers/how-to-apply",
+   "FAQs"
+  ],
+  [
+   "https://www.infineon.com/careers/global-career-development-and-benefits",
+   "Benefits"
+  ],
+  [
+   "https://jobs.infineon.com/careers/join?domain=infineon.com",
+   "Join Talent Network"
+  ],
+  [
+   "https://jobs.infineon.com/careers/login",
+   "Sign In"
+  ],
+  [
+   "https://jobs.infineon.com/careers/settings",
+   "Manage"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808971931644",
+   "Director Application Management\nSan Jose, CA + 1 more\nHRC1779904"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808961449922",
+   "Graduate - Senior Engineer Digital IC Design\nSan Jose + 1 more\nMVLL2501450\nHybri"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972366951",
+   "Graduate- Senior Engineer Digital Design\nSan Jose, CA\nHRC1884445"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972366947",
+   "Graduate- Engineer Digital Design\nSan Jose, CA\nHRC1884440"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972372622",
+   "Gruppenpraktikum Büromanagement (f/m/div) - Februar 2027\nMunich\nHRC1887926"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972342935",
+   "Principal Engineer Technical Marketing\nEl Segundo, CA\nHRC1880230"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972372788",
+   "Gruppenpraktikum Büromanagement (f/m/div) - März 2027\nMunich\nHRC1887996"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972372789",
+   "Gruppenpraktikum Elektrotechnik (f/m/div) - März 2027\nMunich\nHRC1888000"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972372623",
+   "Gruppenpraktikum BWL (f/m/div) - Februar 2027\nMunich\nHRC1887946"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972372625",
+   "Gruppenpraktikum Elektrotechnik (f/m/div) - Februar 2027\nMunich\nHRC1887961"
+  ],
+  [
+   "https://jobs.infineon.com/careers/apply?pid=563808971931644",
+   "Apply Now"
+  ],
+  [
+   "https://www.infineon.com/cms/en/careers/diversity-and-inclusion/",
+   "Diversity & Inclusion"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808970793478",
+   "Manager Application Management AI DC/DC\nShenzhen, 深圳\nHRC1645645"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808970377745",
+   "Director Global Application Marketing\nAustin, TX + 1 more\nHRC1597343"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972294505",
+   "Director Quality Management | Vertical Core Power\nSan Jose, CA\nHRC1867405"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808969097357",
+   "Manager Robotics Application, Global Application Management (f/m/div)\nShenzhen +"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808971748086",
+   "Director Product Marketing\nAustin, TX\nHRC1725489"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972350180",
+   "IGP_Senior Specialist Product Management_IGBT_HV_SiC\nShenzhen, 深圳\nHRC1880926"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808971542064",
+   "Director Application Marketing ADAS Domain (f/m/div)\nPadua (Padova)\nHRC1698003"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972050332",
+   "Staff Specialist Product Management\nShenzhen, 深圳\nHRC1787326"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808971728253",
+   "Director Quality Management\nSan Jose, CA\nHRC1720916"
+  ],
+  [
+   "https://jobs.infineon.com/careers/job/563808972303011",
+   "Director Field Applications Engineering\nAndover, MA\nHRC1870604"
+  ]
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "url": "https://jobs.bosch.de/de/widgets/search",
+ "final": "https://jobs.bosch.de/de/widgets/search",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://jobs.bosch.de/de/widgets/search",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/webpack-c698ab775dedae75.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/b2FG5r4tByGJqXJNWmpKf/_buildManifest.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/9282.8d8d0f65edbf9e3d.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/7105-d05b9a932b1c5420.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/main-5ed5b180cdc5ec02.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/7803-0f9b9b972019a732.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/7808-5c0c52f85ae81ace.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/framework-18f3d10fd924e320.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/4138-b1c82caef69432c4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/pages/_app-90c8508d3a21c847.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/b2FG5r4tByGJqXJNWmpKf/_ssgManifest.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/2068-61cfb1c8afc3bad1.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/442-0f593481434a7de6.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/_next/static/chunks/pages/widgets/search-f810ca7a88a092e1.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.bosch.de/api/filter/query?indexName=bosch_de&page=0&q=&filter=%257B%257D",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"facetsCounts\":{\"data.businessUnit\":{\"Building Technologies\":210,\"Drive and Control Technology\":138,\"Mobility Electronics\":103,\"Home Comfort\":91,\"Mobility\":63,\"BSH Hausgeräte Gruppe\":60,\"Bosch Ausbildung & Studium\":58,\"Power Solutions\":49,\"Corporate Research\":47,\"Corporate\":43,\"Vehicle Motion\":41,\"Mobility Aftermarket\":26,\"Bosch Service Solutions\":24,\"Power Tools\":18,\"Bosch Manufacturing Solutions\":16,\"Electrified Motion\":13,\"Global Business Services\":13,\"Value Accelerator & Portfolio Companies\":11,\"ETAS GmbH\":10,\"Bosch eBike Systems\":9,\"Cross-Domain Computing Solutions\":7,\"Global Real Estate\":5,\"Bosch Digital\":4,\"Robert Bosch Stiftung GmbH\":1,\"Robert Bosch Smart Home GmbH\":1},\"data.category\":{\"Ausbildung\":231,\"Nicht definiert\":60},\"data.company\":{\"Robert Bosch GmbH\":377,\"Bosch Rexroth AG\":138,\"Bosch Sicherheitssysteme GmbH\":115,\"Bosch Thermotechnik GmbH\":89,\"BSH Hausgeräte Gruppe\":60,\"Bosch Sicherheitssysteme Montage und Service GmbH\":43,\"Bosch Ausbildung & Studium\":41,\"Bosch Building Automation GmbH\":27,\"Robert Bosch Semiconductor Manufacturing Dresden GmbH\":26,\"Robert Bosch Power Tools GmbH\":18,\"Hörburger GmbH\":17,\"Bosch Industriekessel GmbH\":13,\"Bosch Service Solutions Magdebu"
+  },
+  {
+   "url": "https://jobs.bosch.de/api/filter/info?locale=de",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"facetsCounts\":{\"data.businessUnit\":{\"Bosch Service Solutions\":24,\"Corporate\":43,\"Drive and Control Technology\":138,\"Home Comfort\":91,\"Power Solutions\":49,\"Mobility Electronics\":103,\"Building Technologies\":211,\"Vehicle Motion\":41,\"Mobility\":63,\"Corporate Research\":47,\"Power Tools\":18,\"Bosch Digital\":4,\"Bosch Ausbildung & Studium\":59,\"Mobility Aftermarket\":26,\"BSH Hausgeräte Gruppe\":60,\"Bosch Manufacturing Solutions\":16,\"Global Business Services\":13,\"Electrified Motion\":13,\"Bosch eBike Systems\":9,\"ETAS GmbH\":10,\"Global Real Estate\":5,\"Cross-Domain Computing Solutions\":7,\"Robert Bosch Smart Home GmbH\":1,\"Value Accelerator & Portfolio Companies\":11,\"Robert Bosch Stiftung GmbH\":1},\"data.category\":{\"undefined\":770,\"Ausbildung\":233,\"Nicht definiert\":60},\"data.company\":{\"Bosch Service Solutions Magdeburg GmbH\":12,\"Robert Bosch GmbH\":377,\"Bosch Rexroth AG\":138,\"Bosch Thermotechnik GmbH\":89,\"Robert Bosch Fahrzeugelektrik Eisenach GmbH\":8,\"Bosch Sensortec GmbH\":10,\"Bosch Sicherheitssysteme GmbH\":116,\"Bosch Sicherheitssysteme Montage und Service GmbH\":43,\"Bosch Building Automation GmbH\":27,\"Robert Bosch Semiconductor Manufacturing Dresden GmbH\":26,\"Bosch Solar Services GmbH\":1,\"Robert Bosch "
+  }
+ ],
+ "job_links": []
+}

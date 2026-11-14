@@ -1,0 +1,686 @@
+{
+ "url": "https://careers.lamresearch.com/careers",
+ "final": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://careers.lamresearch.com/careers",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/i18n_data_en.a8a0de36.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/user_interaction.d05956ed.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/gen/i18n/i18n_override_lamresearch.com_en_13b300a0.js?sri=1",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://consent.trustarc.com/v2/autoblockasset/core.min.js?cmId=lw9wao",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://consent.trustarc.com/v2/autoblock?cmId=lw9wao",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript;charset=UTF-8"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api.js?render=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://consent.trustarc.com/v2/notice/lw9wao",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript;charset=UTF-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/jquery.v3.min.c783fe34ac7e7855f86cb0137c4ca923.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/toastr.min.302e74f93481e4a7c43e503b29a88d45.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/bootstrap-datepicker.52f776c78c7c4138d957d55e49b5d0e4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/base_i18n.22343826eaf2c90f793657d87c08ecba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/bootstrap.v5.min.295fca799df673217ef6b8066252ef77.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/base.4875cb24675af9e8876384cd4b0b687f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-2.bcf4a0b52a842945.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-0.8f83764ade3a503f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-6.5ce7b962ae37855d.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-12.1c848abaf229ff58.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-11.493ec270054e2c31.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/gettext.min.235fc3739e4f06089751dc69a2df8372.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-5.66827ad9695e1e06.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-16.4ddcce63bcb3bb72.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-4.d5ab2b6a0b5a4bae.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/vendor_react.e95728659e862fe8.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-1.f6e7d090622a898a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/moment-with-locales.min.ca6972cb6a768aa6b2769b4a32162fa2.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-9.3677df32ce3e55ee.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-22.20205236e7a6ccc5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-3.7697d80fc0f8996e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-18.332e407e56b06cdd.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-17.61adc3819b2aef0b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://consent.trustarc.com/v2/consentcategories/getnonemptyindexes?cmId=lw9wao&referer=https://careers.lamresearch.com/&fullURL=https%3A%2F%2Fcareers.lamresearch.com%2Fcareers&category=&showEmptyCategories=false",
+   "method": "GET",
+   "status": 200,
+   "type": "text/plain;charset=ISO-8859-1"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-8.f33e8bea239cbaaf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-21.de50d436402aa6bc.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-20.b6b518ab7a36d07a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-19.773d88ad57c58ef4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://cdn.matomo.cloud/lamresearch.matomo.cloud/matomo.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-7.99c1dda0d0e5e8f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-15.0d489509b984a95c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-ce0efe24.1bfb648ed5c92148.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-13.ed66e48f62ba678f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/pcsxPwa.ceaedf5d9f9dac50.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/ef-14.49e71b97bf5f4c2a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/lamresearch-sandbox/1740002242::MessinaSans-Regular.otf",
+   "method": "GET",
+   "status": 200,
+   "type": "font/otf"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/lamresearch/1745606855::banner1530.100",
+   "method": "GET",
+   "status": 200,
+   "type": "image/jpeg"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/lamresearch/1746046789::MessinaSans-Regular.otf",
+   "method": "GET",
+   "status": 200,
+   "type": "font/otf"
+  },
+  {
+   "url": "https://consent.trustarc.com/cm/lw9wao/seed-url?referer=https://careers.lamresearch.com/&locale=en&fullUrl=https%3A%2F%2Fcareers.lamresearch.com%2Fcareers",
+   "method": "GET",
+   "status": 200,
+   "type": "text/plain;charset=UTF-8"
+  },
+  {
+   "url": "https://consent.trustarc.com/analytics?action=0&domain=lw9wao&implied=1&session=bd7ba7b49b1c4e7b8b32735bbcbe9ec1&new=1&referer=https://careers.lamresearch.com",
+   "method": "GET",
+   "status": 200,
+   "type": "image/gif"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://consent.trustarc.com/analytics?action=1&domain=lw9wao&implied=1&session=bd7ba7b49b1c4e7b8b32735bbcbe9ec1&new=1&referer=https://careers.lamresearch.com",
+   "method": "GET",
+   "status": 200,
+   "type": "image/gif"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/62094.679fae35eaab3281.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/95085.1071b1e7dcf45c7e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/loginsignup-page.7f0956f3a5c0e6c9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/39215.b64bd64c427e136b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/76782.6e857ab39c4b455a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/45910.ff26d3a0f8ed7949.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/13684.d75385cd64788702.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/navbar.8bd02382912953b7.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/30098.bd160a14916e3ec4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/36780.0f5a0ed45ef727f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/40690.942389daaa7d9c1c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/53023.d3cb54588b98accf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/careers-page.c79693d487a761ab.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/12480.6ba506c902de6e73.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/jobcartpanel.d58265aea61354d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/lamresearch/1745606553::company+logo",
+   "method": "GET",
+   "status": 200,
+   "type": "image/png"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/lamresearch/1746046597::MessinaSerif-Regular.otf",
+   "method": "GET",
+   "status": 200,
+   "type": "font/otf"
+  },
+  {
+   "url": "https://careers.lamresearch.com/vslog?domain=lamresearch.com&pid=",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"position_id\":\"\",\"utm_parameters\":{\"utm_source\":null,\"utm_campaign\":null}},\"event\":\"careers_view\",\"namespace\":\"pcsx_app\"}"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/22689.89c01ebb51c3b3d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/31663.55283cdb29a20649.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/insightswidget-component.845af48eeec14cba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/82240.a3e0a8edc63135b9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/gen/js/43993.0937f7b5162b16a0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/notifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/login?domain=lamresearch.com&hl=en&next=https%3A%2F%2Fcareers.lamresearch.com%2Fapi%2Fpcsx%2Fnotifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/job_cart?domain=lamresearch.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"jobCartData\": [], \"invalidPositionIds\": []}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=vy5yn41hzsly",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/search?domain=lamresearch.com&query=&location=&start=0&",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 1099556623374, \"displayJobId\": \"205442\", \"name\": \"Field Service Engineer 2\", \"locations\": [\"US-AZ-Chandler (1002)\"], \"standardizedLocations\": [\"Chandler, AZ, US\"], \"postedTs\": 1794609135, \"solrScore\": null, \"stars\": 0, \"department\": \"Field Service Engineering\", \"creationTs\": 1792077638, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"205442\", \"positionUrl\": \"/careers/job/1099556623374\"}, {\"id\": 1099556979687, \"displayJobId\": \"206650\", \"name\": \"Process Engineer 5\", \"locations\": [\"US-OR-Tualatin (1034)\"], \"standardizedLocations\": [\"Tualatin, OR, US\"], \"postedTs\": 1794603333, \"solrScore\": null, \"stars\": 0, \"department\": \"Process Engineering\", \"creationTs\": 1793773290, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"206650\", \"positionUrl\": \"/careers/job/1099556979687\"}, {\"id\": 1099557070288, \"displayJobId\": \"206821\", \"name\": \"Global Product Support Engineer 2\", \"locations\": [\"US-OR-Tualatin (1034)\"], \"standardizedLocations\": [\"Tualatin, OR, US\"], \"postedTs\": 1794603190, \"solrScore\": null, \"stars\": 0, \"department\": \"Engineering/T"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/job_cart?domain=lamresearch.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"jobCartData\": [], \"invalidPositionIds\": []}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://lamresearch.matomo.cloud/matomo.php?action_name=careers.lamresearch.com%2F&idsite=1&rec=1&r=120554&h=1&m=4&s=39&url=https%3A%2F%2Fcareers.lamresearch.com%2Fcareers&_id=28cd8ff7ac0e39cb&_idn=1&send_image=0&_refts=0&pv_id=UyO5Iz&pf_net=95&pf_srv=363&pf_tfr=4&pf_dm1=71&uadata=%7B%22formFactors%22%3A%5B%22Desktop%22%5D%2C%22fullVersionList%22%3A%5B%7B%22brand%22%3A%22HeadlessChrome%22%2C%22ver",
+   "method": "POST",
+   "status": 204,
+   "type": "",
+   "post": ""
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/webworker.js?hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/match_details?position_id=1099556623374&domain=lamresearch.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/position_insights?position_id=1099556623374&domain=lamresearch.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"insights\": {\"skills\": {\"Engineering\": 3, \"\\u30a8\\u30f3\\u30b8\\u30cb\\u30a2\\u30ea\\u30f3\\u30b0\": 1}, \"experienceYears\": {}, \"titles\": {\"Engineer II\": 3, \"Apprentice\": 3, \"Product Support Engineer\": 2, \"Field Service Engineer\": 2, \"Engineer I\": 1, \"Senior Process Manager\": 1, \"Generalist\": 1}}}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/position_details?position_id=1099556623374&domain=lamresearch.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"id\": 1099556623374, \"displayJobId\": \"205442\", \"name\": \"Field Service Engineer 2\", \"locations\": [\"US-AZ-Chandler (1002)\"], \"standardizedLocations\": [\"Chandler, AZ, US\"], \"postedTs\": 1794609135, \"stars\": 0, \"department\": \"Field Service Engineering\", \"creationTs\": 1792077638, \"jobDescription\": \"<div><div style=\\\"padding: 10px 0px;border: 1px solid transparent;\\\"><div style=\\\"font-size:16px;word-wrap: break-word;\\\"><h2 style=\\\"font-size: 1em; margin: 0px\\\"><b>The group you\\u2019ll be a part of</b></h2>\\r</div><div><p style=\\\"text-align:justify\\\">\\u00a0</p><p style=\\\"text-align:justify\\\"><span style=\\\"font-size:16px\\\"><span style=\\\"font-family:Arial,Helvetica,sans-serif\\\">The Customer Support Business Group focuses on enabling our customers with premier customer\\u00a0support throughout their lifecycle with Lam. We drive performance, productivity, safety, and\\u00a0quality of customers installed base performance and deliver service and lifecycle solutions\\u00a0for their most critical equipment and processes.</span></span></p><p>\\u00a0</p></div></div><div style=\\\"padding: 10px 0px;border: 1px solid transparent;\\\"><div style=\\\""
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/overrides?position_id=1099556623374&domain=lamresearch.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"pcsxBaseConfigOverrides\": {\"positionDetailsConfig\": {\"sectionsConfig\": {\"videos\": {\"items\": []}, \"perks\": {\"items\": [{\"title\": \"Wellbeing\", \"description\": \"Programs designed to support your individual needs, help you achieve personal goals, and incentivize you with rewards, including a $500 annual lifestyle account for wellness related purchases\", \"image\": \"https://static.vscdn.net/images/careers/demo/lamresearch/1745606689::wellbeingjogger\", \"imageAlt\": \"Wellbeing\"}, {\"title\": \"Stock\", \"description\": \"Discounted employee stock purchase program\", \"image\": \"https://static.vscdn.net/images/careers/demo/lamresearch/1745606717::moneystock\", \"imageAlt\": \"Stock\"}, {\"title\": \"Parental Bonding\", \"description\": \"16 weeks fully paid bonding leave for all new parents\", \"image\": \"https://static.vscdn.net/images/careers/demo/lamresearch/1745606744::stroller\", \"imageAlt\": \"Parental Bonding\"}, {\"title\": \"Education Assistance\", \"description\": \"Reimbursement of up to $15,000 per calendar year for job-related coursework\", \"image\": \"https://static.vscdn.net/images/careers/demo/lamresearch/1745607087::capgown\", \"imageAlt\": \"Education Assi"
+  },
+  {
+   "url": "https://careers.lamresearch.com/api/pcsx/similar_positions?domain=lamresearch.com&position_id=1099556623374",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 1099553138105, \"displayJobId\": \"198445\", \"name\": \"Field Service Engineer 2\", \"locations\": [\"US-AZ-Chandler (1002)\"], \"standardizedLocations\": [\"Chandler, AZ, US\"], \"postedTs\": 1776377446, \"solrScore\": null, \"stars\": 0, \"department\": \"Field Service Engineering\", \"creationTs\": 1776376975, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"198445\", \"positionUrl\": \"/careers/job/1099553138105\"}, {\"id\": 1099556623155, \"displayJobId\": \"205626\", \"name\": \"Field Service Engineer 2\", \"locations\": [\"US-AZ-Chandler (1002)\"], \"standardizedLocations\": [\"Chandler, AZ, US\"], \"postedTs\": 1793386132, \"solrScore\": null, \"stars\": 0, \"department\": \"Field Service Engineering\", \"creationTs\": 1792077638, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"205626\", \"positionUrl\": \"/careers/job/1099556623155\"}, {\"id\": 1099555380771, \"displayJobId\": \"202524\", \"name\": \"Field Service Engineer 2\", \"locations\": [\"US-AZ-Chandler (1002)\"], \"standardizedLocations\": [\"Chandler, AZ, US\"], \"postedTs\": 1786406148, \"solrScore\": null, \"stars\": 0, \"department\": \"Field Serv"
+  },
+  {
+   "url": "https://careers.lamresearch.com/vslog?event=pageInteractiveTime&namespace=pcsx_job_search",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"appName\":\"pcsx\",\"pageNamespace\":\"pcsx_job_search\",\"path\":\"/careers\",\"visitCount\":1,\"pageVisitTs\":1794618279269,\"pageVisitTimeFromPageLoad\":1007.8000000000029,\"events\":[{\"eventName\":\"pcsx_search_results_loaded\",\"ts\":1794618279796,\"timeFromPageLoad\":1534.800000000003},{\"eventName\":\"pcsx_job_details_loaded\",\"ts\":1794618280032,\"timeFromPageLoad\":1770.5}],\"apiMetrics\":[{\"name\":\"https://careers.lamresearch.com/api/pcsx/search?domain=lamresearch.com&query=&location=&start=0&\",\"entryType\":\"resource\",\"startTime\":1204.1000000000058,\"duration\":172.5,\"navigationId\":1005,\"initiatorType\":\"xmlhttprequest\",\"deliveryType\":\"\",\"nextHopProtocol\":\"h3\",\"renderBlockingStatus\":\"non-blocking\",\"contentType\":\"application/json\",\"contentEncoding\":\"gzip\",\"workerStart\":0,\"workerRouterEvaluationStart\":0,\"w"
+  }
+ ],
+ "job_links": [
+  [
+   "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp#main-content",
+   "Skip to main content"
+  ],
+  [
+   "https://www.lamresearch.com/careers",
+   ""
+  ],
+  [
+   "https://careers.lamresearch.com/careers",
+   "JOBS"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/dashboard",
+   "DASHBOARD"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/profile",
+   "PROFILE"
+  ],
+  [
+   "https://app.eightfold.ai/careerhub/explore/jobs",
+   "CURRENT EMPLOYEE"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/join?domain=lamresearch.com",
+   "JOIN TALENT NETWORK"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/login",
+   "Sign In"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/settings",
+   "Manage"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556623374",
+   "Field Service Engineer 2\nUS-AZ-Chandler (1002)\nPosted 3 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556979687",
+   "Process Engineer 5\nUS-OR-Tualatin (1034)\nPosted 4 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099557070288",
+   "Global Product Support Engineer 2\nUS-OR-Tualatin (1034)\nPosted 4 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556190192",
+   "Product Engineer 3\nUS-CA-Fremont (1003)\nPosted 6 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556667201",
+   "Process Engineer 3\nUS-OR-Tualatin (1034)\nPosted 6 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099557068527",
+   "Process Engineer 4\nUS-CA-Fremont (1003)\nPosted 7 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099542306252",
+   "Plasma Engineer 3\nUS-OR-Tualatin (1034)\nFlexible Location\nPosted 7 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099557002080",
+   "Global Product Support Engineer 4\nUS-CA-Fremont (1003)\nPosted 8 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556590488",
+   "Technical Program Manager 3\nUS-OR-Tualatin (1034)\nPosted 10 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099555589774",
+   "Mgr, Software Development\nIN-Bangalore (3811)\nPosted 14 hours ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/apply?pid=1099556623374",
+   "Apply now"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099553138105",
+   "Field Service Engineer 2\nUS-AZ-Chandler (1002)\nPosted 7 months ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556623155",
+   "Field Service Engineer 2\nUS-AZ-Chandler (1002)\nPosted 14 days ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099555380771",
+   "Field Service Engineer 2\nUS-AZ-Chandler (1002)\nPosted 3 months ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099555380737",
+   "Field Service Engineer 2\nUS-AZ-Chandler (1002)\nPosted 2 months ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556060623",
+   "Field Service Engineer 2\nUS-NM-New Mexico-Remote (1319)\nPosted 2 months ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099552803640",
+   "Field Service Engineer 2\nTW-Taichung-01 (3105)\nPosted 7 months ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099555453504",
+   "Field Service Engineer 2\nIE-Dublin (2601)\nPosted a month ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099554061792",
+   "Field Service Engineer 2\nCN-Wuhan-03 (3463)\nPosted 3 months ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099556285733",
+   "Field Service Engineer 2\nDE-Dresden (2203)\nPosted a month ago"
+  ],
+  [
+   "https://careers.lamresearch.com/careers/job/1099555665899",
+   "Field Service Engineer 2\nTW-Kaohsiung-01 (3108)\nPosted 2 months ago"
+  ],
+  [
+   "https://tdp.trustarc.com/?cmId=lw9wao&seedUrl=https://careers.lamresearch.com/&locale=en",
+   "Tracker Details"
+  ],
+  [
+   "https://www.lamresearch.com/wp-content/uploads/2024/04/Lam-Research-Job-Candidate-Privacy-Notice-CCPA-supplement-2024.pdf",
+   ""
+  ],
+  [
+   "https://www.lamresearch.com/wp-content/uploads/2024/04/Lam-Research-Job-Candidate-Privacy-Notice-CCPA-supplement-2024.pdf",
+   ""
+  ]
+ ]
+}

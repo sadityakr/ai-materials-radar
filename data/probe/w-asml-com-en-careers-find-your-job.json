@@ -1,0 +1,991 @@
+{
+ "url": "https://www.asml.com/en/careers/find-your-job",
+ "final": "https://www.asml.com/en/careers/find-your-job",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://www.asml.com/en/careers/find-your-job",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/pages/_app-7d6e88b14a18104c.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/build-TfctsWXpff2fKS/_ssgManifest.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/pages/%5B%5B...path%5D%5D-dfdc4f60ef22cc86.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/main-618ca4b9b493decd.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/webpack-5106a97114f89984.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/build-TfctsWXpff2fKS/_buildManifest.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/584-09bb99fdfe96570c.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/6d2b60a9-47c5051177fba50a.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/638-e3f2a13b724eef9c.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/119-0bca8a27312e4794.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/framework-5e231e8d466dfb9e.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/643-d3d23baa0c74dbeb.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/static/chunks/328.5d9ea98e5d8359fa.js?dpl=dpl_8yAQSkvLjYcDPzcfCmpBnT6KCX6V",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/js/analytics/adobe/adv_dcf_ASML.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/bf0955f74a83785b/script.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://edge-platform.sitecorecloud.io/v1/events/v1.2/browser/create.json?client_key=",
+   "method": "GET",
+   "status": 201,
+   "type": "application/json",
+   "preview": "{\"status\":\"OK\",\"version\":\"1.2\",\"client_key\":\"e63017d42bd27b9a5391bb5fad1f0a02\",\"ref\":\"d6e3111e-eb74-4b45-bd44-e01b3529cc67\",\"customer_ref\":\"eca0b697-3b66-4a6b-b3b9-91319db95eed\"}"
+  },
+  {
+   "url": "https://www.youtube.com/iframe_api",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/company/sustainability.json?path=company&path=sustainability",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/company/sustainability\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Sustainability\",\"displayName\":\"Sustainability\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Sustainability\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"2026-02-03T13:20:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/company/sustainability/picturet.jpg?h=2014&iar=0&w=2934\",\"alt\":\"Cleanroom employees working together around semiconductor manufacturing equipment.\",\"width\":\"2934\",\"height\":\"2014\"}},\"Summary\":{\"value\":\"Find out what sustainability means to us at ASML and what concrete actions we are taking together with our customers, suppliers and partners.\"},\"Title\":{\"value\":\"Sustainability\"},\"hideFo"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products.json?path=products",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Products\",\"displayName\":\"Products\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Products\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/technology/cleanroom/46989-cleanroom-assembly.jpg?h=1280&iar=0&w=1920\",\"alt\":\"ASML cleanroom assembly\",\"width\":\"1920\",\"height\":\"1280\"}},\"Summary\":{\"value\":\"Find out how we provide our customers with the hardware, software and services they need to mass produce patterns on silicon.\"},\"Title\":{\"value\":\"Products\"},\"hideFooter\":{\"value\":false},\"invertColor\":{\"value\":true},\"metaPageTitle\":{\"value\":\"ASML products & servic"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/interview-tips.json?path=careers&path=interview-tips",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/interview-tips\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"interview tips\",\"displayName\":\"interview tips\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Interviewing at ASML\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/careers/interview-tips/asml_fist_bump_may_2020_003---resized.jpg?h=1080&iar=0&w=1920\",\"alt\":\"Two colleagues greeting each other with a fist bump in an office corridor.\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"Discover how we conduct interviews at ASML, as well as tips and tricks that will help you make a lasting impression during your interview and set you up for su"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers.json?path=en&path=careers",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"careers\",\"displayName\":\"careers\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Careers\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/careers/working-at-asml/life-at-asml/asml_bpop_eu_header_saeedeh.jpg?h=1080&iar=0&w=1920\",\"alt\":\"Woman adjusting equipment in a technical laboratory.\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"Explore careers at ASML and join the high-tech semiconductor industry, where you can work on technology that can change the world.\"},\"Title\":{\"value\":\"Careers\"},\"hideFooter\":{\"value\":false},\"invertColor\":{\"value\":false}"
+  },
+  {
+   "url": "https://www.asml.com/api/search-token",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "{\"force\":false}",
+   "preview": "{\"accessToken\":\"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhcGlLZXkvNjJmNThkOTMiLCJzY29wZSI6eyIxMjYyMDA0NzciOlsiMW85eW53Zjd1YyIsIm83dDVycmJqazAiXX0sInN0YWdlIjoicHJvZCIsInJlZ2lvbiI6ImV1LWNlbnRyYWwtMSIsImp0aSI6ImQ2YTdjZTkwLWIyMzYtNDRhMS05YWRjLTg3ZTE3ODVlYmU1NSIsImlhdCI6MTc5NDYxMzE2NCwiZXhwIjoxNzk0NzAwMTY0fQ.3h9N4GHJ3SikB2HHmkiXW-yrsdpsfZFtJcoviYc37gE\",\"accessTokenExpiry\":1794699564333}"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/company.json?path=company",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/company\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"company\",\"displayName\":\"Company\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Company\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/company/47129-aerial-company-section.jpg?h=1282&iar=0&w=1920\",\"alt\":\"\",\"width\":\"1920\",\"height\":\"1282\"}},\"Summary\":{\"value\":\"Get to know ASML and learn about our vision and mission, our history, and how we operate.\"},\"Title\":{\"value\":\"Company\"},\"hideFooter\":{\"value\":false},\"invertColor\":{\"value\":false},\"metaPageTitle\":{\"value\":\"About the company | ASML - Supplying the semiconductor industry\"},\"metaDescription\":{\"value\":\""
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/euv-lithography-systems.json?path=products&path=euv-lithography-systems",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products/euv-lithography-systems\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"euv lithography systems\",\"displayName\":\"euv lithography systems\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"EUV lithography\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/products/euv-lithography-systems/nxe3400_simplified_front_semiclosed.jpg?h=1080&iar=0&w=1920\",\"alt\":\"ASML TWINSCAN NXE:3400 EUV lithography machine\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"Using extreme ultraviolet (EUV) light, our NXE and EXE systems deliver high-resolution lithography and make mass production of the world’s most advanced mic"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/technology.json?path=technology",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/technology\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Technology\",\"displayName\":\"technology\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Technology\"},\"Page Design\":{\"id\":\"a2735df5-e289-4905-8b17-141e1d1e30aa\",\"url\":\"/en/presentation/page-designs/default\",\"name\":\"Default\",\"displayName\":\"Default\",\"fields\":{\"PartialDesigns\":[{\"id\":\"23d92a72-cfe2-4421-9d24-6de0d84673e3\",\"url\":\"/en/presentation/partial-designs/header\",\"name\":\"Header\",\"displayName\":\"Header\",\"fields\":{\"Signature\":{\"value\":\"header\"},\"Base Partial Design\":null}},{\"id\":\"1def0f9e-1a7c-4500-9971-6ff08b0d440f\",\"url\":\"/en/presentation/partial-designs/footer\",\"name\":\"Footer\",\"displayName\":\"Footer\",\"fields\":{\"Signature\":{\"value\":\"footer\"},\"Base Partial Design\":null}}]}},\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Su"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/duv-lithography-systems.json?path=products&path=duv-lithography-systems",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products/duv-lithography-systems\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"duv lithography systems\",\"displayName\":\"duv lithography systems\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"DUV lithography\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/products/duv-lithography-systems/twinscan-nxt2000i.png?h=1080&iar=0&w=1920\",\"alt\":\"ASML TWINSCAN NXT:2000i DUV lithography machine\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"ASML's deep ultraviolet (DUV) lithography systems dive deep into the UV spectrum to print the tiny features that form the basis of the microchip.\"},\"Title\":{\"value\":\"DUV lit"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/saved-jobs.json?path=careers&path=saved-jobs",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/saved-jobs\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Saved Jobs\",\"displayName\":\"Saved Jobs\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Saved jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\"displayName\":\"Multilingual Header\",\"fields\":{\"Signature\":{\"value\":\"header\"},\"Base Partial Design\":null}},{\"id\":\"1def0f9e-1a7c-4500-9971-6ff08b0d440f\",\"url\":\"/en/presentation/partial-designs/footer\",\"name\":\"Footer\",\"displayName\":\"Footer\",\"fields\":{\"Signature\":{\"value\":\"footer\"},\"Base Partial Design\":nu"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job.json?path=careers&path=find-your-job",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\"displayName\":\"Multilingual Header\",\"fields\":{\"Signature\":{\"value\":\"header\"},\"Base Partial Design\":null}},{\"id\":\"1def0f9e-1a7c-4500-9971-6ff08b0d440f\",\"url\":\"/en/presentation/partial-designs/footer\",\"name\":\"Footer\",\"displayName\":\"Footer\",\"fields\":{\"Signature\":{\"value\":\"footer\"},\"Base Partial "
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/technology/software.json?path=technology&path=software",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/technology/software\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"software\",\"displayName\":\"software\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Software\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/technology/software/lines-of-code.jpg?h=1080&iar=0&w=1920\",\"alt\":\"Lines of colored code on a black background.\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"ASML has one of the world’s largest and most pioneering software communities.\"},\"Title\":{\"value\":\"Software\"},\"hideFooter\":{\"value\":false},\"invertColor\":{\"value\":false},\"metaPageTitle\":{\"value\":\"Software | ASML - Supplying the semiconductor ind"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/teams.json?path=careers&path=teams",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/teams\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"teams\",\"displayName\":\"Teams\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Teams\"},\"Page Design\":{\"id\":\"a2735df5-e289-4905-8b17-141e1d1e30aa\",\"url\":\"/en/presentation/page-designs/default\",\"name\":\"Default\",\"displayName\":\"Default\",\"fields\":{\"PartialDesigns\":[{\"id\":\"23d92a72-cfe2-4421-9d24-6de0d84673e3\",\"url\":\"/en/presentation/partial-designs/header\",\"name\":\"Header\",\"displayName\":\"Header\",\"fields\":{\"Signature\":{\"value\":\"header\"},\"Base Partial Design\":null}},{\"id\":\"1def0f9e-1a7c-4500-9971-6ff08b0d440f\",\"url\":\"/en/presentation/partial-designs/footer\",\"name\":\"Footer\",\"displayName\":\"Footer\",\"fields\":{\"Signature\":{\"value\":\"footer\"},\"Base Partial Design\":null}}]}},\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"va"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job.json?path=en&path=careers&path=find-your-job",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\"displayName\":\"Multilingual Header\",\"fields\":{\"Signature\":{\"value\":\"header\"},\"Base Partial Design\":null}},{\"id\":\"1def0f9e-1a7c-4500-9971-6ff08b0d440f\",\"url\":\"/en/presentation/partial-designs/footer\",\"name\":\"Footer\",\"displayName\":\"Footer\",\"fields\":{\"Signature\":{\"value\":\"footer\"},\"Base Partial "
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/company/stories.json?path=company&path=stories",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/company/stories\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Stories\",\"displayName\":\"Stories\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Stories\"},\"Page Design\":{\"id\":\"a2735df5-e289-4905-8b17-141e1d1e30aa\",\"url\":\"/en/presentation/page-designs/default\",\"name\":\"Default\",\"displayName\":\"Default\",\"fields\":{\"PartialDesigns\":[{\"id\":\"23d92a72-cfe2-4421-9d24-6de0d84673e3\",\"url\":\"/en/presentation/partial-designs/header\",\"name\":\"Header\",\"displayName\":\"Header\",\"fields\":{\"Signature\":{\"value\":\"header\"},\"Base Partial Design\":null}},{\"id\":\"1def0f9e-1a7c-4500-9971-6ff08b0d440f\",\"url\":\"/en/presentation/partial-designs/footer\",\"name\":\"Footer\",\"displayName\":\"Footer\",\"fields\":{\"Signature\":{\"value\":\"footer\"},\"Base Partial Design\":null}}]}},\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtit"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/computational-lithography.json?path=products&path=computational-lithography",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products/computational-lithography\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"computational lithography\",\"displayName\":\"computational lithography\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Computational lithography\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/technology/lithography-elements/47149-lithography-elements-wafer-reticle.jpg?h=1280&iar=0&w=1920\",\"alt\":\"lithography elements wafer reticle\",\"width\":\"1920\",\"height\":\"1280\"}},\"Summary\":{\"value\":\"ASML's industry-leading computational lithography products enable accurate lithography simulations that help to improve chip yield and quality.\"},\"T"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/refurbished-systems.json?path=products&path=refurbished-systems",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products/refurbished-systems\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"refurbished systems\",\"displayName\":\"refurbished systems\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Refurbished systems\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/technology/cleanroom/47119-refurbished-systems.jpg?h=1280&iar=0&w=1920\",\"alt\":\"An ASML employee in a cleanroom suit works on a DUV lithography system. \",\"width\":\"1920\",\"height\":\"1280\",\"title\":\"DUV cleanroom – Refurbished system\"}},\"Summary\":{\"value\":\"We refurbish ‘classic’ PAS 5500 and TWINSCAN lithography systems for a new life and a new purpose.\"},\"Title\":{\"valu"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers.json?path=careers",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"careers\",\"displayName\":\"careers\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Careers\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/careers/working-at-asml/life-at-asml/asml_bpop_eu_header_saeedeh.jpg?h=1080&iar=0&w=1920\",\"alt\":\"Woman adjusting equipment in a technical laboratory.\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"Explore careers at ASML and join the high-tech semiconductor industry, where you can work on technology that can change the world.\"},\"Title\":{\"value\":\"Careers\"},\"hideFooter\":{\"value\":false},\"invertColor\":{\"value\":false}"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/customer-support.json?path=products&path=customer-support",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products/customer-support\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"customer support\",\"displayName\":\"customer support\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Customer support\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/technology/cleanroom/47027-cleanroom-assembly.jpg?h=1080&iar=0&w=1920\",\"alt\":\"System performance engineer\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"Our engineers work tirelessly to design customer-centric products and keep them running smoothly.\"},\"Title\":{\"value\":\"Customer support\"},\"hideFooter\":{\"value\":false},\"invertColor\":{\"value\":false},\"metaPageTitle\":{\"valu"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/products/metrology-and-inspection-systems.json?path=products&path=metrology-and-inspection-systems",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/products/metrology-and-inspection-systems\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"metrology and inspection systems\",\"displayName\":\"metrology and inspection systems\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Metrology & inspection\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/technology/43677-inside-nxe3400.jpg?h=1080&iar=0&w=1920\",\"alt\":\"NXE3400 metrology\",\"width\":\"1920\",\"height\":\"1080\"}},\"Summary\":{\"value\":\"Our optical and e-beam wafer metrology and inspection products quickly and accurately measure pattern quality before and during high-volume chip manufacturing.\"},\"Title\":{\"value\":\"Metrolog"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/technical-fields.json?path=careers&path=technical-fields",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/technical-fields\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"technical fields\",\"displayName\":\"technical fields\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Technical fields\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"0001-01-01T00:00:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/careers/job-categories/job-categories-planning.jpg?h=1256&iar=0&w=1920\",\"alt\":\"Hands arranging colorful sticky notes on a planning board.\",\"width\":\"1920\",\"height\":\"1256\"}},\"Summary\":{\"value\":\"Explore job opportunities by technical fields, ranging from data science to mechatronics and everything in between.\"},\"Title\":{\"value\":\"Technical fields\"},\"hideFooter\":{\"value\":false},\"in"
+  },
+  {
+   "url": "https://edge-platform.sitecorecloud.io/v1/events/v1.2/events?siteId=asmlcom",
+   "method": "POST",
+   "status": 201,
+   "type": "application/json",
+   "post": "{\"browser_id\":\"d6e3111e-eb74-4b45-bd44-e01b3529cc67\",\"channel\":\"WEB\",\"client_key\":\"\",\"currency\":\"EUR\",\"language\":\"en\",\"page\":\"Find Your Job\",\"pos\":\"\",\"requested_at\":\"2026-11-14T01:05:52.844Z\",\"type\":\"VIEW\",\"ext\":{\"pageVariantId\":\"2188a6a6fa98476cb698e3ac66eb1151_en_default\"}}",
+   "preview": "{\"status\":\"OK\",\"version\":\"1.2\",\"client_key\":\"e63017d42bd27b9a5391bb5fad1f0a02\",\"ref\":\"e9b2fce8-4de8-43dd-a2a1-d34f169f001d\"}"
+  },
+  {
+   "url": "https://www.youtube.com/s/player/fad7e4e9/www-widgetapi.vflset/www-widgetapi.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Home\",\"displayName\":\"Home\",\"fields\":{\"seoCustomMetaData\":{\"value\":\"google-site-verification=xdDwUejdj5XqvhFJGajhvNVRprlD2dWmwQQVaS3WEtM&facebook-domain-verification=mn0kz62eo911g0i9hev3x98wqjj12f&msvalidate.01=1869F0AA8D826A06E423773DB30C83F2\"},\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Home\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"2026-06-25T13:48:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/home/asml-tv-image-1920-x-958-asml_high_na_still_oi_f0_01.jpg?h=958&iar=0&w=1920\",\"alt\":\"ASML TV Image 1920 x 958-ASML_High_NA_Still_OI_F0_01\",\"width\":\"1920\",\"height\":\"958\"}},\"Summary\":{\"value\":\"\"},\"Title\":{\"value\":\"ASML | The worl"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en.json?path=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{A2735DF5-E289-4905-8B17-141E1D1E30AA}\",\"name\":\"Default\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default\"},\"variantId\":\"_default\"},\"route\":{\"name\":\"Home\",\"displayName\":\"Home\",\"fields\":{\"seoCustomMetaData\":{\"value\":\"google-site-verification=xdDwUejdj5XqvhFJGajhvNVRprlD2dWmwQQVaS3WEtM&facebook-domain-verification=mn0kz62eo911g0i9hev3x98wqjj12f&msvalidate.01=1869F0AA8D826A06E423773DB30C83F2\"},\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Home\"},\"Page Design\":null,\"publicationDate\":{\"value\":\"2026-06-25T13:48:00Z\"},\"Subtitle\":{\"value\":\"\"},\"Image\":{\"value\":{\"src\":\"https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/images/home/asml-tv-image-1920-x-958-asml_high_na_still_oi_f0_01.jpg?h=958&iar=0&w=1920\",\"alt\":\"ASML TV Image 1920 x 958-ASML_High_NA_Still_OI_F0_01\",\"width\":\"1920\",\"height\":\"958\"}},\"Summary\":{\"value\":\"\"},\"Title\":{\"value\":\"ASML | The worl"
+  },
+  {
+   "url": "https://discover-euc1.sitecorecloud.io/discover/v2/126200477",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "{\"context\":{\"page\":{\"uri\":\"https://www.asml.com/en/careers/find-your-job\"},\"locale\":{\"country\":\"us\",\"language\":\"en\"}},\"widget\":{\"items\":[{\"entity\":\"content\",\"rfk_id\":\"asml_job_search\",\"search\":{\"limit\":25,\"offset\":0,\"facet\":{\"all\":true}}}]}}",
+   "preview": "{\"widgets\":[{\"rfk_id\":\"asml_job_search\",\"type\":\"content_grid\",\"used_in\":\"common_across_pages\",\"entity\":\"content\",\"facet\":[{\"name\":\"job_teams\",\"label\":\"Job Teams\",\"value\":[{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJBcHBsaWNhdGlvbnMgRW5naW5lZXJpbmcifQ==\",\"text\":\"Applications Engineering\",\"count\":40},{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJCdXNpbmVzcyBQZXJmb3JtYW5jZSBJbXByb3ZlbWVudCJ9\",\"text\":\"Business Performance Improvement\",\"count\":9},{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJDb21tdW5pY2F0aW9ucyJ9\",\"text\":\"Communications\",\"count\":1},{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJDdXN0b21lciBTdXBwb3J0In0=\",\"text\":\"Customer Support\",\"count\":153},{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJEYXRhIGFuZCBBbmFseXRpY3MifQ==\",\"text\":\"Data and Analytics\",\"count\":3},{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJEZXNpZ24gRW5naW5lZXJpbmcgYW5kIEFyY2hpdGVjdHVyZSJ9\",\"text\":\"Design Engineering and Architecture\",\"count\":102},{\"id\":\"facetid_eyJ0eXBlIjoiZXEiLCJuYW1lIjoiam9iX3RlYW1zIiwidmFsdWUiOiJFSFMifQ==\",\"text\":\"EHS\",\"count\":12},{\"id\":\"facetid_"
+  },
+  {
+   "url": "https://discover-euc1.sitecorecloud.io/discover/v2/126200477",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "{\"context\":{\"page\":{\"uri\":\"https://www.asml.com/en/careers/find-your-job\"},\"locale\":{\"country\":\"us\",\"language\":\"en\"},\"user\":{\"uuid\":\"126200477-kj-mo-4q-1p-56hbp1tunmza2qwvu91y-1794618353276\"}},\"widget\":{\"items\":[{\"entity\":\"content\",\"rfk_id\":\"asml_job_search\",\"search\":{\"limit\":25,\"offset\":0,\"content\":{},\"filter\":{\"type\":\"and\",\"filters\":[{\"name\":\"job_type\",\"values\":[\"Fix\"],\"type\":\"anyOf\"}]}}}]}}",
+   "preview": "{\"widgets\":[{\"rfk_id\":\"asml_job_search\",\"type\":\"content_grid\",\"used_in\":\"common_across_pages\",\"entity\":\"content\",\"content\":[{\"description\":\"<p><b>Introduction to the job</b><br />Do you like challenges and do you want to work in a fast pacing supply chain environment to support some of the biggest semiconductor companies worldwide? Are you familiar with Logistics Operations and like to managing urgent demands on a daily basis? <br />If this sounds like you and if you have a strong customer oriented mindset, here is your mission.<br /><br /><b>Role and responsibilities</b><br />For our Global Operations Center in Taiwan we are searching for Supply Chain Professionals. You fulfill the demand of our customers for spare parts and tools for their maintenance activities on some of the most complex machines in the right quantity and at the right time &amp; cost.<br /><br />Time is of the essence to ensure a seamless production of our customers without interruptions on our machines.</p><ul><li><p>Handling of urgent material requests from worldwide customers <b><u>in a rolling 24/7 shift </u></b>system with the right customer focus, while meeting all milestones related to communication and "
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/equipment-engineer-wet-processes-j00350084.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/equipment-engineer-wet-processes-j00350084\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\"displayN"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/cs-global-operation-center-shift-planner-linkoutaichung-j00346679.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/cs-global-operation-center-shift-planner-linkoutaichung-j00346679\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multili"
+  },
+  {
+   "url": "https://insight.adsrvr.org/track/evnt/?adv=lhxs2fp&ct=0:x0n06wz&fmt=3",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://insight.adsrvr.org/track/conv/?adv=lhxs2fp&ct=0:75tm9ql&fmt=3",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://zn3lkkre1uvwseviz-asmlcx.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_3Lkkre1uvWSeVIz",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://sc-static.net/scevent.min.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript;charset=utf-8"
+  },
+  {
+   "url": "https://cm.everesttech.net/cm/dd?d_uuid=24838999757114590270762317942037064296",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://ib.adnxs.com/getuid?https%3a%2f%2fmatch.adsrvr.org%2ftrack%2fcmf%2fappnexus%3fttd%3d1%26anid%3d%24UID&ttd_tdid=1a85bfac-db9d-4b3f-84b8-4b282a87a07e",
+   "method": "GET",
+   "status": 307,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=1a85bfac-db9d-4b3f-84b8-4b282a87a07e&gdpr=0&gdpr_consent=&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/64.52be4488e28de16750e4.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=www.asml.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://match.adsrvr.org/track/cmf/rubicon?gdpr=0",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3Fhttps%253a%252f%252fmatch.adsrvr.org%252ftrack%252fcmf%252fappnexus%253fttd%253d1%2526anid%253d%2524UID%26ttd_tdid%3D1a85bfac-db9d-4b3f-84b8-4b282a87a07e",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://zn5mvwfi1g8ili9hu-asmlcx.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_5mvWFI1g8Ili9HU",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript;charset=utf-8"
+  },
+  {
+   "url": "https://match.adsrvr.org/track/cmf/appnexus?ttd=1&anid=6414736895249197106&ttd_tdid=1a85bfac-db9d-4b3f-84b8-4b282a87a07e",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://discover-euc1.sitecorecloud.io/event/61398015-126200477/v4/publish",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "{\"name\":\"widget\",\"action\":\"view\",\"client_time_ms\":1794618353608,\"uuid\":\"126200477-kj-mo-4q-1p-56hbp1tunmza2qwvu91y-1794618353276\",\"value\":{\"context\":{\"page\":{\"locale_country\":\"us\",\"locale_language\":\"en\",\"uri\":\"https://www.asml.com/en/careers/find-your-job\"},\"browser\":{\"user_agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\"}},\"rfk_id\":\"asml_job_search\",\"request\":{\"keyword\":\"\",\"num_requested\":25,\"num_results\":25,\"page_size\":25,\"total_results\":662,\"page_number\":1},\"entities\":[{\"id\":\"J-00346679\",\"entity_type\":\"content\",\"entity_subtype\":\"job_detail_page\",\"uri\":\"https://www.asml.com/en/careers/find-your-job/cs-global-operation-center-shift-planner-linkoutaichung-j00346679\"},{\"id\":\"J-00350084\",\"entity_type\":\"content\",\"entity_subtype\":\"job_d",
+   "preview": "{\"success\":true,\"debug_object\":{}}\n"
+  },
+  {
+   "url": "https://tr.snapchat.com/cm/i?pid=f385f01c-00a2-4e00-b7bc-d753f1cde2c3&u_scsid=2a3dce1c-7f88-4326-808e-cc6d18d83e32&u_sclid=5c641c21-665c-4dbd-aed0-d8487655b052",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  },
+  {
+   "url": "https://tr.snapchat.com/cm/i?pid=33d084c4-088d-4eaa-b5e7-5fbdc1632da7&u_scsid=2a3dce1c-7f88-4326-808e-cc6d18d83e32&u_sclid=5c641c21-665c-4dbd-aed0-d8487655b052",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  },
+  {
+   "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=1830&partner_device_id=1a85bfac-db9d-4b3f-84b8-4b282a87a07e&partner_url=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dtapad",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://adservices.brandcdn.com/pixel/cv_img?aid=348377",
+   "method": "GET",
+   "status": 200,
+   "type": "image/jpg"
+  },
+  {
+   "url": "https://tr.snapchat.com/config/com/f385f01c-00a2-4e00-b7bc-d753f1cde2c3.js?v=3.65.1-2611122036",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://tr.snapchat.com/config/com/33d084c4-088d-4eaa-b5e7-5fbdc1632da7.js?v=3.65.1-2611122036",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_3Lkkre1uvWSeVIz&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "Q_LOC=https%3A%2F%2Fwww.asml.com%2Fen%2Fcareers%2Ffind-your-job&xmdRetryCount=0&hasAnalyticsConsent=null&Timestamp=2026-11-14T01%3A05%3A54.040Z",
+   "preview": "{\"Intercepts\":[{\"InterceptID\":\"SI_eOL9hG2QAQGHqOG\",\"InterceptRevision\":null,\"Decision\":{\"ActionSetID\":null,\"Creative\":null,\"Target\":{\"Type\":\"\",\"URL\":\"\",\"OriginalURL\":null,\"OriginalURLOrigin\":null,\"DisplayType\":null},\"PopUnderTarget\":null},\"DistributionID\":null,\"DirectoryID\":null,\"ContactID\":null,\"SurveyID\":null}],\"ClientSideIntercepts\":[{\"InterceptID\":\"SI_eOL9hG2QAQGHqOG\",\"Name\":\"AR 2024 survey\",\"Active\":true,\"RandomizedActionSets\":false,\"InterceptRevision\":\"24\",\"PreventRepeatedDisplay\":\"180\",\"HideOnLocalStorageDisabled\":true,\"HideOnCookiesDisabled\":true,\"LogicTree\":{\"Value\":false,\"Type\":\"ValueNode\"},\"ActionSets\":[],\"ContactID\":null,\"DistributionID\":null,\"DirectoryID\":null,\"ContactFrequencyRulesEnabled\":false}],\"Modules\":{},\"FeatureFlags\":{\"DX.PepperPotts_TestingTools\":false,\"DUX.ClientSideTargetingM1\":true,\"SI.ResponsiveDialog.EnableDisplayOptions\":true,\"DX.GoogleDataLayer\":true,\"DX.CustomCSSChanges\":true,\"DX.PepperPotts_XMD\":true,\"DX.UpdateAssetHostName\":false,\"DX.DxaAdobeEvents\":false,\"DX.UseDXAIngestionV2\":true,\"DX.PepperPotts_PakoCompression\":true,\"isClientLoggingEnabled\":false,\"DX.EmbeddedFeedback_NewAPIs\":true,\"DX.PostToStart\":true,\"DX.DXA_Disable_Inline_Stylesheets\":false,\""
+  },
+  {
+   "url": "https://pixel.tapad.com/idsync/ex/receive/check?partner_id=1830&partner_device_id=1a85bfac-db9d-4b3f-84b8-4b282a87a07e&partner_url=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dtapad",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://sc-static.net/scevent.min.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript;charset=utf-8"
+  },
+  {
+   "url": "https://sc-static.net/scevent.min.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript;charset=utf-8"
+  },
+  {
+   "url": "https://tr.snapchat.com/cm/s?bt=1d53c387&pnid=140&cb=1794618354256&u_scsid=ab6e5a43-68eb-43bc-9d39-937803ebcd30&u_sclid=317008b5-4628-4b1c-b348-322c83358ebb",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://tr.snapchat.com/cm/s?bt=1d53c387&pnid=140&cb=1794618354259&u_scsid=ab6e5a43-68eb-43bc-9d39-937803ebcd30&u_sclid=317008b5-4628-4b1c-b348-322c83358ebb",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://secure.adnxs.com/getuid?https%3A%2F%2Fpixel.tapad.com%2Fidsync%2Fex%2Freceive%3Fpartner_id%3DAPPNEXUS%26partner_device_id%3D%24UID%26pt%3D682dd5ba-3c8a-4dcd-b6ca-697d9e638e41%252Chttps%25253A%25252F%25252Fmatch.adsrvr.org%25252Ftrack%25252Fcmf%25252Fgeneric%25253Fttd_pid%25253Dtapad%252C",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://aa.agkn.com/adscores/g.pixel?sid=9211946648&tdid=1a85bfac-db9d-4b3f-84b8-4b282a87a07e&_redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Dadadvisor%26ttd_tpi%3D1%26gdpr%3D1%26gdpr_consent%3D",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://tr.snapchat.com/p",
+   "method": "POST",
+   "status": 200,
+   "type": "",
+   "post": "{\"ctx\":{\"bt\":\"1d53c387\",\"c1\":\"a28a4425-3a37-44a6-8f80-7141c45fe0bf\",\"lc\":\"bf436d28-6ae1-4562-a2b4-793408b173b4\",\"ls\":\"5c641c21-665c-4dbd-aed0-d8487655b052\",\"r\":\"0a0cb675-5f29-4171-bf2e-0fcd98fbf4d7\",\"si\":\"zKqiikQlOjelpsqAcUHEX-C_bhMo-WbDmU5cZBwhZly1vTnQ2Eh2VbBSGP3w9ZLoPS8qPc4cf4gkJsmOzG0Y2D4y5sai4KsUS6K_Q20oauFiYhG0eTQIsXO0e9xB_JZ9CMYKDLZ1Xyl9cZguD82Y-_TXxpWaSYzX\",\"ss\":\"2a3dce1c-7f88-4326-808e-cc6d18d83e32\",\"bg\":false,\"df\":true,\"mtp\":0,\"sh\":720,\"sw\":1280,\"ua\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\",\"url\":\"https://www.asml.com/en/careers/find-your-job\",\"v\":\"3.65.1-2611122036\",\"a\":[21,42,51,51,0],\"p\":[408,623,548,625,1948],\"pv\":2,\"rd\":2237,\"sa\":1794618353954,\"sps\":289,\"ts\":1794618354244,\"d_a\":\"x86\",\"d_bvs\":\"[,{\\\"brand\\\":\\\"HeadlessCh"
+  },
+  {
+   "url": "https://pixel.tapad.com/idsync/ex/push?partner_id=2884&partner_url=https%3A%2F%2Ftr.snapchat.com%2Fcm%2Fp%3Frand%3D1794591565401%26pnid%3D140%26pcid%3D%24%7BTA_DEVICE_ID%7D",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://pixel.tapad.com/idsync/ex/push?partner_id=2884&partner_url=https%3A%2F%2Ftr.snapchat.com%2Fcm%2Fp%3Frand%3D1794606373987%26pnid%3D140%26pcid%3D%24%7BTA_DEVICE_ID%7D",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://pixel.tapad.com/idsync/ex/receive?partner_id=APPNEXUS&partner_device_id=6414736895249197106&pt=682dd5ba-3c8a-4dcd-b6ca-697d9e638e41%2Chttps%253A%252F%252Fmatch.adsrvr.org%252Ftrack%252Fcmf%252Fgeneric%253Fttd_pid%253Dtapad%2C",
+   "method": "GET",
+   "status": 302,
+   "type": ""
+  },
+  {
+   "url": "https://d.agkn.com/pixel/10751/?che=1794618354280&ip=172.178.118.83",
+   "method": "GET",
+   "status": 200,
+   "type": "image/gif"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_5mvWFI1g8Ili9HU&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "Q_LOC=https%3A%2F%2Fwww.asml.com%2Fen%2Fcareers%2Ffind-your-job&xmdRetryCount=0&hasAnalyticsConsent=null&Timestamp=2026-11-14T01%3A05%3A54.262Z",
+   "preview": "{\"Intercepts\":[{\"InterceptID\":\"SI_3EsqUpu0YMSmDoW\",\"InterceptRevision\":null,\"Decision\":{\"ActionSetID\":null,\"Creative\":null,\"Target\":{\"Type\":\"\",\"URL\":\"\",\"OriginalURL\":null,\"OriginalURLOrigin\":null,\"DisplayType\":null},\"PopUnderTarget\":null},\"DistributionID\":null,\"DirectoryID\":null,\"ContactID\":null,\"SurveyID\":null},{\"InterceptID\":\"SI_1NE8XWWfAUgsA18\",\"InterceptRevision\":null,\"Decision\":{\"ActionSetID\":null,\"Creative\":null,\"Target\":{\"Type\":\"\",\"URL\":\"\",\"OriginalURL\":null,\"OriginalURLOrigin\":null,\"DisplayType\":null},\"PopUnderTarget\":null},\"DistributionID\":null,\"DirectoryID\":null,\"ContactID\":null,\"SurveyID\":null},{\"InterceptID\":\"SI_81jogMxCxSHrwtE\",\"InterceptRevision\":\"41\",\"Decision\":{\"ActionSetID\":\"AS_14328936\",\"Creative\":{\"ID\":\"CR_abCDrYds71dhxYi\",\"Name\":\"Creative - Job Detail pages EN - Validate clarity\",\"Revision\":\"20\",\"AnchorTags\":{},\"Type\":\"EmbeddedFeedback\"},\"Target\":{\"Type\":\"Survey\",\"URL\":\"https://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_CLIENTTYPE=web&Q_Redirect=https://survey.asml.com/jfe/form/SV_cvRWOIlL1YjqatU?Q_CHL%3Dsi&Q_CID=CR_abCDrYds71dhxYi&Q_ASID=AS_14328936&Q_SRT=fzdxbs7DHbb1CO6007py0A%3D%3D&Q_SIID=SI_81jogMxCxSHrwtE&Q_LOC=https://www.asml.com/en/careers/find"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://tr.snapchat.com/cm/p?rand=1794606373987&pnid=140&pcid=682dd5ba-3c8a-4dcd-b6ca-697d9e638e41",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  },
+  {
+   "url": "https://tr.snapchat.com/cm/p?rand=1794591565401&pnid=140&pcid=682dd5ba-3c8a-4dcd-b6ca-697d9e638e41",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  },
+  {
+   "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=tapad",
+   "method": "GET",
+   "status": 200,
+   "type": "image/gif"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/320.9883ee9cda3253b689c6.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/748.ddc92e2fb3f6c7018535.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_abCDrYds71dhxYi&Version=20&Q_InterceptID=SI_81jogMxCxSHrwtE&Q_ORIGIN=https://www.asml.com&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BrandTier=RQqcwhV2J1&Q_ARCACHEVERSION=21&Q_BRANDDC=fra1",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"CreativeDefinition\":{\"CreativeID\":\"CR_abCDrYds71dhxYi\",\"BrandID\":\"asmlcx\",\"Revision\":\"20\",\"Title\":\"Creative - Job Detail pages EN - Validate clarity\",\"ZoneID\":\"ZN_5mvWFI1g8Ili9HU\",\"Options\":{\"Questions\":[{\"SurveyQuestionId\":\"QID1\",\"QID\":\"QID1\",\"QuestionText\":\"Is this job information clear to you?\",\"Format\":\"embedded-feedback-question-format-yes-no\",\"Style\":\"embedded-feedback-question-style-yes-no\",\"Appearance\":{\"QuestionTextColor\":\"rgba(50, 54, 58, 1)\",\"QuestionTextWeight\":\"embedded-feedback-text-weight-regular\",\"Layout\":\"embedded-feedback-layout-side-by-side\",\"ButtonBorderColor\":\"rgba(11, 110, 208, 1)\",\"ButtonFillColor\":\"rgba(255, 255, 255, 1)\",\"ButtonTextColor\":\"rgba(50, 54, 58, 1)\"},\"Choices\":[{\"CId\":\"1\",\"Display\":\"Yes\",\"Type\":\"Button\",\"PostResponse\":true,\"NextAction\":\"QID3\"},{\"CId\":\"2\",\"Display\":\"No\",\"Type\":\"Button\",\"PostResponse\":false,\"NextAction\":\"QID2\"}]},{\"SurveyQuestionId\":\"QID2\",\"QID\":\"QID2\",\"QuestionText\":\"How can we make this better?\",\"Format\":\"embedded-feedback-question-format-open-text\",\"Style\":\"embedded-feedback-question-style-default\",\"Appearance\":{\"Layout\":\"embedded-feedback-layout-side-by-side\",\"QuestionTextColor\":\"rgba(50, 54, 58, 1)\",\"QuestionTextWeight\":\"emb"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_81jogMxCxSHrwtE&Version=41&Q_ORIGIN=https://www.asml.com&Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BrandTier=RQqcwhV2J1&Q_ARCACHEVERSION=21&Q_BRANDDC=fra1",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"InterceptDefinition\":{\"BrandID\":\"asmlcx\",\"InterceptID\":\"SI_81jogMxCxSHrwtE\",\"InterceptName\":\"Job Detail pages EN - Validate clarity\",\"Revision\":\"41\",\"DeletedDate\":null,\"ActionSets\":{\"AS_14328936\":{\"ID\":\"AS_14328936\",\"Creative\":\"CR_abCDrYds71dhxYi\",\"WeightedSampleRate\":\"\",\"Target\":{\"PrimaryElement\":\"SV_cvRWOIlL1YjqatU\",\"Type\":\"Survey\"},\"ActionOptions\":{\"targetNewWindow\":true,\"targetEmbedded\":false,\"targetFullScreen\":false,\"resizeForEmbeddedTargets\":true,\"targetWidth\":1000,\"targetHeight\":800,\"displayElement\":\"\",\"selectedDevices\":[],\"actionSetSampleRate\":100,\"actionSetContinueExecution\":true},\"CreativeType\":\"EmbeddedFeedback\",\"EmbeddedData\":[{\"name\":\"URL\",\"type\":\"CurrentPage\",\"value\":\"\"}]}},\"DisplayOptions\":{\"displayRate\":100,\"noshow\":\"0\",\"cookieDomain\":\"\",\"hasRandomization\":false,\"displayInterceptType\":\"onload\",\"hideOnCookiesDisabled\":true,\"hideOnLocalStorageDisabled\":true},\"Logic\":\"\"}}"
+  },
+  {
+   "url": "https://d6unz3nsyh8vw.cloudfront.net/3SFv8DuWrRsddehY9xMi45LjA.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/652.a4aca01ffd537d93dbb2.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/129.1bf3453814badbc11e10.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/93.3fc8ebec1634126246d2.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/994.b146f24b8394a6d43d91.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/472.5f9b15faf3fc2850e514.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://siteintercept.qualtrics.com/dxjsmodule/260.27feb11e345b35d7be57.chunk.js?Q_CLIENTVERSION=2.61.0&Q_CLIENTTYPE=web&Q_BRANDID=asmlcx",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.redditstatic.com/ads/pixel.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://pixel-config.reddit.com/pixels/t2_6cmitl35t/config",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"aam\":{},\"esc\":{\"page_metadata\":true}}\n"
+  },
+  {
+   "url": "https://tr6.snapchat.com/p",
+   "method": "POST",
+   "status": 200,
+   "type": "",
+   "post": "{\"ctx\":{\"bt\":\"1d53c387\",\"c1\":\"a28a4425-3a37-44a6-8f80-7141c45fe0bf\",\"lc\":\"bf436d28-6ae1-4562-a2b4-793408b173b4\",\"ls\":\"5c641c21-665c-4dbd-aed0-d8487655b052\",\"r\":\"212b9df8-4ab2-4c38-b738-fc43c24c7c18\",\"si\":\"zKqiikQlOjelpsqAcUHEX-C_bhMo-WbDmU5cZBwhZly1vTnQ2Eh2VbBSGP3w9ZLoPS8qPc4cf4gkJsmOzG0Y2D4y5sai4KsUS6K_Q20oauFiYhG0eTQIsXO0e9xB_JZ9iAchK534SrI_OKo4_EPCTHwY7bRxzHi5\",\"ss\":\"2a3dce1c-7f88-4326-808e-cc6d18d83e32\",\"bg\":false,\"df\":true,\"mtp\":0,\"sh\":720,\"sw\":1280,\"ua\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\",\"url\":\"https://www.asml.com/en/careers/find-your-job\",\"v\":\"3.65.1-2611122036\",\"a\":[21,42,51,51,0],\"p\":[408,623,548,625,1948],\"pv\":2,\"rd\":2582,\"sa\":1794618353954,\"sps\":634,\"ts\":1794618354589,\"d_a\":\"x86\",\"d_bvs\":\"[,{\\\"brand\\\":\\\"HeadlessCh"
+  },
+  {
+   "url": "https://alb.reddit.com/rp?id=t2_6cmitl35t&event=PageVisit",
+   "method": "POST",
+   "status": 200,
+   "type": "text/plain; charset=utf-8",
+   "post": "ts=1794618354584&id=t2_6cmitl35t&event=PageVisit&uuid=c8260f05-07ca-4ca1-b01a-fd92594b9dcd&integration=reddit&opt_out=0&sh=1280&sw=720&v=rdt_fe24cf0d&esurl=https%3A%2F%2Fwww.asml.com%2Fen%2Fcareers%2Ffind-your-job&db=tsc-0.iframe-0.isc-0.pp-0.mo-1.srv_cfg-0.src_pid-0.pms-2&mthd=POST"
+  },
+  {
+   "url": "https://tr.snapchat.com/p",
+   "method": "POST",
+   "status": 200,
+   "type": "",
+   "post": "{\"ctx\":{\"bt\":\"1d53c387\",\"c1\":\"a28a4425-3a37-44a6-8f80-7141c45fe0bf\",\"lc\":\"bf436d28-6ae1-4562-a2b4-793408b173b4\",\"ls\":\"5c641c21-665c-4dbd-aed0-d8487655b052\",\"r\":\"ef4bd2bf-3504-40b8-baef-56d1b1c05d99\",\"si\":\"zKqiikQlOjelpsqAcUHEX-C_bhMo-WbDmU5cZBwhZly1vTnQ2Eh2VbBSGP3w9ZLoPS8qPc4cf4gkJsmOzG0Y2D4y5sai4KsUS6K_Q20oauFiYhG0eTQIsXO0e9xB_JZ9eojvS9K_NQSzuFTvVtGxwF2Zq9S2g2TM\",\"ss\":\"2a3dce1c-7f88-4326-808e-cc6d18d83e32\",\"bg\":false,\"df\":true,\"mtp\":0,\"sh\":720,\"sw\":1280,\"ua\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\",\"url\":\"https://www.asml.com/en/careers/find-your-job\",\"v\":\"3.65.1-2611122036\",\"a\":[21,42,51,51,0],\"p\":[408,623,548,625,1948],\"pv\":2,\"rd\":2775,\"sa\":1794618353954,\"sps\":827,\"ts\":1794618354782,\"d_a\":\"x86\",\"d_bvs\":\"[,{\\\"brand\\\":\\\"HeadlessCh"
+  },
+  {
+   "url": "https://com-vonq-main.collector.snplow.net/com.snowplowanalytics.snowplow/tp2",
+   "method": "POST",
+   "status": 200,
+   "type": "text/plain",
+   "post": "{\"schema\":\"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4\",\"data\":[{\"e\":\"ue\",\"ue_px\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy91bnN0cnVjdF9ldmVudC9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJzY2hlbWEiOiJpZ2x1OmNvbS52b25xL3N0ZXBfdmlldy9qc29uc2NoZW1hLzEtMi0wIiwiZGF0YSI6eyJsYWJlbCI6ImNhcmVlci1wYWdlIiwiY3VzdG9tZXJSZWZlcmVuY2VJZCI6IiIsInBhZ2VUaXRsZSI6IkZpbmQgeW91ciBqb2IgLSBDYXJlZXJzIGF0IEFTTUwiLCJlbnRpdHkiOiI3NWE1NTMzNy01NDNkLTQ1YWYtYWQ2ZC04NmVkNDc4NTI5NjEifX19\",\"tv\":\"js-2.9.0\",\"tna\":\"co\",\"p\":\"web\",\"tz\":\"UTC\",\"lang\":\"en-US\",\"cs\":\"UTF-8\",\"res\":\"1280x720\",\"cd\":\"24\",\"cookie\":\"1\",\"eid\":\"02e87923-d2d8-4dd9-937a-aab65096b07f\",\"dtm\":\"1794618354466\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2No"
+  },
+  {
+   "url": "https://com-vonq-main.collector.snplow.net/com.snowplowanalytics.snowplow/tp2",
+   "method": "POST",
+   "status": 200,
+   "type": "text/plain",
+   "post": "{\"schema\":\"iglu:com.snowplowanalytics.snowplow/payload_data/jsonschema/1-0-4\",\"data\":[{\"e\":\"pv\",\"url\":\"https://www.asml.com/en/careers/find-your-job\",\"page\":\"Find your job - Careers at ASML\",\"tv\":\"js-2.9.0\",\"tna\":\"co\",\"p\":\"web\",\"tz\":\"UTC\",\"lang\":\"en-US\",\"cs\":\"UTF-8\",\"res\":\"1280x720\",\"cd\":\"24\",\"cookie\":\"1\",\"eid\":\"912c4856-c8da-45c6-8f8f-66bc6871dd99\",\"dtm\":\"1794618354468\",\"cx\":\"eyJzY2hlbWEiOiJpZ2x1OmNvbS5zbm93cGxvd2FuYWx5dGljcy5zbm93cGxvdy9jb250ZXh0cy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6W3sic2NoZW1hIjoiaWdsdTpjb20uc25vd3Bsb3dhbmFseXRpY3Muc25vd3Bsb3cvd2ViX3BhZ2UvanNvbnNjaGVtYS8xLTAtMCIsImRhdGEiOnsiaWQiOiJlMDgyOWRkNC1jMWRiLTQ1NDItOTNjNi04NjZiYWU0ODhiODAifX0seyJzY2hlbWEiOiJpZ2x1Om9yZy53My9QZXJmb3JtYW5jZVRpbWluZy9qc29uc2NoZW1hLzEtMC0wIiwiZGF0YSI6eyJuYXZpZ2F0aW9uU3RhcnQiOjE3OTQ2MTgzNTIwMDcsInVubG9h"
+  },
+  {
+   "url": "https://analytics.asml.com/ee/va6/v1/interact?configId=9cda47ae-f0fc-4d43-b64d-96e8772d9fb7&requestId=f6b97de2-2783-4141-8b65-bb7b688e5803",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json;charset=utf-8",
+   "post": "{\"meta\":{\"configOverrides\":{},\"state\":{\"domain\":\"asml.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"apply filter\",\"web\":{\"webPageDetails\":{\"URL\":\"https://www.asml.com/en/careers/find-your-job\",\"name\":\"home:careers:search jobs\",\"siteSection\":\"careers\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screenHeight\":720,\"screenWidth\":1280,\"screenOrientation\":\"landscape\"},\"environment\":{\"type\":\"browser\",\"browserDetails\":{\"viewportWidth\":1280,\"viewportHeight\":720}},\"placeContext\":{\"localTimezoneOffset\":0,\"localTime\":\"2026-11-14T01:05:55.261+00:00\"},\"timestamp\":\"2026-11-14T01:05:55.261Z\",\"implementationDetails\":{\"name\":\"https://ns.adobe.com/experience/alloy/reactor\",\"version\":\"2.19.2+2.21.4\",\"environment\":\"browser\"},\"_experience\":{\"analytics\":{\"event1to100\":{\"event29\":{\"value\":1}},\"customDimen",
+   "preview": "{\"requestId\":\"f6b97de2-2783-4141-8b65-bb7b688e5803-302144bd4be7499b\",\"handle\":[{\"payload\":[{\"id\":\"24819810121373666410764799859660355786\",\"namespace\":{\"code\":\"ECID\"}}],\"type\":\"identity:result\"},{\"payload\":[{\"scope\":\"Target\",\"hint\":\"34\",\"ttlSeconds\":1800},{\"scope\":\"AAM\",\"hint\":\"7\",\"ttlSeconds\":1800},{\"scope\":\"EdgeNetwork\",\"hint\":\"va6\",\"ttlSeconds\":1800}],\"type\":\"locationHint:result\"}]}"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/manufacturing-group-leader-optics-milling-grinding-polishing-mgp-compressed-work-week-cww-front-end-nights-j00352858.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/manufacturing-group-leader-optics-milling-grinding-polishing-mgp-compressed-work-week-cww-front-end-nights-j00352858\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/p"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/senior-manufacturing-engineering-manager-visual-and-mechanical-inspection-j00352859.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/senior-manufacturing-engineering-manager-visual-and-mechanical-inspection-j00352859\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-heade"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/sap-coordinator-j00354934.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/sap-coordinator-j00354934\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\"displayName\":\"Multilingua"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/produktverantwortlicher-ingenieurin-j00354797.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/produktverantwortlicher-ingenieurin-j00354797\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\"displ"
+  },
+  {
+   "url": "https://analytics.asml.com/ee/va6/v1/interact?configId=9cda47ae-f0fc-4d43-b64d-96e8772d9fb7&requestId=6cd57f06-1105-4114-9e84-57b1e8dd3e44",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json;charset=utf-8",
+   "post": "{\"meta\":{\"configOverrides\":{},\"state\":{\"domain\":\"asml.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"scroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://www.asml.com/en/careers/find-your-job\",\"name\":\"home:careers:search jobs\",\"siteSection\":\"careers\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screenHeight\":720,\"screenWidth\":1280,\"screenOrientation\":\"landscape\"},\"environment\":{\"type\":\"browser\",\"browserDetails\":{\"viewportWidth\":1280,\"viewportHeight\":720}},\"placeContext\":{\"localTimezoneOffset\":0,\"localTime\":\"2026-11-14T01:06:00.651+00:00\"},\"timestamp\":\"2026-11-14T01:06:00.651Z\",\"implementationDetails\":{\"name\":\"https://ns.adobe.com/experience/alloy/reactor\",\"version\":\"2.19.2+2.21.4\",\"environment\":\"browser\"},\"_experience\":{\"analytics\":{\"event1to100\":{\"event11\":{\"value\":1}},\"customDimensions\"",
+   "preview": "{\"requestId\":\"6cd57f06-1105-4114-9e84-57b1e8dd3e44-e0aee7036a064fd0\",\"handle\":[{\"payload\":[{\"id\":\"24819810121373666410764799859660355786\",\"namespace\":{\"code\":\"ECID\"}}],\"type\":\"identity:result\"},{\"payload\":[{\"scope\":\"Target\",\"hint\":\"34\",\"ttlSeconds\":1800},{\"scope\":\"AAM\",\"hint\":\"7\",\"ttlSeconds\":1800},{\"scope\":\"EdgeNetwork\",\"hint\":\"va6\",\"ttlSeconds\":1800}],\"type\":\"locationHint:result\"}]}"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/cscm-operational-planner-sustaining-tainan-j00356382.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/cscm-operational-planner-sustaining-tainan-j00356382\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\""
+  },
+  {
+   "url": "https://analytics.asml.com/ee/va6/v1/interact?configId=9cda47ae-f0fc-4d43-b64d-96e8772d9fb7&requestId=5d9e2f52-5aed-466e-bb6c-5c76d0c0f97c",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json;charset=utf-8",
+   "post": "{\"meta\":{\"configOverrides\":{},\"state\":{\"domain\":\"asml.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"scroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://www.asml.com/en/careers/find-your-job\",\"name\":\"home:careers:search jobs\",\"siteSection\":\"careers\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screenHeight\":720,\"screenWidth\":1280,\"screenOrientation\":\"landscape\"},\"environment\":{\"type\":\"browser\",\"browserDetails\":{\"viewportWidth\":1280,\"viewportHeight\":720}},\"placeContext\":{\"localTimezoneOffset\":0,\"localTime\":\"2026-11-14T01:06:00.706+00:00\"},\"timestamp\":\"2026-11-14T01:06:00.706Z\",\"implementationDetails\":{\"name\":\"https://ns.adobe.com/experience/alloy/reactor\",\"version\":\"2.19.2+2.21.4\",\"environment\":\"browser\"},\"_experience\":{\"analytics\":{\"event1to100\":{\"event11\":{\"value\":1}},\"customDimensions\"",
+   "preview": "{\"requestId\":\"5d9e2f52-5aed-466e-bb6c-5c76d0c0f97c-c6b0905128e5427c\",\"handle\":[{\"payload\":[{\"id\":\"24819810121373666410764799859660355786\",\"namespace\":{\"code\":\"ECID\"}}],\"type\":\"identity:result\"},{\"payload\":[{\"scope\":\"Target\",\"hint\":\"34\",\"ttlSeconds\":1800},{\"scope\":\"AAM\",\"hint\":\"7\",\"ttlSeconds\":1800},{\"scope\":\"EdgeNetwork\",\"hint\":\"va6\",\"ttlSeconds\":1800}],\"type\":\"locationHint:result\"}]}"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/domain-owner-connectivity-operational-technology-j00354798.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/domain-owner-connectivity-operational-technology-j00354798\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual H"
+  },
+  {
+   "url": "https://analytics.asml.com/ee/va6/v1/interact?configId=9cda47ae-f0fc-4d43-b64d-96e8772d9fb7&requestId=51c31ba6-2317-45c3-9c8a-cab3999a2023",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json;charset=utf-8",
+   "post": "{\"meta\":{\"configOverrides\":{},\"state\":{\"domain\":\"asml.com\",\"cookiesEnabled\":true}},\"events\":[{\"xdm\":{\"eventType\":\"scroll\",\"web\":{\"webPageDetails\":{\"URL\":\"https://www.asml.com/en/careers/find-your-job\",\"name\":\"home:careers:search jobs\",\"siteSection\":\"careers\"},\"webReferrer\":{\"URL\":\"\"}},\"device\":{\"screenHeight\":720,\"screenWidth\":1280,\"screenOrientation\":\"landscape\"},\"environment\":{\"type\":\"browser\",\"browserDetails\":{\"viewportWidth\":1280,\"viewportHeight\":720}},\"placeContext\":{\"localTimezoneOffset\":0,\"localTime\":\"2026-11-14T01:06:01.652+00:00\"},\"timestamp\":\"2026-11-14T01:06:01.652Z\",\"implementationDetails\":{\"name\":\"https://ns.adobe.com/experience/alloy/reactor\",\"version\":\"2.19.2+2.21.4\",\"environment\":\"browser\"},\"_experience\":{\"analytics\":{\"event1to100\":{\"event11\":{\"value\":1}},\"customDimensions\"",
+   "preview": "{\"requestId\":\"51c31ba6-2317-45c3-9c8a-cab3999a2023-d41f6d8255a9474a\",\"handle\":[{\"payload\":[{\"id\":\"24819810121373666410764799859660355786\",\"namespace\":{\"code\":\"ECID\"}}],\"type\":\"identity:result\"},{\"payload\":[{\"scope\":\"Target\",\"hint\":\"34\",\"ttlSeconds\":1800},{\"scope\":\"AAM\",\"hint\":\"7\",\"ttlSeconds\":1800},{\"scope\":\"EdgeNetwork\",\"hint\":\"va6\",\"ttlSeconds\":1800}],\"type\":\"locationHint:result\"}]}"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/de-field-tw--duv-reticle-handler-rh--reticle-stage-rs--electrical-design-engineer--linkou-ntf-j00358139.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/de-field-tw--duv-reticle-handler-rh--reticle-stage-rs--electrical-design-engineer--linkou-ntf-j00358139\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-design"
+  },
+  {
+   "url": "https://www.asml.com/_next/data/build-TfctsWXpff2fKS/en/careers/find-your-job/system-domain-architecture-lead-engineer-j00357397.json",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "preview": "{\"pageProps\":{\"page\":{\"layout\":{\"sitecore\":{\"context\":{\"pageEditing\":false,\"site\":{\"name\":\"asmlcom\"},\"pageState\":\"normal\",\"editMode\":\"chromes\",\"language\":\"en\",\"itemPath\":\"/careers/find-your-job/,-w-,\",\"siteId\":\"{6D88FFF9-63A2-42C1-9A9F-8CEEA872976A}\",\"pageDesign\":{\"id\":\"{05ECDE46-D5B3-4F37-A4BC-FBF9BF536839}\",\"name\":\"Default V2\",\"path\":\"/sitecore/content/asmlcom/asmlcom/Presentation/Page Designs/Default V2\"},\"variantId\":\"_default\",\"canonicalUrl\":{\"value\":{\"href\":\"https://www.asml.com/en/careers/find-your-job/system-domain-architecture-lead-engineer-j00357397\",\"linktype\":\"external\"}}},\"route\":{\"name\":\"*\",\"displayName\":\"*\",\"fields\":{\"parentItem\":{\"id\":\"2188a6a6-fa98-476c-b698-e3ac66eb1151\",\"url\":\"/en/careers/find-your-job\",\"name\":\"Find Your Job\",\"displayName\":\"Find your job\",\"fields\":{\"NavigationClass\":null,\"NavigationFilter\":[],\"NavigationTitle\":{\"value\":\"Search jobs\"},\"Page Design\":{\"id\":\"05ecde46-d5b3-4f37-a4bc-fbf9bf536839\",\"url\":\"/en/presentation/page-designs/default-v2\",\"name\":\"Default V2\",\"displayName\":\"Default V2\",\"fields\":{\"PartialDesigns\":[{\"id\":\"b58cb03f-f649-45d9-bf06-bcd37def30f7\",\"url\":\"/en/presentation/partial-designs/multilingual-header\",\"name\":\"Multilingual Header\",\""
+  }
+ ],
+ "job_links": [
+  [
+   "https://www.asml.com/en/careers/find-your-job#content",
+   "Skip to main content"
+  ],
+  [
+   "https://www.asml.com/en/careers/saved-jobs",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/interview-tips",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/netherlands",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/united-states",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/taiwan",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/south-korea",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/china",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/japan",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/working-at-asml/germany",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/technical-fields",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/teams",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates/early-career-programs",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates/netherlands",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates/us",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates/taiwan",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates/south-korea",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers/students-new-graduates/china",
+   ""
+  ],
+  [
+   "https://www.asml.com/en/careers",
+   "Careers"
+  ],
+  [
+   "https://www.asml.com/en/careers/job-alert-subscription?job_type=Fix",
+   "Create job alert"
+  ],
+  [
+   "https://www.asml.com/en/careers/job-alert-subscription?job_type=Fix",
+   "Subscribe"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/cs-global-operation-center-shift-planner-linkoutaichung-j00346679",
+   "NEW\n\nCS - Global Operation Center Shift Planner - Linkou/Taichung\nLinkou, Taiwan"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/equipment-engineer-wet-processes-j00350084",
+   "NEW\n\nEquipment Engineer Wet Processes\nWilton, CT, USDesign Engineering and Archi"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/cs-global-operations-center-operational-shift-planner-linkoutaichung-j00350901",
+   "NEW\n\nCS - Global Operations Center Operational Shift Planner - Linkou/Taichung\nL"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/lo-quality-technician--tool-registration-j00351570",
+   "NEW\n\nLO Quality Technician – Tool Registration\nVeldhoven, NetherlandsQuality"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/wf-optics-project-leadproduct-engineer-j00349324",
+   "NEW\n\nWF Optics Project Lead/Product Engineer\nWilton, CT, USProjects, Programs an"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/senior-manufacturing-operations-manager-optics-j00343353",
+   "NEW\n\nSenior Manufacturing Operations Manager- Optics\nWilton, CT, USManufacturing"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/de-virtual-compute-platform-software-engineer-linkou-j00346615",
+   "NEW\n\nD&E - Virtual Compute Platform Software Engineer - Linkou\nLinkou, TaiwanDes"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/customer-support-engineer-cymer--j00352443",
+   "NEW\n\nCustomer Support Engineer, Cymer 光源产品\nShenzhen, ChinaCustomer Support"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/sourcing-lead-j00352421",
+   "NEW\n\nSourcing Lead\nSan Diego, CA, USSourcing and Supply Chain Management"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/optics-planning-excellence-lead-j00353406",
+   "NEW\n\nOptics Planning Excellence Lead\nWilton, CT, USPlanning"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/senior-manufacturing-engineering-manager-visual-and-mechanical-inspection-j00352859",
+   "NEW\n\nSenior Manufacturing Engineering Manager- Visual and Mechanical Inspection\n"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/manufacturing-group-leader-optics-milling-grinding-polishing-mgp-compressed-work-week-cww-front-end-nights-j00352858",
+   "NEW\n\nManufacturing Group Leader, Optics- Milling, Grinding, Polishing (MGP) Comp"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/domain-owner-connectivity-operational-technology-j00354798",
+   "NEW\n\nDomain Owner Connectivity & Operational Technology\nVeldhoven, NetherlandsIT"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/sap-coordinator-j00354934",
+   "NEW\n\nSAP Coordinator\nAustin, TX, USCustomer Support"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/produktverantwortlicher-ingenieurin-j00354797",
+   "NEW\n\nProduktverantwortliche:r Ingenieur:in\nBerlin, GermanyManufacturing"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/cscm-operational-planner-sustaining-tainan-j00356382",
+   "NEW\n\nCSCM - Operational Planner (Sustaining) - Tainan\nTainan, TaiwanPlanning"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/senior-applications-engineer-j00355580",
+   "NEW\n\nSenior Applications Engineer\nPhoenix, AZ, USApplications Engineering"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/optical-fabrication-technician-cww-ben-wed-fri-and-every-other-saturday--bcell-j00356228",
+   "NEW\n\nOptical Fabrication Technician CWW BEN (Wed-Fri, and every other Saturday) "
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/field-service-engineer-j00357486",
+   "NEW\n\nField Service Engineer\nXian, ChinaCustomer Support"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/upgrade-install-and-relocation-engineer-j00355853",
+   "NEW\n\nUpgrade Install and Relocation Engineer\nShenzhen, ChinaCustomer Support"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/principle-plasma-and-laser-physics-engineer-j00357313",
+   "NEW\n\nPrinciple Plasma and Laser Physics engineer\nSan Diego, CA, USDesign Enginee"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/cs-duv-field-serive-engineer-taichung-j00355863",
+   "NEW\n\nCS - DUV field serive engineer -Taichung\nTaichung, TaiwanCustomer Support"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/customer-support-engineer-j00357189",
+   "NEW\n\nCustomer Support Engineer\nBeijing, ChinaCustomer Support"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/system-domain-architecture-lead-engineer-j00357397",
+   "NEW\n\nSystem Domain Architecture Lead Engineer\nSan Jose, CA, USDesign Engineering"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job/de-field-tw--duv-reticle-handler-rh--reticle-stage-rs--electrical-design-engineer--linkou-ntf-j00358139",
+   "NEW\n\nD&E Field TW – DUV Reticle Handler (RH) / Reticle Stage (RS) – Electrical D"
+  ],
+  [
+   "https://www.asml.com/en/careers",
+   "Careers"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job",
+   "Search jobs"
+  ],
+  [
+   "https://www.asml.com/en/careers/find-your-job",
+   "Job search"
+  ],
+  [
+   "https://www.asml.com/en/careers",
+   "Careers"
+  ]
+ ]
+}

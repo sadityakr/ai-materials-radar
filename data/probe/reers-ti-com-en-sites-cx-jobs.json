@@ -1,0 +1,459 @@
+{
+ "url": "https://careers.ti.com/en/sites/CX/jobs",
+ "final": "https://careers.ti.com/en/sites/CX/jobs",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://careers.ti.com/en/sites/CX/jobs",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=UTF-8"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandExpStatic/js/ce-custom.js?themeNumber=default_minimal_theme_CX&themeVersion=4&brandVersion=31",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=UTF-8"
+  },
+  {
+   "url": "https://static.oracle.com/cdn/fa/oj-hcm-ce/2607.26.262300322/js/main-minimal.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.ti.com/assets/js/headerfooter/analytics.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/assets/js/headerfooter/metrics-min.js?version=95",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/utag/ti/main/prod/utag.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/general/docs/readAkamaiHeaders0.tsp",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"user-agent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\",\"ABM\":\"Unknown Bot (headlesschro_6401B59A17CF16AC41010F24387E49CC):monitor:Headless Browsers/Automation Tools\",\"TC_IP\":\"172.178.118.83\",\"IP\":\"172.178.118.83\",\"XF_IP\":\"172.178.118.83,23.3.12.75\",\"country_code\":\"US\",\"city\":\"DULLES\",\"continent\":\"NA\",\"ARID\":\"347a7d5a, 1c1fd41\"}"
+  },
+  {
+   "url": "https://www.ti.com/utag/ti/main/prod/utag.318.js?utv=ut4.39.202611122005",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/utag/ti/main/prod/utag.274.js?utv=ut4.39.202611122005",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/utag/ti/main/prod/utag.292.js?utv=ut4.39.202605061615",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/utag/ti/main/prod/utag.273.js?utv=ut4.39.202611122005",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.ti.com/Dl82I3Ui/init.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://uconnect.tealiumiq.com/ulog/_error?utid=ti/main/202611122005&e0=ge%3A%3A158%3A%3A%2F%2Fwww.ti.com%2Futag%2Fti%2Fmain%2Fprod%2Futag.js%3A%3ACannot%20read%20properties%20of%20undefined%20(reading%20%27indexOf%27)&e1=ge%3A%3A164%3A%3A%2F%2Fwww.ti.com%2Futag%2Fti%2Fmain%2Fprod%2Futag.js%3A%3ACannot%20read%20properties%20of%20undefined%20(reading%20%27replace%27)&e2=ex%3A%3A6%3A%3A%2F%2Fwww.ti.",
+   "method": "GET",
+   "status": 200,
+   "type": "image/gif"
+  },
+  {
+   "url": "https://ift.px-cloud.net/ns?c=827afc20-dfc7-11f1-8a0a-8ba67b0bc6fa",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  },
+  {
+   "url": "https://visitor-service-us-east-1.tealiumiq.com/ti/main/01a1d796b47e001e759366d3a8f8000610027059007e8?callback=utag.ut%5B%22writevamain%22%5D&rnd=1794618340637",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/CandidateExperience/en/siteSettings/CX",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=UTF-8",
+   "preview": "{\n  \"app\" : {\n    \"apiBaseUrl\" : \"https://edbz.fa.us2.oraclecloud.com:443\",\n    \"uiBaseUrl\" : \"https://edbz.fa.us2.oraclecloud.com:443/hcmUI\",\n    \"faHostUrl\" : \"\",\n    \"siteName\" : \"Texas Instruments\",\n    \"siteCode\" : \"CX\",\n    \"siteNumber\" : \"CX\",\n    \"siteLang\" : \"en\",\n    \"languages\" : [ {\n      \"code\" : \"de\",\n      \"fusionCode\" : \"D\",\n      \"direction\" : \"ltr\",\n      \"label\" : \"Deutsch\"\n    }, {\n      \"code\" : \"en\",\n      \"fusionCode\" : \"US\",\n      \"direction\" : \"ltr\",\n      \"label\" : \"American English\"\n    }, {\n      \"code\" : \"ja\",\n      \"fusionCode\" : \"JA\",\n      \"direction\" : \"ltr\",\n      \"label\" : \"日本語\"\n    }, {\n      \"code\" : \"zh-CN\",\n      \"fusionCode\" : \"ZHS\",\n      \"direction\" : \"ltr\",\n      \"label\" : \"简体中文\"\n    } ],\n    \"cdnUrl\" : \"https://static.oracle.com/cdn/fa/oj-hcm-ce/2607.26.262300322\",\n    \"cxVersion\" : \"2607.0.73\",\n    \"headerMode\" : 1,\n    \"footerMode\" : 2,\n    \"template\" : {\n      \"templateNumber\" : \"minimal\",\n      \"welcomeText\" : \"Change the world. Love your job.\",\n      \"mainCallForAction\" : null\n    },\n    \"templates\" : {\n      \"SEARCH_PAGE\" : {\n        \"pageCode\" : \"1001\",\n        \"pageNumber\" : \"142212\",\n        \"pageUrlName\" : null\n      },\n      \"J"
+  },
+  {
+   "url": "https://collector-pxdl82i3ui.px-cloud.net/api/v2/collector",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "payload=aUkQRhAIEFRVe3hgdkZAc3p/DxAeEFYQCEkQZVtoRntwSnhTYFEPEAgQWkZGQkEIHR1RU0BXV0BBHEZbHFFdXx1XXB1BW0ZXQR1xah1YXVBBEB4Qdlp7B2R3Rgd9ZXcPEAgCHhB9WWh8c3oKQGF2XQ8QCBB+W1xHShJKCgRtBAYQHhBQYGRTd0taAmVbVQ8QCFRTXkFXHhB6X3tCaHRBdnlkBg8QCAsDAh4QZGMCW3FKcFh4dl0PEAgLAwMeEHpfe0JodFVxeWRjDxAIAh4QZGMCW3FKfFp4dlkGPEAg^DBAcFHhB3anRffANjU2tVAg8QCAEEAgIeEHZIfAZWZ15oUSXd7D}xAIADwULBgQDCgNEGAgQCAR4Qc1oGA2V3VgKNiZV0PEAg8DBQsDGBAMKAQYCNa>BAMBHhB8YQJxUDwF8c3EDCg8QCBAKAAVTVFEAAh9WVFEFHwMDVAMfClMCUx8KUFM`EBVACUFEEVFMQHK}GhBWS0ZzUGZ4emBeQQ8QCFxHXl4eEGBeQkp6c38AVktBDxAIAh4Qdlp7B2R3WgZiXwoPEAhUU15BVx4QYAFBRWJje2RK8Ywo7PEAhJEGJqAwAFAQoQCAMDHhBiagMABQELEAgCHhBiagMABQYCEAgCHhB7iagMABQYDEAgfA09PT28=&appId=PXDl82I3Ui&tag=cHAHMTYZGUN0fA==&uuid=827afc20-dfc7-11f1-8a0a-8ba67b0bc6fa&ft=420&seq=0&en=NTA&bi=egYNCi89SCs8Xm8vY1Yz",
+   "preview": "{\"do\":null,\"ob\":\"Hzw8Hx88DywDC0APQEBDDxBKQUFHQRBDRxBEEBEVRUcXF0tFShFGERJFRxASERJAQkIVEkNBS0JCQEEQQ0BAREdEFRVDF0ZLEkAQEEpAEBFJBQsEKwpFBzsABhwHHCEmISQ8AAkLFxs9QQkZOhgiRxdCShxHWAYiAioSNlg+CVxBPiQcRzQdMTwxJiAbK0QGOCI3KgAQPRUCGUBGSyQZHiI+BTg5NBROTklCQ0NDSSkUQCUbQxxDJEVAIhsLHgRLRxECORE/SwsXIz8VAgERJVxCJTU3XAs2WCsAJgcbFB4pEiEJKiAQShkaRQsCGUs5KxYZBFw5OT0LAyskFz4ZRzFKHCI3RicERzYqXBECAUsCGToEHjUbJhQ4GgdDMSJANjU4AhUXEjoUEAIFBxEXJCEjRzI3A0cWJkBHKSE2NgE5EAtGOCNCEglLHB1KN1gwKxceQAkXNUArRQA4OBwYEiA3JBU5CkoZPwIlBh03MkE7JzJLCxxEMEtAER4FKRIjRR4eGUZEMAEhID1GJBsSMUIECQIHOUcKAhEdK1w8PQo6ATwUCgUHSxsWAjwDQSABFhUgETA1FDgXIwADGjpEG0YKABY9XBFHSxI7JkQDWDUJG0YHACkgEAQRPlxLHjcaCjcQKSMVRT5ANzRKGUZYFRkeXCpLQT01AhQmRhlYIwUmOgAdCwQ5NiZFKjwEGCc9FTk1ORIWBTceIxQSGzhBNUILRz05EEQ6OEIWBBIpIxVKNzw3IEc0XCcwI0UDQyZEOSFANCVYRAUSPTA1IDEiClwWFzsjFUU5HkcCOwUfIQQSHkRLMBpKWEscMUYpQFwfHhZKREUXFSI6ACApRgkFIz8ZShAfPz05CwUVHidBJR0xEQE9SzkJPBkcTg8HAQYWD0BDQw0NDQ0fHzwfPDwPABAcARYPQg8RGh0SAQoNDQ0NPDwfHzw8D0tBS0RCQUMRXhcVEEReQkIVQl4SQ0sXXkoWF0JGFRYVEhJGSw0NDQ0fHx8fPDwPEAYNDQ0NPDwfPB88D0ZLSkpLSkRCRUNGQ0dLQEtDQUFGD0BKSkNARkdDR0ZAQkpKREJKQkBKDQ0NDTwfHx88Hx88D0JESkdFQktAR0NFSkINDQ0NHzw8Hx8fDxcRAQFEA0IGRB9DAERASkRLRhgUDQ0NDTwfHx88HzwfD0tBREo"
+  },
+  {
+   "url": "https://ri.px-cloud.net/index.js?v=82870cae-dfc7-11f1-a08c-0cf5a3e78966&a=PXDl82I3Ui",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/CandidateExperience/translations?language=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\n    \"en\": {\n        \"custom-content\": {\n            \"job-list-job-display\": \"Job List\",\n            \"job-list-view-more\": \"See More\",\n            \"cc-talent-community-button-default-label\": \"Join our talent community\"\n        },\n        \"event-details\": {\n            \"link-copied-label\": \"Copied to Clipboard\",\n            \"virtual\": \"Virtual\",\n            \"event-category\": \"Event Category\",\n            \"start-date-and-time\": \"Start Date and Time\",\n            \"event-information-title\": \"Event Information\",\n            \"end-date-and-time\": \"End Date and Time\",\n            \"event-format\": \"Event Format\",\n            \"register-event-button\": \"Register\",\n            \"event-description-title\": \"Event Description\",\n            \"view-more-events\": \"View More Events\",\n            \"virtual-event\": \"Virtual Event\",\n            \"last-date-to-register\": \"Last Day to Register\",\n            \"event-reg-closed\": \"This Event Is No Longer Accepting Registrations\",\n            \"in-person\": \"In Person\",\n            \"already-expressed-interest\": \"You Already Expressed Interest\",\n            \"already-registered\": \"You Already Registered\",\n            \"event-location\": \"Event Location\",\n            \"co"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/CandidateExperience/globalSettings",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=UTF-8",
+   "preview": "{\"settings\":[{\"settingValue\":\"Y\",\"settingKey\":\"ORA_IRC_JA_PREFILL_QSTNR_INFO\"},{\"settingValue\":\"N\",\"settingKey\":\"SMS_ENABLED_EXTERNAL_CANDIDATES\"},{\"settingValue\":\"Y\",\"settingKey\":\"ORA_IRC_TC_OPTIN_ENABLED\"},{\"settingValue\":\"N\",\"settingKey\":\"ORA_IRC_KEEP_CANDIDATE_SIGNED_IN_ENABLED\"},{\"settingValue\":\"N\",\"settingKey\":\"WHATSAPP_ENABLED_EXTERNAL_CANDIDATES\"},{\"settingValue\":\"N\",\"settingKey\":\"ORA_IRC_JA_PREFILL_LEG_INFO\"},{\"settingValue\":\"N\",\"settingKey\":\"ORA_IRC_JA_WITHDRAW_REAPPLY\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_CWK_EXT_NAME_UPDATES_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_EX_EMP_PHONE_UPDATE_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_EX_CWK_PHONE_UPDATE_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_CWK_EXT_PHONE_UPDATE_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_EX_EMP_EMAIL_UPDATE_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_EX_CWK_EMAIL_UPDATE_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_CWK_EXT_EMAIL_UPDATE_BLOCK\"},{\"settingValue\":\"ORA_IRC_BLOCK_NONE\",\"settingKey\":\"ORA_IRC_EX_EMP_ADDRESS_UPDATE_BLOCK\"},{\"settingValu"
+  },
+  {
+   "url": "https://www.ti.com.cn/xdomain-sync.html?env=prod",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.ti.com/utag/ti/xdomain-sync/prod/utag.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://collector-pxdl82i3ui.px-cloud.net/api/v2/collector",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "payload=aUkQRhAIEGFwWh1qVQcCVl9FDxAeEFYQCEkQfHNKdmFceFpjelkPEAgDBQsGBAMKAQYCBAsDHhBUVXt4YHZGQnZcBg8QCFRTXkFXHhBic2B+Y1xCQGNcYw8QCFRTXkFXHhBnWwdeeXBWdFBwBg8QCFRTXkFXHhBrWAZkfXFWYXRzBg8QCFRTXkFXHhB+Sn9rdGVCHXVhew8QCBBmS0JXd0BAXUAIEnFTXFxdRhJAV1NWEkJAXUJXQEZbV0ESXVQSR1xWV1RbXFdWEhpAV1NWW1xVEhVFW1ZGWhUbEB4QcGoDS30Cc2BRRQoPEAgQRVdQWVtGEB4QdXFVRH5eA3d+WkEPEAgBAR4QfVlofHN6CkNmdl0PEAhUU15BVx4Qd3RzXHReZwp7S3cPEAhUU15BVx4QZwIKWWFga1V4ekEPEAgQdH9aemQQHhB6cWNAe15efXlwcw8QCBAQHhBWZQNxeUh/dmNaRQ8QCAYHBx4QZWNZR3ZKC0J+ZmcPEAhGQEdXHhB9YVl9UAELdXZeCg8QCEZAR1ceEGRjAltxSnBZe3ZVDxAIEEZAR1cQHhBmXngHdHNBHVdLUQ8QCBBGQEdXEB4QenFjQHteXn95YGMPEAgDHhBUd2N+c1hdQHFIWQ8QCAMeEHpxY0B7Xl5ie1p3DxAIEBAeEGh6RWZXW3tWdQJZDxAIaW8eEGIAf3t4al1/c3B/DxAIVFNeQVceEHlkWVdqAEUAel9ZDxAIEH0QHhBzZXQAeAJjYlRKZw8QCEkQYmoDAAULAxAIAAYeEGJqAwAF",
+   "preview": "{\"do\":null,\"ob\":\"Hzw8Hx88DywDC0APQEBDD0NKREcWRBEVFUYWSkNEQEtKRBBARBVHRUQRREBFQkRAREYWQUZARktLEUJFEhdEQkdHSxVHQEYXF0ZBQ0oXF0BJSj8pQwtKOhUwGDdcPyk4AkU7GEI9GEpLID87OhY4AiVcIzsZHBcwNTwBCTsBRjI3BiU5RCIyOxwmIUsQFjwbRhodAwYGKgI8NiAqJxY5EgEZFAYYKzJOTklCQ0NDSUU/JgkxKjE5NzgeMhwDMDYBGCQwGTEUF0swRTocHwcRQypHP0QxNyU2IwRYNhg5MhA6JkYWQCYkQgk4Qh45Nic3Hhs3Nh46CSsiIyFEQAsePRJKJRgbOioeOAICIxRYERsBECIRRyQYKyYmAgkyFyApCwI9SxgeNUYKJkYnAyZAKyVYCzcEKgUwFyUwGyIkIjgySiscBxsxISM4JRtEJTAYQ0A9EQUxBRZFAgMVB1xCRBQ2BiAUIkNEXCEWGh8YBAYcBwchHjIECgI9IEAKMjkGHCk0BDVCRAU2XD1LHCQ9NyUaOzoLBQYaWEIdIQM4SxkVNUU/HDwHOCRCBAoxICcHJ0ICMBo9NAJFOjUKODcmHiJABVgqQUNEN0FCRwU8KxIGIQccIyQVCRk+AEc4N0JLREALNx4BP0owNTYrJB8jQUAxWD4/OlhcQVglJkJCOTcgBxIjCUUJS1xHPycQHyk5NylEF0MWBEIGFxs6RAcwESQUQEESCys4MgpGXB8LKVhGOkIBQx8HBxAhBStCHEI1JB1EPBgBJyQWIyQEGR8CNgoqCjQrCQQkHjAEIwJDOABENzYSPQAxBEQkQAlGKjtDJAQkBiBLNkNcOSYwADcDHThYCjxAMjEBEhcCITowIiMKJxZBIkA3GEE6Tg8HAQYWD0BDQw0NDQ0fHzwfPDwPABAcARYPQg8RGh0SAQoNDQ0NHx8fHzw8DxAGDQ0NDTwfHzwfHzwfDxxeOBsCKT0FH0ZFQAU/HB4JOh0bQjUbRxdcGUsXIjhBQhsyRiEXG0QSARROSUcwMTsaFD83RjdcKkc5OTEVAiQDMRYdPDtLQR5BCiUWQwQ2FzYmNBIKJiUCJjkHKhQ+GRsKODQ/GDE0QDkQGj0mFwIGKhELN0IcMiYUQSc0MQo6Gwk0Jh0VIR41AjQpISEaQTICQRIZRCVLMgkSPRs+SyU"
+  },
+  {
+   "url": "https://www.ti.com.cn/uhkU857kCY1ElbVQBg/VN5Jmpci/QV8DAQ/VD/cTZlFZI14IAQ?v=c4a09740-467e-6866-6796-f4196488172c",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/CandidateExperience/en/sites/CX/page/1001?statusCode=ORA_ACTIVE&onlyData=true",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json; charset=UTF-8",
+   "preview": "{\"seoDescription\":\"Explore job opportunities at TI.\",\"title\":\"Search Results Page\",\"elementOrder\":null,\"hasUnmigratedActiveVariant\":null,\"publishedDate\":null,\"headerId\":null,\"pageUrlName\":null,\"siteNumber\":null,\"newlyMigrated\":null,\"sections\":[{\"sectionParams\":[{\"paramValue\":\"rgba(255, 255, 255, 0)\",\"paramKey\":\"backgroundColor\"},{\"paramValue\":null,\"paramKey\":\"backgroundImage\"},{\"paramValue\":\"false\",\"paramKey\":\"backgroundParallax\"},{\"paramValue\":null,\"paramKey\":\"backgroundVideo\"},{\"paramValue\":null,\"paramKey\":\"column\"},{\"paramValue\":null,\"paramKey\":\"cssClass\"},{\"paramValue\":\"cc-section\",\"paramKey\":\"type\"}],\"rows\":[{\"elementOrder\":3,\"columns\":[{\"elementOrder\":0,\"elementNumber\":\"142223\",\"components\":[{\"elementOrder\":1,\"componentParams\":[{\"paramValue\":\"{\\\"backgroundColor\\\":null,\\\"borderColor\\\":null,\\\"borderRadius\\\":null,\\\"borderWidth\\\":null,\\\"iconColorDark\\\":null,\\\"iconColorLight\\\":null,\\\"ruleColor\\\":null,\\\"margin\\\":null,\\\"padding\\\":null,\\\"alignment\\\":null,\\\"color\\\":null,\\\"backgroundImage\\\":null,\\\"background\\\":null}\",\"paramKey\":\"jobsEventsToggleCountStylesHover\"},{\"paramValue\":\"{\\\"backgroundColor\\\":null,\\\"borderColor\\\":null,\\\"borderRadius\\\":null,\\\"borderWidth\\\":null,\\\"iconColorDark\\\":n"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEEvents?onlyData=true&finder=findEvents;siteNumber=CX,limit=25,facetsList=START_DATES%3BLOCATIONS%3BEVENT_CATEGORIES%3BEVENT_FORMATS,sortBy=EVENT_DATE_DESC",
+   "method": "GET",
+   "status": 200,
+   "type": "application/vnd.oracle.adf.resourcecollection+json",
+   "preview": "{\n  \"items\" : [ {\n    \"SearchId\" : 1,\n    \"keyword\" : null,\n    \"TotalEventsCount\" : 1,\n    \"SiteNumber\" : \"CX\",\n    \"SelectedLocationsFacetAttr\" : null,\n    \"SelectedStartDatesFacetAttr\" : null,\n    \"SelectedEventCategoriesFacetAttr\" : null,\n    \"SelectedEventFormatsFacetAttr\" : null,\n    \"LastSelectedFacetAttr\" : null,\n    \"OffsetAttr\" : null,\n    \"LimitAttr\" : 25,\n    \"Facets\" : \"START_DATES;LOCATIONS;EVENT_CATEGORIES;EVENT_FORMATS\",\n    \"SortByAttr\" : \"EVENT_DATE_DESC\",\n    \"UserTargetFacetNameAttr\" : null,\n    \"UserTargetFacetInputTermAttr\" : null,\n    \"locationIdAttr\" : null,\n    \"LatitudeAttr\" : null,\n    \"LongitudeAttr\" : null,\n    \"RadiusAttr\" : null,\n    \"RadiusUnitAttr\" : null,\n    \"eventList\" : [ {\n      \"Title\" : \"University of Pittsburg Fall 2026 Career Fair \",\n      \"EventNumber\" : \"370004\",\n      \"StartDate\" : \"2026-09-15T15:00:00+00:00\",\n      \"EndDate\" : \"2026-09-16T19:00:00+00:00\",\n      \"BannerImageURL\" : null,\n      \"ShortDescriptionStr\" : null,\n      \"Location\" : \"Pittsburgh, PA, United States\",\n      \"EventFormat\" : \"In Person\",\n      \"Distance\" : null,\n      \"RegistrationClosedFlag\" : true\n    } ],\n    \"locationsFacet\" : [ {\n      \"Id\" : 300000056281843,\n   "
+  },
+  {
+   "url": "https://collector-pxdl82i3ui.px-cloud.net/api/v2/collector",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "payload=aUkQRhAIEHBIRkVUZ3hTUXcKDxAeEFYQCEkQZVtoRntwC3pQYH8PEAgDCwYKHhBnZndfVkpgY3hZUQ8QCAMLBwQeEG1AW21RXV9CXldGV1ZtRltfV0FGU19CEAgBAAsCHhB2WnsHZHdGSH1lZw8QCEkQQgJWEAhJEEBXQUdeRkEQCEkQVldUW1xXc1ZhXl1GEAhUU15BVx4QR1xbRkJXQH1cVxAISRBtRltfVxAIBwUeEG1CW0pXXmBTRltdbVZXVFtcV21BUUBXV1wQCAMCAR4QbUVbXFZdRW1bXFxXQGVbVkZaEAgDAgIeEG1FW1xWXUVtQVFAV1dcahAIAh4QbUVbXFZdRW1WV0RbUVdiW0pXXmBTRltdEAgLTx4QWltXQHFdVlcQCAMeEEVXUFNHRlpxEAgQBQdTAgpXB1QHUVYAAAZTBwsLAQMCBARRAQQGA1EBB1YKBFNWVgtTAANXBFZUCgUFAVZQAVAGAgJTUVdWUQICVBAeEFFTXERTQXpTQVoQCBAGA1FUAAoHUQdWAQAEVgcHVApUV1dQUAVQUwJQVFAFUwMCUAMHCwFUVFNRBVYBCwAABwUBUAcHClALAwcGVlQFEB4QUFNGRlNCWxAISRBRWlNAVVtcVRAIRkBHVx4QUVpTQFVbXFVmW19XEAgCHhBWW0FRWlNAVVtcVWZbX1cQCAsLCwsLHhBeV0RXXhAIA08eEHxnf21hcWB3d3xtZXt2ZnoQCAMACgIeEHxnf21hcWB3d3xtend7dXpmEAgFAAIeEEpGV0BcAAEQCAMF",
+   "preview": "{\"do\":null,\"ob\":\"Hzw8Hx88DywDC0APQEBDD0YXREcWFxFHFkpDQkVKQhFFEBcWQENHFUpDEBAWRBVBF0ZLQRdERkQWF0IWQURLQBISFhAXSxYRQ0ARR0ERRUBJPQIKCjpKKzIjJkY5FFgQSj1HAUU6IjcrKz4ECwsnIRwZBjpKMTwmCzIHPgs0PSkmATwAPkY6MCc1OEAkQzgGREMxNREhHz4cOyYRCjI4FRkxNCQBJBROTklCQ0NDSVwEBko/IEYXAT43CjAKCVgcODsmWDsHHSUbCVhDBiQZAhoXRjI2XDIVAB0pOB4eO0I7NEFEQBAJCyRCMEIUBBk3NwtHGjBLMh08GxAlMhg9AgkfEDA5IB1KRCsYRgEKNTQYCQlFJSApNgIJKkQ+KSRKFjoFCiobJyMeGzhBKTcCET0GRCQVNDA7BSoJMkVGGjo8N0YZEjcXAiIjGyMfBxtYIwRACyUAAz0/FB1BPjc8JBEpRURFFCFDMB0+SxUnHwUBPBIfKRYGCScwQkQ+HBZEBxcqHkUZODUkBgE5FAkZCkcVJCYeICIaGFgWHzgVNEJEAyQnEAcQAjQ8EEM2EUQxBkEdIDEJRQEQJjcdPz4EQTJCNhZFMTYDIUQkFjgZQkQCAUtEWEsdKxQ0ODsJP0IEEiMVRhAEOR0qRDtCQRVDQB0nMAkUAyYDCSZDMCQdJzcXOEExIRVKPwoGSwQ6FTURQTE7QRA8ISEEBQIAFUI0FhckCgoaFiNHQUUyABQ1IBsWPx9GMQJERBcmFytHNyQ6QzAeH0QeSwkRFiAQAAonQ1gnHEAQBzpLQBscFTgWGQE4NT40IitKPwojQwk3Q1wQRRY1RDdECTwZBkVCOAZBFksqJ0caK0s2FBpBMQo1FgcFGDw/JwMgBxwRREsUO0tHGToqAiRBCTccIBxcElxBDwcBBhYPQENDDQ0NDR8fPB88PA8AEBwBFg9CDxEaHRIBCg0NDQ0fHx8fPDwPEAYNDQ0NPB8fPB8fPB8PHF44GwIpPQUfRkVABT8cHgk6HRtCNRtHF1wZSxciOEFCGzJGIRcbRBIBFE5JRzAxOxoUPzdGN1wqRzk5MRUCJAMxFh08O0tBHkEKJRZDBDYXNiY0EgomJQImOQcqFD4ZGwo4ND8YMTRAORAaPSYXAgYqEQs3QhwyJhRBJzQxCjobCTQmHRUhHjUCNCk"
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX,facetsList=WORK_LOCATIONS%3BWORKPLACE_TYPES%3BTITLES%3BCATEGORIES%3BORGANIZATIONS%3BPOSTING_DATES",
+   "method": "GET",
+   "status": 200,
+   "type": "application/vnd.oracle.adf.resourcecollection+json",
+   "preview": "{\n  \"items\" : [ {\n    \"SearchId\" : 1,\n    \"Keyword\" : null,\n    \"CorrectedKeyword\" : null,\n    \"UseExactKeywordFlag\" : false,\n    \"SuggestedKeyword\" : null,\n    \"ExecuteSpellCheckFlag\" : true,\n    \"Location\" : null,\n    \"LocationId\" : null,\n    \"Radius\" : 0,\n    \"RadiusUnit\" : \"MI\",\n    \"SelectedTitlesFacet\" : null,\n    \"SelectedCategoriesFacet\" : null,\n    \"SelectedPostingDatesFacet\" : null,\n    \"SelectedLocationsFacet\" : null,\n    \"LastSelectedFacet\" : null,\n    \"Facets\" : \"WORK_LOCATIONS;WORKPLACE_TYPES;TITLES;CATEGORIES;ORGANIZATIONS;POSTING_DATES;FLEX_FIELDS;LOCATIONS\",\n    \"Offset\" : 0,\n    \"Limit\" : 25,\n    \"SortBy\" : \"POSTING_DATES_DESC\",\n    \"TotalJobsCount\" : 916,\n    \"Latitude\" : null,\n    \"Longitude\" : null,\n    \"SiteNumber\" : \"CX\",\n    \"JobFamilyId\" : null,\n    \"PostingStartDate\" : null,\n    \"PostingEndDate\" : null,\n    \"SelectedWorkLocationsFacet\" : null,\n    \"RequisitionId\" : null,\n    \"CandidateNumber\" : null,\n    \"WorkLocationZipCode\" : null,\n    \"WorkLocationCountryCode\" : null,\n    \"SelectedFlexFieldsFacets\" : null,\n    \"OrganizationId\" : null,\n    \"SelectedOrganizationsFacet\" : null,\n    \"UserTargetFacetName\" : null,\n    \"UserTargetFacetInputTerm\" : null,\n    \"H"
+  },
+  {
+   "url": "https://www.ti.com.cn/uhkU857kCY1ElbVQBg/VN5Jmpci/QV8DAQ/VD/cTZlFZI14IAQ",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"body\":\"\\\"bA3N-\\\"6\\\"Cea\\\"#\\\"2@[bk\\\"C\\\"\\\"&\\\"Pl.U \\\"d\\\"7e&\\\"+\\\"vBo}\\\"Cg7$puYiK|3<argT=mP]t_iB9\\\"V\\\"mD676\\\"=\\\"(\\\"I&8t @K&vyA#!b1kJx^!i^>Tx*n@11;Mk\\\"T\\\"_a3[^\\\"?\\\"p:\\\"l\\\"7LaG \\\".\\\"!q\\\"~\\\"C+pBj\\\"m\\\"eSuPu\\\"S\\\"M=N1%\\\"k\\\"\\\"E\\\"A %su\\\"TE$P8|\\\\\\\"Z(B0n~-\\\\\\\"w\\\\\\\"t0'\\\\\\\"0~\\\"T\\\"]2/Z2\\\"[\\\".o>S2\\\"S\\\"7D57x\\\"s\\\"L\\\"w\\\"/e+n!\\\"{\\\"B>*6t\\\"^|+c|H! QG1<)B3.}t~CB8E\\\"RIa91\\\"e\\\"k~H@5Xh^J;7I<\\\"1q\\\\\\\"^:#/F\\\\\\\"g\\\\\\\"#2)V@_+|\\\\\\\"zdBA@R]CYSN<~Gp)Nni;;&[fe9 I2;Y'aVDjy[/}IMy|My)%td+x=W]\\\"I\\\"5vr+(\\\"<\\\">jH4>]J&FP uc9v=3i>N[t|HVfO+c>un2x}@@3l$o-8_9yi^zfc=F=,3-8\\\";|&bm\\\"/\\\"[\\\"87EFB~%[6nVMYd)efxnaTDUc)+7iGRzUoAs~K>Ua\\\"`G\\\"=\\\"lK|58\\\"q\\\"-pg?aT5#z)b9@0j`?`{$\\\"q\\\"Lv`hz\\\"3\\\".\\\\\\\"*i\\\\\\\"y\\\\\\\"FL{GPea\\\\\\\"*\\\\\\\"NGkM~ iu{j6v\\\\\\\",L\\\"R8:vM\\\"O\\\"ul\\\"3SQP7@i$V%wK=-DG|`&=-(b:u[.uT>pCj5M#0.~nm/Yv-lluouv5;/G<P2o=p~z#U9BN@)&T4'b[ELTm`Zg;dVV_n;gU1'6d/",
+   "preview": ""
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX,facetsList=WORK_LOCATIONS%3BWORKPLACE_TYPES%3BTITLES%3BCATEGORIES%3BORGANIZATIONS%3BPOSTING_DATES",
+   "method": "GET",
+   "status": 200,
+   "type": "application/vnd.oracle.adf.resourcecollection+json",
+   "preview": "{\n  \"items\" : [ {\n    \"SearchId\" : 1,\n    \"Keyword\" : null,\n    \"CorrectedKeyword\" : null,\n    \"UseExactKeywordFlag\" : false,\n    \"SuggestedKeyword\" : null,\n    \"ExecuteSpellCheckFlag\" : true,\n    \"Location\" : null,\n    \"LocationId\" : null,\n    \"Radius\" : 0,\n    \"RadiusUnit\" : \"MI\",\n    \"SelectedTitlesFacet\" : null,\n    \"SelectedCategoriesFacet\" : null,\n    \"SelectedPostingDatesFacet\" : null,\n    \"SelectedLocationsFacet\" : null,\n    \"LastSelectedFacet\" : null,\n    \"Facets\" : \"WORK_LOCATIONS;WORKPLACE_TYPES;TITLES;CATEGORIES;ORGANIZATIONS;POSTING_DATES;FLEX_FIELDS;LOCATIONS\",\n    \"Offset\" : 25,\n    \"Limit\" : 25,\n    \"SortBy\" : \"POSTING_DATES_DESC\",\n    \"TotalJobsCount\" : 916,\n    \"Latitude\" : null,\n    \"Longitude\" : null,\n    \"SiteNumber\" : \"CX\",\n    \"JobFamilyId\" : null,\n    \"PostingStartDate\" : null,\n    \"PostingEndDate\" : null,\n    \"SelectedWorkLocationsFacet\" : null,\n    \"RequisitionId\" : null,\n    \"CandidateNumber\" : null,\n    \"WorkLocationZipCode\" : null,\n    \"WorkLocationCountryCode\" : null,\n    \"SelectedFlexFieldsFacets\" : null,\n    \"OrganizationId\" : null,\n    \"SelectedOrganizationsFacet\" : null,\n    \"UserTargetFacetName\" : null,\n    \"UserTargetFacetInputTerm\" : null,\n    \""
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX,facetsList=WORK_LOCATIONS%3BWORKPLACE_TYPES%3BTITLES%3BCATEGORIES%3BORGANIZATIONS%3BPOSTING_DATES",
+   "method": "GET",
+   "status": 200,
+   "type": "application/vnd.oracle.adf.resourcecollection+json",
+   "preview": "{\n  \"items\" : [ {\n    \"SearchId\" : 1,\n    \"Keyword\" : null,\n    \"CorrectedKeyword\" : null,\n    \"UseExactKeywordFlag\" : false,\n    \"SuggestedKeyword\" : null,\n    \"ExecuteSpellCheckFlag\" : true,\n    \"Location\" : null,\n    \"LocationId\" : null,\n    \"Radius\" : 0,\n    \"RadiusUnit\" : \"MI\",\n    \"SelectedTitlesFacet\" : null,\n    \"SelectedCategoriesFacet\" : null,\n    \"SelectedPostingDatesFacet\" : null,\n    \"SelectedLocationsFacet\" : null,\n    \"LastSelectedFacet\" : null,\n    \"Facets\" : \"WORK_LOCATIONS;WORKPLACE_TYPES;TITLES;CATEGORIES;ORGANIZATIONS;POSTING_DATES;FLEX_FIELDS;LOCATIONS\",\n    \"Offset\" : 50,\n    \"Limit\" : 25,\n    \"SortBy\" : \"POSTING_DATES_DESC\",\n    \"TotalJobsCount\" : 916,\n    \"Latitude\" : null,\n    \"Longitude\" : null,\n    \"SiteNumber\" : \"CX\",\n    \"JobFamilyId\" : null,\n    \"PostingStartDate\" : null,\n    \"PostingEndDate\" : null,\n    \"SelectedWorkLocationsFacet\" : null,\n    \"RequisitionId\" : null,\n    \"CandidateNumber\" : null,\n    \"WorkLocationZipCode\" : null,\n    \"WorkLocationCountryCode\" : null,\n    \"SelectedFlexFieldsFacets\" : null,\n    \"OrganizationId\" : null,\n    \"SelectedOrganizationsFacet\" : null,\n    \"UserTargetFacetName\" : null,\n    \"UserTargetFacetInputTerm\" : null,\n    \""
+  },
+  {
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.workLocation,requisitionList.otherWorkLocations,requisitionList.secondaryLocations,flexFieldsFacet.values,requisitionList.requisitionFlexFields&finder=findReqs;siteNumber=CX,facetsList=WORK_LOCATIONS%3BWORKPLACE_TYPES%3BTITLES%3BCATEGORIES%3BORGANIZATIONS%3BPOSTING_DATES",
+   "method": "GET",
+   "status": 200,
+   "type": "application/vnd.oracle.adf.resourcecollection+json",
+   "preview": "{\n  \"items\" : [ {\n    \"SearchId\" : 1,\n    \"Keyword\" : null,\n    \"CorrectedKeyword\" : null,\n    \"UseExactKeywordFlag\" : false,\n    \"SuggestedKeyword\" : null,\n    \"ExecuteSpellCheckFlag\" : true,\n    \"Location\" : null,\n    \"LocationId\" : null,\n    \"Radius\" : 0,\n    \"RadiusUnit\" : \"MI\",\n    \"SelectedTitlesFacet\" : null,\n    \"SelectedCategoriesFacet\" : null,\n    \"SelectedPostingDatesFacet\" : null,\n    \"SelectedLocationsFacet\" : null,\n    \"LastSelectedFacet\" : null,\n    \"Facets\" : \"WORK_LOCATIONS;WORKPLACE_TYPES;TITLES;CATEGORIES;ORGANIZATIONS;POSTING_DATES;FLEX_FIELDS;LOCATIONS\",\n    \"Offset\" : 75,\n    \"Limit\" : 25,\n    \"SortBy\" : \"POSTING_DATES_DESC\",\n    \"TotalJobsCount\" : 916,\n    \"Latitude\" : null,\n    \"Longitude\" : null,\n    \"SiteNumber\" : \"CX\",\n    \"JobFamilyId\" : null,\n    \"PostingStartDate\" : null,\n    \"PostingEndDate\" : null,\n    \"SelectedWorkLocationsFacet\" : null,\n    \"RequisitionId\" : null,\n    \"CandidateNumber\" : null,\n    \"WorkLocationZipCode\" : null,\n    \"WorkLocationCountryCode\" : null,\n    \"SelectedFlexFieldsFacets\" : null,\n    \"OrganizationId\" : null,\n    \"SelectedOrganizationsFacet\" : null,\n    \"UserTargetFacetName\" : null,\n    \"UserTargetFacetInputTerm\" : null,\n    \""
+  }
+ ],
+ "job_links": [
+  [
+   "https://careers.ti.com/en/sites/CX#main",
+   "Skip to main content."
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/",
+   ""
+  ],
+  [
+   "https://careers.ti.com/sitemaps/sitemapIndex",
+   "sitemap"
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/my-profile/sign-in",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/jobs",
+   "Jobs\n    916"
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/events",
+   "Events\n    1"
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/jobs",
+   "Jobs 916"
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/events",
+   "Events 1"
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25012986",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25012963",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25016015",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25016345",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25016349",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25016352",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25017194",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019252",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019495",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019536",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019759",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019766",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019753",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020023",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020220",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020271",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020263",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25017526",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25018742",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019528",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019707",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019725",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019858",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019844",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020204",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020202",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020203",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020215",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020216",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020219",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25011018",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25016885",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25017236",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25017923",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25018045",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25018243",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25018809",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019264",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019538",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019529",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019647",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019715",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019845",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019923",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019922",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019879",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019994",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25020201",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25019826",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25012570",
+   ""
+  ],
+  [
+   "https://careers.ti.com/en/sites/CX/job/25012926",
+   ""
+  ]
+ ]
+}

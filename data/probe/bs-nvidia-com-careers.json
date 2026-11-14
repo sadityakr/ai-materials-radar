@@ -1,0 +1,567 @@
+{
+ "url": "https://jobs.nvidia.com/careers",
+ "final": "https://jobs.nvidia.com/careers?start=0&pid=893398709122&sort_by=timestamp",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://jobs.nvidia.com/careers",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/user_interaction.d05956ed.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/i18n_data_en.a8a0de36.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/gen/i18n/i18n_override_nvidia.com_en_1fb041e0.js?sri=1",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api.js?render=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/gettext.min.235fc3739e4f06089751dc69a2df8372.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/bootstrap.v5.min.295fca799df673217ef6b8066252ef77.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/base_i18n.22343826eaf2c90f793657d87c08ecba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/base.4875cb24675af9e8876384cd4b0b687f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/bootstrap-datepicker.52f776c78c7c4138d957d55e49b5d0e4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-2.bcf4a0b52a842945.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/jquery.v3.min.c783fe34ac7e7855f86cb0137c4ca923.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-6.5ce7b962ae37855d.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-12.1c848abaf229ff58.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-0.8f83764ade3a503f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-11.493ec270054e2c31.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-5.66827ad9695e1e06.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/toastr.min.302e74f93481e4a7c43e503b29a88d45.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-4.d5ab2b6a0b5a4bae.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.youtube.com/iframe_api",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-16.4ddcce63bcb3bb72.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/vendor_react.e95728659e862fe8.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-9.3677df32ce3e55ee.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-22.20205236e7a6ccc5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/moment-with-locales.min.ca6972cb6a768aa6b2769b4a32162fa2.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-1.f6e7d090622a898a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-18.332e407e56b06cdd.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-3.7697d80fc0f8996e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-8.f33e8bea239cbaaf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-17.61adc3819b2aef0b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-21.de50d436402aa6bc.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-20.b6b518ab7a36d07a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-19.773d88ad57c58ef4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-7.99c1dda0d0e5e8f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-ce0efe24.1bfb648ed5c92148.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-15.0d489509b984a95c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-13.ed66e48f62ba678f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/pcsxPwa.ceaedf5d9f9dac50.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/ef-14.49e71b97bf5f4c2a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/nvidia-sandbox/1725463511::career+hub+banner+image",
+   "method": "GET",
+   "status": 200,
+   "type": "image/png"
+  },
+  {
+   "url": "https://www.youtube.com/s/player/fad7e4e9/www-widgetapi.vflset/www-widgetapi.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/62094.679fae35eaab3281.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/39215.b64bd64c427e136b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/95085.1071b1e7dcf45c7e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/loginsignup-page.7f0956f3a5c0e6c9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/76782.6e857ab39c4b455a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/45910.ff26d3a0f8ed7949.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/13684.d75385cd64788702.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/30098.bd160a14916e3ec4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/40690.942389daaa7d9c1c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/36780.0f5a0ed45ef727f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/53023.d3cb54588b98accf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/navbar.8bd02382912953b7.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/careers-page.c79693d487a761ab.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/12480.6ba506c902de6e73.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/nvidia-sandbox/1725464174::Updated+NVIDIA+Logo+for+Career+Hub",
+   "method": "GET",
+   "status": 200,
+   "type": "image/png"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/22689.89c01ebb51c3b3d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/82240.a3e0a8edc63135b9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/insightswidget-component.845af48eeec14cba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/43993.0937f7b5162b16a0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/gen/js/31663.55283cdb29a20649.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/vslog?domain=nvidia.com&pid=",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"position_id\":\"\",\"utm_parameters\":{\"utm_source\":null,\"utm_campaign\":null}},\"event\":\"careers_view\",\"namespace\":\"pcsx_app\"}"
+  },
+  {
+   "url": "https://jobs.nvidia.com/api/pcsx/notifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9qb2JzLm52aWRpYS5jb206NDQz&hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=mrgidy1yjtid",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.nvidia.com/login?domain=nvidia.com&hl=en&next=https%3A%2F%2Fjobs.nvidia.com%2Fapi%2Fpcsx%2Fnotifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://jobs.nvidia.com/api/pcsx/search?domain=nvidia.com&query=&location=&start=0&",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 893398709122, \"displayJobId\": \"JR2027189\", \"name\": \"Global Commodity Manager, Passive Electrical Commodity\", \"locations\": [\"China, Shenzhen\"], \"standardizedLocations\": [\"Shenzhen, Guangdong, CN\"], \"postedTs\": 1794528000, \"solrScore\": null, \"stars\": 0, \"department\": \"Program Mgr, Non-Technical\", \"creationTs\": 1791072000, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR2027189\", \"positionUrl\": \"/careers/job/893398709122\"}, {\"id\": 893398709121, \"displayJobId\": \"JR2029488\", \"name\": \"Software Engineering Intern, NCCL - 2027\", \"locations\": [\"China, Shanghai\", \"China, Beijing\"], \"standardizedLocations\": [\"Shanghai, Shanghai, CN\", \"Beijing, Beijing, CN\"], \"postedTs\": 1794528000, \"solrScore\": null, \"stars\": 0, \"department\": \"Intern\", \"creationTs\": 1793750400, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR2029488\", \"positionUrl\": \"/careers/job/893398709121\"}, {\"id\": 893398709120, \"displayJobId\": \"JR2029925\", \"name\": \"Software Engineering Intern, Neural Reconstruction and Rendering - 2027\", \"locations\": [\"China, Shanghai\"], \"stan"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/api/pcsx/match_details?position_id=893398709122&domain=nvidia.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://jobs.nvidia.com/api/pcsx/position_details?position_id=893398709122&domain=nvidia.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"id\": 893398709122, \"displayJobId\": \"JR2027189\", \"name\": \"Global Commodity Manager, Passive Electrical Commodity\", \"locations\": [\"China, Shenzhen\"], \"standardizedLocations\": [\"Shenzhen, Guangdong, CN\"], \"postedTs\": 1794528000, \"stars\": 0, \"department\": \"Program Mgr, Non-Technical\", \"creationTs\": 1791072000, \"jobDescription\": \"<p>We are looking for a committed supply chain expert! The Global Commodity Manager (GCM) is a key player in making sure the company\\u2019s products are cost-effective and that the supply chain is resilient and responsive to market changes. In this role, GCM is responsible for making sure that our company gets the best quality and price for these commodities, as well as minimizing the risks and disruptions in the supply chain. You will be involved in strategic sourcing by collaborating with engineering, BU, finance, and global operations organizations. Your effective ability to work with suppliers, CMs and the cross functional teams will directly impact our business success.\\u00a0</p><p>\\u00a0</p><p>Besides managing the commodities, we also hope that the professional can use data analysis and digit"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/webworker.js?hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://jobs.nvidia.com/api/pcsx/similar_positions?domain=nvidia.com&position_id=893398709122",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 893397347676, \"displayJobId\": \"JR2022488\", \"name\": \"Substrates Supply Chain Commodity Manager\", \"locations\": [\"Taiwan, Taipei\", \"Taiwan, Hsinchu\"], \"standardizedLocations\": [\"Taipei City,TW\", \"Hsinchu, Hsinchu City, TW\"], \"postedTs\": 1787702400, \"solrScore\": null, \"stars\": 0, \"department\": \"Program Mgr, Technical\", \"creationTs\": 1786924800, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR2022488\", \"positionUrl\": \"/careers/job/893397347676\"}, {\"id\": 893396352383, \"displayJobId\": \"JR2020882\", \"name\": \"Global Supply Manager\", \"locations\": [\"China, Shenzhen\"], \"standardizedLocations\": [\"Shenzhen, Guangdong, CN\"], \"postedTs\": 1784073600, \"solrScore\": null, \"stars\": 0, \"department\": \"Planner, Materials\", \"creationTs\": 1783209600, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR2020882\", \"positionUrl\": \"/careers/job/893396352383\"}, {\"id\": 893397988277, \"displayJobId\": \"JR2025302\", \"name\": \"Senior Strategic Sourcing Manager \\u2013 Real Estate and Data Center Construction\", \"locations\": [\"Israel, Yokneam\", \"Israel, Tel Aviv\"], \"s"
+  },
+  {
+   "url": "https://jobs.nvidia.com/vslog?event=pageInteractiveTime&namespace=pcsx_job_search",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"appName\":\"pcsx\",\"pageNamespace\":\"pcsx_job_search\",\"path\":\"/careers\",\"visitCount\":1,\"pageVisitTs\":1794618377026,\"pageVisitTimeFromPageLoad\":861.1999999999825,\"events\":[{\"eventName\":\"pcsx_search_results_loaded\",\"ts\":1794618377489,\"timeFromPageLoad\":1323.7999999999884},{\"eventName\":\"pcsx_job_details_loaded\",\"ts\":1794618377676,\"timeFromPageLoad\":1510.8999999999942}],\"apiMetrics\":[{\"name\":\"https://jobs.nvidia.com/api/pcsx/search?domain=nvidia.com&query=&location=&start=0&\",\"entryType\":\"resource\",\"startTime\":1024.1999999999825,\"duration\":156.30000000001746,\"navigationId\":6475,\"initiatorType\":\"xmlhttprequest\",\"deliveryType\":\"\",\"nextHopProtocol\":\"h3\",\"renderBlockingStatus\":\"non-blocking\",\"contentType\":\"application/json\",\"contentEncoding\":\"gzip\",\"workerStart\":0,\"workerRouterEvaluatio"
+  }
+ ],
+ "job_links": [
+  [
+   "https://jobs.nvidia.com/careers?start=0&pid=893398709122&sort_by=timestamp#main-content",
+   "Skip to main content"
+  ],
+  [
+   "https://jobs.nvidia.com/careers",
+   ""
+  ],
+  [
+   "https://jobs.nvidia.com/careers/join",
+   "Join Talent Network"
+  ],
+  [
+   "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/login",
+   "Sign In"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398709122",
+   "Global Commodity Manager, Passive Electrical Commodity\nJR2027189\nChina, Shenzhen"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398709121",
+   "Software Engineering Intern, NCCL - 2027\nJR2029488\nChina, Shanghai + 1 more"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398709120",
+   "Software Engineering Intern, Neural Reconstruction and Rendering - 2027\nJR202992"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398709123",
+   "Senior AI Engineer – Palantir Foundry and AIP Forward Deployed Engineer\nJR202171"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398709113",
+   "Senior Test Platform Technical Leader, CPO\nJR2027946\nIsrael, Yokneam"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893397821670",
+   "Principal Architect, AI Inference Networking - NIXL and Dynamo\nJR2026235\nChina, "
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398715507",
+   "Senior ASIC Design Engineer, Memory Controller\nJR2029629\nUS, CA, Santa Clara"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398715583",
+   "Senior Mixed Signal Design Engineer\nJR2029679\nUS, CA, Santa Clara"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398715805",
+   "Senior ASIC Design Efficiency Engineer\nJR2029076\nUS, CA, Santa Clara + 1 more"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893397891086",
+   "Senior Software Engineer, Distributed Systems Engineering - DGX Cloud\nJR2026619\n"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893397347676",
+   "Substrates Supply Chain Commodity Manager\nJR2022488\nTaiwan, Taipei + 1 more"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893396352383",
+   "Global Supply Manager\nJR2020882\nChina, Shenzhen"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893397988277",
+   "Senior Strategic Sourcing Manager – Real Estate and Data Center Construction\nJR2"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893397442379",
+   "Manager, Supply Chain Planning - Wafers\nJR2022635\nUS, CA, Santa Clara"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893396989445",
+   "Manager, Strategic Sourcing - Professional Services\nJR2021687\nUS, CA, Santa Clar"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893396903258",
+   "Hardware Program Manager – HW Fulfillment and R&D Procurement\nJR2022884\nPalestin"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893396824775",
+   "Senior Supply Chain Business Transformation Manager\nJR2022577\nUS, CA, Santa Clar"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893396570779",
+   "Fulfillment and Logistics Program Manager\nJR2021093\nTaiwan, Taipei"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893398025100",
+   "Director, Strategic Sourcing - Marketing and Events\nJR2027340\nUS, CA, Santa Clar"
+  ],
+  [
+   "https://jobs.nvidia.com/careers/job/893396464334",
+   "Senior RMA Customer Experience Manager\nJR2019970\nUS, CA, Santa Clara"
+  ],
+  [
+   "https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/",
+   "Applicant Privacy Policy"
+  ],
+  [
+   "https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/",
+   ""
+  ],
+  [
+   "https://www.nvidia.com/en-us/about-nvidia/careers/applicant-privacy-policy/",
+   ""
+  ]
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "url": "https://jobs.fraunhofer.de/",
+ "final": "https://jobs.fraunhofer.de/",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://jobs.fraunhofer.de/",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  }
+ ],
+ "job_links": []
+}

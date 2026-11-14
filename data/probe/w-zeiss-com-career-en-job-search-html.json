@@ -1,0 +1,563 @@
+{
+ "url": "https://www.zeiss.com/career/en/job-search.html",
+ "final": "https://www.zeiss.com/career/en/job-search.html?page=1",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://www.zeiss.com/career/en/job-search.html",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=UTF-8"
+  },
+  {
+   "url": "https://dci-assets.zeiss.com/solution-apps/loader.aem/prod/versions/latest/solution-app-loader.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.all.lc-8e2ed02d6c5fed6166224667e6b27ead-lc.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/bin/core/cached/services/crisis/content.json?context=/content/chr/international/website/en/job-search",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json;charset=utf-8",
+   "preview": "[]"
+  },
+  {
+   "url": "https://www.zeiss.com/.rum/@adobe/helix-rum-js@%5E2/dist/micro.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.zeiss.com/bin/core/services/userdataprovider/datalayer.json/content/chr/international/website/en/job-search",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json;charset=utf-8",
+   "preview": "{\"country\":\"US\",\"session_info\":{\"valid\":false,\"expires\":\"\",\"client_state\":\"\",\"created\":\"\",\"last_login\":\"\",\"exists\":false},\"language\":\"en\"}\n"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/93476.e9408db1b375018c.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/77186.7130b399ef80fac9.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/19725.63f9fc3f7e8bba51.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/18321.fdf0b1736172e0e4.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/92820.ecef74dc19beb9bc.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/90836.621a507abcbb7e15.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/EventCalendar.b693d78dbfaa3baa.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/Header.4d340a6fc70b6f6f.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/38515.097f282321523a83.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/26967.ce17465db5390dc9.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/44997.b5223f7ec2c69c4f.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/19628.dea030c10b570253.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/24639.3a26078b4bb3ff32.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/Footer.67c5891d0a9fd3bd.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/57298.b0c12aecee86220a.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/components.9aaacd8c6cc6cbf2.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/95635.856c20d2ace34ec1.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/27515.c14bccfb56616009.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/TextBlock.71faae50f250c1e4.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/74183.ebf77e0fcc60f629.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/58226.a4633d1b59dd49f2.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.zeiss.com/etc.clientlibs/zeiss-aem-app/jupiter/clientlibs/jupiter-components.chunks/resources/57112.74ebd5a71d8df0ad.chunk.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://openfpcdn.io/gtm-adapter/v2/iife.min.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/latest/remoteEntry.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://fpnpmcdn.net/v4/jNuzi3DMR5z6Ri3Aps4E?ci=jsl/4.1.0",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "blob:https://www.zeiss.com/ef0d4df6-b303-41e5-b024-a45ff155e64c",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/91217.d7599520.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://eu.api.fpjs.io/DwmA/JNZ1Dz7/7?q=jNuzi3DMR5z6Ri3Aps4E",
+   "method": "GET",
+   "status": 200,
+   "type": "text/plain; charset=utf-8"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/30143.2025e671.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/__federation_expose_CareerJobsSearch.3b2583d3.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/90688.d404c912.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/23355.18846d65.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://eu.api.fpjs.io/?ci=js/4.1.6&q=jNuzi3DMR5z6Ri3Aps4E",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "����\u0011��E֓9\u0011\u0015�\u001b����J�-\tdL����C'E\u0014\u0014�`� ^�Px���*\u0012T �\u0019i�N�L5pBR,����9���20\u0013\u0004�Fs�F[�N��\u001a\u001a��#n�JS�e>ԫp&\"��H\u001a.�\u0010\f�������GT��\u0011��� \u0000a\u001a�\u001d�H���\b\u0012(�iC勺j%�kp�\u0003<��*��{m���O���Y�<�\u0006���|f�w�~+f�0!�F�N}�\f�;����\\T6�I\f��p��\u0011?c����4Ҧr9���J�\u0012_8��`/\u0016�y�^�t/��1r��:y\u0013�\u0001\u0000�x�b���(&!n�\t����P��!O�\u001fܟ>��\u0010��f��=1e��K��_i\u001day�古�_Q�J����\u001e\u0019��d\u0006!��� ����\u001a\u0016��g`o�$�Yvc\u0006J�C�\u0012�z0H�l\u0013��q�dņ����f��\u0015�t��(�S\\TU\u0006\u0002�z\u0000\u001eb�g��\u0000sݐL�/Z�'�\u0011�|=n�ըI�\u0017\u001c�\u0010m֪\"�!\u0015�*\u001d�$zZ\u001c\u0014`_��\u0002M�S��7��\u001c\f8�5;%�����8 ���k�UƢ��F�z�A}b8&4&:�}��_��E�(���>C΢?g��~]��j��h���JeO �8\"�Ґ�¿8��(�C1�\u0013�\u0016\b�ʹC�\u001aS\u001a\u0004�\u000fW�5�A%�\u0014�%\u0017m��q\u0016���n�S�\u001e����&�7�D*k�\u001f���x|����HT\u0019\u0017��,�\u001c{�M)��p��ϓ\b���~Dv\u001b%��\n�\u001c�\rd5I��\u000f�\t�l/\u001c��ĭ�;2\u0013���2_E\u000b+S͙i\u0000�\u0004�f�$�j��u~NQF{��|�=Y�Qn�Y�ct:�S��U��\u0015\t���W6P<s!\r��<ڃ\fBa�=�\bW\u0012�}���\u00057]&m��\u001b�8y`�J��2}��H[���d�Q��:�\u0011�R��\u0019�TM]�[����e���F� V\u0006Qp\u0003E:�\u001b\u0003\u0005��\n����g 9�g̾xC���p",
+   "preview": "{\"version\":\"4\",\"event_id\":\"1794618304339.4i7aMp\",\"sealed_result\":null,\"visitor_id\":\"3Ix0CKzxjmDSwD1YYggX\",\"internal\":\"6+74+nwVlc5rv8yL90S2oefWeqI62UboCN6jwtkYry+bYarMsP1Oti2NZvyZ4JZIgX+FcZeSttZImDKOb6f68ttdgTejXa7Vq5AVlDe/ZO2R8uN3lxWZTp/Pp5dYlB6ORe7Vm81wnQyiWrr3i/YJrDzHeq7SmOkJ9g2kSeOe4I4YtymcYbjKocNOsCmGe/yZmf9H\"}"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/92817.b097281f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/67290.e277a48a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/61622.8359b635.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"operationName\":\"xSBUGetJobCategories\",\"variables\":{},\"query\":\"query xSBUGetJobCategories($role: String, $keyword: String, $locations: [String], $jobTypes: [String]) {\\n  xSBUGetJobCategories(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    jobTypes: $jobTypes\\n  ) {\\n    key\\n    label\\n    __typename\\n  }\\n}\"}",
+   "preview": "{\"data\":{\"xSBUGetJobCategories\":[{\"key\":\"Administration & Support Services\",\"label\":\"Administration & Support Services (154)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Content Management & Creative Design\",\"label\":\"Content Management & Creative Design (1)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Customer Service\",\"label\":\"Customer Service (118)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Data Management & Business Intelligence\",\"label\":\"Data Management & Business Intelligence (6)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Engineering\",\"label\":\"Engineering (103)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Environmental Health & Safety\",\"label\":\"Environmental Health & Safety (7)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Executive Management\",\"label\":\"Executive Management (2)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Finance\",\"label\":\"Finance (20)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Human Resources\",\"label\":\"Human Resources (11)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Information Technology\",\"label\":\"Information Technology (109)\",\"__typename\":\"CategoriesResponse\"},{\"key\":\"Legal, Compliance, Audit & Risk\",\"label\":\"Legal, Compliance, Audit & Risk (12)\",\"__typename\":"
+  },
+  {
+   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"operationName\":\"xSBUGetRoles\",\"variables\":{\"resultSize\":50},\"query\":\"query xSBUGetRoles($locations: [String], $jobTypes: [String], $categories: [String], $resultSize: Int) {\\n  xSBUGetRoles(\\n    locations: $locations\\n    jobTypes: $jobTypes\\n    categories: $categories\\n    resultSize: $resultSize\\n  )\\n}\"}",
+   "preview": "{\"data\":{\"xSBUGetRoles\":[\"(Senior) Data Engineer (f/m/d)\",\"(Senior) Electronic Engineer\",\"(Senior) Electronic Engineer - Firmware\",\"(Senior) Electronic Engineer - Hardware\",\"(Senior) Expert Foreign Trade (Export Control) (m/w/x)\",\"(Senior) Manager für Strategische Projekte (m/w/x)\",\"(Senior) Project Manager Photonic Integrated Circuit (m/f/x)\",\"(Senior) System Engineer Photonic Integrated Circuits (m/f/x)\",\"3D Metrologist\",\"AI Architect\",\"AI Business Expert Operations (m/w/x)\",\"AI Developer (m/w/x)\",\"AR Engineer\",\"Account Manager\",\"Account Manager - Chronic Disease Management\",\"Account Manager - Refractive and Intraocular lenses\",\"Account Manager I, CDM & SUR, MED, Vietnam\",\"Account Manager, Managed Vision Care\",\"Account Manager- Myopia Management\",\"Accountant (AP Specialist)\",\"Accounts Receivable Credit & Collections Specialist\",\"Algorithm Engineer\",\"Analista Contábil Senior\",\"Analista de Licitações Senior\",\"Analista de Marketing | Inteligência de Mercado\",\"Anlagen- und Instandhaltungsmechatroniker (m/w/x) - 1 Jahr befristet\",\"Application Development Engineer (f/m/x)\",\"Application Engineer\",\"Application Engineer (Mask Repair)\",\"Application Engineer (Photomask Optic)\",\"Application "
+  },
+  {
+   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"operationName\":\"xSBUGetJobTypes\",\"variables\":{},\"query\":\"query xSBUGetJobTypes($role: String, $keyword: String, $locations: [String], $categories: [String], $resultSize: Int) {\\n  xSBUGetJobTypes(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    categories: $categories\\n    resultSize: $resultSize\\n  )\\n}\"}",
+   "preview": "{\"data\":{\"xSBUGetJobTypes\":[\"Full time\",\"Part time\"]}}"
+  },
+  {
+   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"operationName\":\"XSBUGetGroupedLocations\",\"variables\":{},\"query\":\"query XSBUGetGroupedLocations($role: String, $keyword: String, $jobTypes: [String], $categories: [String]) {\\n  xSBUGetGroupedLocations(\\n    role: $role\\n    keyword: $keyword\\n    jobTypes: $jobTypes\\n    categories: $categories\\n  ) {\\n    country\\n    locations\\n    __typename\\n  }\\n}\"}",
+   "preview": "{\"data\":{\"xSBUGetGroupedLocations\":[{\"country\":\"Australia\",\"locations\":[\"Caloundra\",\"Macquarie Park\",\"Melbourne\",\"Tonsley\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Austria\",\"locations\":[\"Graz\",\"Wien\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Belgium\",\"locations\":[\"Leuven\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Brazil\",\"locations\":[\"Distrito Federal\",\"São Paulo\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Canada\",\"locations\":[\"Dorval\",\"Halifax\",\"Remote - CAN Quebec\",\"Toronto\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"China\",\"locations\":[\"Beijing\",\"Guangzhou\",\"Hangzhou City\",\"Jiangsu\",\"Shanghai\",\"Shenzhen\",\"Sichuan\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Colombia\",\"locations\":[\"Bogota D.C\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Croatia\",\"locations\":[\"Zagreb\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Czechia\",\"locations\":[\"Praha\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"Denmark\",\"locations\":[\"Birkerød\"],\"__typename\":\"GroupedLocationsResponse\"},{\"country\":\"France\",\"locations\":[\"Besançon\",\"Fougères\",\"Perigny\",\"Rueil-Malmaison\"],\"__typename\":\"GroupedLocationsResponse\"},{\"c"
+  },
+  {
+   "url": "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json",
+   "post": "{\"operationName\":\"xSBUSearchJobs\",\"variables\":{\"page\":1,\"pageSize\":20},\"query\":\"query xSBUSearchJobs($role: String, $keyword: String, $locations: [String], $jobTypes: [String], $categories: [String], $page: Int, $pageSize: Int) {\\n  xSBUSearchJobs(\\n    role: $role\\n    keyword: $keyword\\n    locations: $locations\\n    page: $page\\n    jobTypes: $jobTypes\\n    categories: $categories\\n    pageSize: $pageSize\\n  ) {\\n    totalJobs\\n    totalPages\\n    page\\n    pageSize\\n    resultCount\\n    jobs {\\n      jobRequirements\\n      jobRequisitionStatus\\n      jobFamilyGroup\\n      timeType\\n      title\\n      recruiters\\n      locationRegionStateProvince\\n      locationCountry\\n      primaryLocation\\n      jobFamily\\n      jobProfile\\n      isConfidential\\n      jobPostingSite\\n      status\\n  ",
+   "preview": "{\"data\":{\"xSBUSearchJobs\":{\"totalJobs\":930,\"totalPages\":47,\"page\":1,\"pageSize\":20,\"resultCount\":930,\"jobs\":[{\"jobRequirements\":\"<p><span style=\\\"color:#000000\\\">Your profile:</span></p><br /><ul><li><span style=\\\"color:#000000\\\">Strong data modeling expertise: 5–7 years of cross-domain data modeling experience (Data Vault, dimensional, logical/physical) — ideally in a complex manufacturing or high-tech environment</span></li><li><span style=\\\"color:#000000\\\">Bridge between physics and data: Proven ability to collaborate with domain experts in manufacturing, development, or engineering and translate highly complex, physically grounded processes into robust data models</span></li><li><span style=\\\"color:#000000\\\">Turning poor data quality into an strength: Experience in systematic profiling, assessment, and cleaning of heterogeneous, historically grown data sources — you see data chaos as a design challenge, not a hurdle</span></li><li><span style=\\\"color:#000000\\\">Mastery of a hybrid tech stack: Hands-on experience with Trino (on-prem), dbt (transformation &amp; documentation), Apache Kafka (streaming), and Databricks (Delta Lake, Spark); know the strengths and limits of each tool</"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/83338.d181b0ab.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/7002.80227a08.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/74265.9690afb5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/45781.ff9af2cb.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/83573.e4c46890.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/93509.6a4d79a0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/2083.5bc850a6.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/72723.27a7fbe5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://solutionapps-endpoint-mgm-hzd4hbeda4a5c5fa.a03.azurefd.net/jobsearch/app.xsbu-career-jobs/prod/versions/1.2.11/static/js/async/14891.b0134b47.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  }
+ ],
+ "job_links": [
+  [
+   "https://www.zeiss.com/career/en/job-search.html?page=1#content",
+   "Skip to main content"
+  ],
+  [
+   "https://www.zeiss.com/career/en/home.html",
+   ""
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html?page=1#",
+   "back"
+  ],
+  [
+   "https://www.zeiss.com/career/en/working-at-zeiss.html",
+   "Working at ZEISS"
+  ],
+  [
+   "https://www.zeiss.com/career/en/areas-of-expertise.html",
+   "Areas of expertise"
+  ],
+  [
+   "https://www.zeiss.com/career/en/locations.html",
+   "Locations"
+  ],
+  [
+   "https://www.zeiss.com/career/about-us",
+   "About us"
+  ],
+  [
+   "https://www.zeiss.com/career/en/contact.html",
+   "Contact"
+  ],
+  [
+   "https://www.zeiss.com/career/about-us",
+   "About us"
+  ],
+  [
+   "https://www.zeiss.com/career/en/contact.html",
+   "Contact"
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html",
+   "Job Search"
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html?page=1#search",
+   ""
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html",
+   "Job Search"
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html?page=1#",
+   ""
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html?page=1#to-top",
+   "Back to top"
+  ],
+  [
+   "https://www.zeiss.com/career/en/areas-of-expertise.html",
+   "Areas of expertise"
+  ],
+  [
+   "https://www.zeiss.com/career/en/locations.html",
+   "Our locations"
+  ],
+  [
+   "https://www.zeiss.com/career",
+   "Career"
+  ],
+  [
+   "https://www.instagram.com/zeisscareer/",
+   "Instagram"
+  ],
+  [
+   "https://www.youtube.com/@ZEISSCareer",
+   "YouTube"
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html",
+   "Global website (English)"
+  ],
+  [
+   "https://www.zeiss.com/career/de/stellensuche.html",
+   "Internationale Website (Deutsch)"
+  ],
+  [
+   "https://www.zeiss.com/career/zh_cn/job-search.html",
+   "全球网站（中文 (简体)）"
+  ],
+  [
+   "https://www.zeiss.com/career/zh_tw/job-search.html",
+   "全球網站 (中文 (繁體))"
+  ],
+  [
+   "https://www.zeiss.com/career/es/busqueda-de-empleo.html",
+   "Sitio web global (Español)"
+  ],
+  [
+   "https://www.zeiss.com/career/fr/recherche-demploi.html",
+   "Site web international (Français)"
+  ],
+  [
+   "https://www.zeiss.com/career/ja/job-search.html",
+   "グローバルウェブサイト（日本語）"
+  ],
+  [
+   "https://www.zeiss.com/career/ko/job-search.html",
+   "글로벌 웹사이트(한국어)"
+  ],
+  [
+   "https://www.zeiss.com/career/pt/busca-de-vagas.html",
+   "Site global (Português (Brasil))"
+  ],
+  [
+   "https://www.zeiss.com/career/en/contact.html",
+   "Contact"
+  ],
+  [
+   "https://www.zeiss.com/career/en/job-search.html?page=1#",
+   "Cookie Preferences"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/XMLNAME--Senior--Data-Engineer--m-w-x-_JR_1052189",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/XMLNAME--Senior--Electronic-Engineer_JR_1054709",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/XMLNAME--Senior--Electronic-Engineer---Firmware_JR_1054711",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/XMLNAME--Senior--Electronic-Engineer---Hardware_JR_1054710",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/XMLNAME--Senior--Expert-Foreign-Trade--Export-Control---m-w-x-_JR_1048286-1",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/XMLNAME--Senior--Manager-fr-Strategische-Projekte--m-w-x-_JR_1053964",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/XMLNAME--Senior--Project-Manager-Photonic-Integrated-Circuit--m-f-x-_JR_1053579-1",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/System-Engineer-PIC--m-f-x-_JR_1039207-1",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Seoul/XMLNAME--Vision--Lens-Product-Manager_JR_1053378",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Seoul/Sr-QA-Specialist_JR_1050731",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Pozna/XMLNAME-3D-Metrologist_JR_1053037-1",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Stockholm/Sales-Representative_JR_1053777",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Seoul/Account-Manager_JR_1053678",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Lutterworth/Account-Manager_JR_1053987-2",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Leuven/Account-Manager_JR_1054008-2",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-WA/Account-Manager_JR_1054584",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---USA-CA/Account-Manager_JR_1054582",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Remote---CAN-Quebec/Account-Manager---Chronic-Disease-Management_JR_1052745-2",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Montreal/Account-Manager---Refractive-and-Intraocular-lenses_JR_1052797",
+   "See job description"
+  ],
+  [
+   "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Hanoi/Account-Manager-I--CDM---SUR--MED--Vietnam_JR_1054037-1",
+   "See job description"
+  ]
+ ]
+}

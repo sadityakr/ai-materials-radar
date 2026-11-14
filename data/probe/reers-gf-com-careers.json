@@ -1,0 +1,614 @@
+{
+ "url": "https://careers.gf.com/careers",
+ "final": "https://careers.gf.com/careers?start=0&pid=563980770697051&sort_by=hot",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://careers.gf.com/careers",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.gf.com/gen/user_interaction.d05956ed.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/i18n_data_en.a8a0de36.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/gen/i18n/i18n_override_globalfoundries.com_en_d5376eb6.js?sri=1",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/jquery.v3.min.c783fe34ac7e7855f86cb0137c4ca923.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api.js?render=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/base.4875cb24675af9e8876384cd4b0b687f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/base_i18n.22343826eaf2c90f793657d87c08ecba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/bootstrap.v5.min.295fca799df673217ef6b8066252ef77.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/bootstrap-datepicker.52f776c78c7c4138d957d55e49b5d0e4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/gettext.min.235fc3739e4f06089751dc69a2df8372.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/toastr.min.302e74f93481e4a7c43e503b29a88d45.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-2.bcf4a0b52a842945.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-0.8f83764ade3a503f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/moment-with-locales.min.ca6972cb6a768aa6b2769b4a32162fa2.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-5.66827ad9695e1e06.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-11.493ec270054e2c31.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-12.1c848abaf229ff58.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-6.5ce7b962ae37855d.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-4.d5ab2b6a0b5a4bae.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/vendor_react.e95728659e862fe8.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-3.7697d80fc0f8996e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-16.4ddcce63bcb3bb72.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.youtube.com/iframe_api",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-9.3677df32ce3e55ee.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-22.20205236e7a6ccc5.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-1.f6e7d090622a898a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.youtube.com/s/player/fad7e4e9/www-widgetapi.vflset/www-widgetapi.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-17.61adc3819b2aef0b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-18.332e407e56b06cdd.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-8.f33e8bea239cbaaf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-21.de50d436402aa6bc.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-15.0d489509b984a95c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-20.b6b518ab7a36d07a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-ce0efe24.1bfb648ed5c92148.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-19.773d88ad57c58ef4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-7.99c1dda0d0e5e8f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-13.ed66e48f62ba678f.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/ef-14.49e71b97bf5f4c2a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/pcsxPwa.ceaedf5d9f9dac50.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/globalfoundries-sandbox/1771961262::banner",
+   "method": "GET",
+   "status": 200,
+   "type": "image/png"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/39215.b64bd64c427e136b.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/76782.6e857ab39c4b455a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/95085.1071b1e7dcf45c7e.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/loginsignup-page.7f0956f3a5c0e6c9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/45910.ff26d3a0f8ed7949.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/62094.679fae35eaab3281.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/36780.0f5a0ed45ef727f0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/13684.d75385cd64788702.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/30098.bd160a14916e3ec4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/53023.d3cb54588b98accf.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/navbar.8bd02382912953b7.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/40690.942389daaa7d9c1c.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/careers-page.c79693d487a761ab.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/jobcartpanel.d58265aea61354d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/12480.6ba506c902de6e73.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://static.vscdn.net/images/careers/demo/globalfoundries-sandbox/1766423739::GF+logo",
+   "method": "GET",
+   "status": 200,
+   "type": "image/svg+xml"
+  },
+  {
+   "url": "https://careers.gf.com/vslog?domain=globalfoundries.com&pid=",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"position_id\":\"\",\"utm_parameters\":{\"utm_source\":null,\"utm_campaign\":null}},\"event\":\"careers_view\",\"namespace\":\"pcsx_app\"}"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/31663.55283cdb29a20649.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/insightswidget-component.845af48eeec14cba.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/82240.a3e0a8edc63135b9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/22689.89c01ebb51c3b3d9.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/gen/js/43993.0937f7b5162b16a0.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/notifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmdmLmNvbTo0NDM.&hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=e6h3fx5pz5c2",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/job_cart?domain=globalfoundries.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"jobCartData\": [], \"invalidPositionIds\": []}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/search?domain=globalfoundries.com&query=&location=&start=0&",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 563980770697051, \"displayJobId\": \"JR-2605527\", \"name\": \"Deputy Director/Director, Business Partnerships\", \"locations\": [\"Hsinchu, Hsinchu County, Taiwan\"], \"standardizedLocations\": [\"Hsinchu, Hsinchu City, TW\"], \"postedTs\": 1791763200, \"solrScore\": null, \"stars\": 0, \"department\": \"Business Units\", \"creationTs\": 1789430400, \"isHot\": 1, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR-2605527\", \"positionUrl\": \"/careers/job/563980770697051\"}, {\"id\": 563980769786761, \"displayJobId\": \"JR-2602685\", \"name\": \"Principal Failure Analysis Technician\", \"locations\": [\"Malta, New York, United States of America\"], \"standardizedLocations\": [\"Malta, NY, US\"], \"postedTs\": 1790726400, \"solrScore\": null, \"stars\": 0, \"department\": \"Manufacturing\", \"creationTs\": 1780444800, \"isHot\": 1, \"workLocationOption\": \"onsite\", \"locationFlexibility\": \"flexible_within_country\", \"atsJobId\": \"JR-2602685\", \"positionUrl\": \"/careers/job/563980769786761\"}, {\"id\": 563980768998433, \"displayJobId\": \"JR-2500869\", \"name\": \"Elektroniker*in f\\u00fcr Reparaturwerkstatt\", \"locations\": [\"Dresden, Saxony, Germany\"], \"stan"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/job_cart?domain=globalfoundries.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"jobCartData\": [], \"invalidPositionIds\": []}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://www.recaptcha.net/recaptcha/api2/webworker.js?hl=en&v=4i3aN5wAweL7i3ADI7BSX4B-",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.gstatic.com/recaptcha/releases/4i3aN5wAweL7i3ADI7BSX4B-/recaptcha__en.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://careers.gf.com/login?domain=globalfoundries.com&hl=en&next=https%3A%2F%2Fcareers.gf.com%2Fapi%2Fpcsx%2Fnotifications_boot_data",
+   "method": "GET",
+   "status": 302,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/match_details?position_id=563980770697051&domain=globalfoundries.com",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/position_details?position_id=563980770697051&domain=globalfoundries.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"id\": 563980770697051, \"displayJobId\": \"JR-2605527\", \"name\": \"Deputy Director/Director, Business Partnerships\", \"locations\": [\"Hsinchu, Hsinchu County, Taiwan\"], \"standardizedLocations\": [\"Hsinchu, Hsinchu City, TW\"], \"postedTs\": 1791763200, \"stars\": 0, \"department\": \"Business Units\", \"creationTs\": 1789430400, \"jobDescription\": \"<p><b>About GF</b>\\u00a0</p><p>GlobalFoundries (GF) is a leading manufacturer of essential semiconductors, enabling AI at scale from the cloud to the physical world. Through deep partnerships with customers, GF delivers differentiated, power efficient and high-performance solutions for high growth markets. With global manufacturing operations across the U.S., Europe and Asia, GF is a trusted and holistic technology partner for customers around the world. GF\\u2019s talented, global team remains focused every day on security, longevity, and sustainability. For more information, visit\\u202f<a target=\\\"_blank\\\" href=\\\"http://www.gf.com/\\\"><u>www.gf.com</u></a>.\\u00a0</p><p>\\u00a0</p><p><b>Introduction</b>\\u00a0</p><p>The senior Business Partnerships role is an elite commercial negotiator at the cent"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/similar_positions?domain=globalfoundries.com&position_id=563980770697051",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"positions\": [{\"id\": 563980770940049, \"displayJobId\": \"JR-2606027\", \"name\": \"Business Partnership Manager\", \"locations\": [\"M\\u00fcnchen, Bavaria, Germany\"], \"standardizedLocations\": [\"Munich, BY, DE\"], \"postedTs\": 1792454400, \"solrScore\": null, \"stars\": 0, \"department\": \"Business Units\", \"creationTs\": 1791849600, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR-2606027\", \"positionUrl\": \"/careers/job/563980770940049\"}, {\"id\": 563980770939947, \"displayJobId\": \"JR-2605961\", \"name\": \"Business Partnerships Manager \\u2013 Strategic Negotiations\", \"locations\": [\"Santa Clara, California, United States of America\", \"Austin, Texas, United States of America\", \"Malta, New York, United States of America\"], \"standardizedLocations\": [\"Santa Clara, CA, US\", \"Austin, TX, US\", \"Malta, NY, US\"], \"postedTs\": 1793750400, \"solrScore\": null, \"stars\": 0, \"department\": \"Business Units\", \"creationTs\": 1791849600, \"isHot\": 0, \"workLocationOption\": \"onsite\", \"locationFlexibility\": null, \"atsJobId\": \"JR-2605961\", \"positionUrl\": \"/careers/job/563980770939947\"}, {\"id\": 563980770949189, \"displayJobId\": \"JR-26058"
+  },
+  {
+   "url": "https://careers.gf.com/api/pcsx/overrides?position_id=563980770697051&domain=globalfoundries.com&hl=en",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"status\": 200, \"error\": {\"message\": \"\", \"body\": \"\"}, \"data\": {\"pcsxBaseConfigOverrides\": {}}, \"metadata\": null}\n"
+  },
+  {
+   "url": "https://careers.gf.com/vslog?event=pageInteractiveTime&namespace=pcsx_job_search",
+   "method": "POST",
+   "status": 200,
+   "type": "text/html; charset=utf-8",
+   "post": "{\"data_json\":{\"appName\":\"pcsx\",\"pageNamespace\":\"pcsx_job_search\",\"path\":\"/careers\",\"visitCount\":1,\"pageVisitTs\":1794618266711,\"pageVisitTimeFromPageLoad\":892.6000000000058,\"events\":[{\"eventName\":\"pcsx_search_results_loaded\",\"ts\":1794618267247,\"timeFromPageLoad\":1429.199999999997},{\"eventName\":\"pcsx_job_details_loaded\",\"ts\":1794618267470,\"timeFromPageLoad\":1651.5}],\"apiMetrics\":[{\"name\":\"https://careers.gf.com/api/pcsx/search?domain=globalfoundries.com&query=&location=&start=0&\",\"entryType\":\"resource\",\"startTime\":1083.6000000000058,\"duration\":214.09999999999127,\"navigationId\":981,\"initiatorType\":\"xmlhttprequest\",\"deliveryType\":\"\",\"nextHopProtocol\":\"h3\",\"renderBlockingStatus\":\"non-blocking\",\"contentType\":\"application/json\",\"contentEncoding\":\"gzip\",\"workerStart\":0,\"workerRouterEvaluationStart"
+  }
+ ],
+ "job_links": [
+  [
+   "https://careers.gf.com/careers?start=0&pid=563980770697051&sort_by=hot#main-content",
+   "Skip to main content"
+  ],
+  [
+   "https://gf.com/careers/",
+   ""
+  ],
+  [
+   "https://careers.gf.com/careers",
+   "Jobs"
+  ],
+  [
+   "https://careers.gf.com/careers/dashboard",
+   "Dashboard"
+  ],
+  [
+   "https://careers.gf.com/careers/profile",
+   "Profile"
+  ],
+  [
+   "https://careers.gf.com/careers/join",
+   "Join Talent Network"
+  ],
+  [
+   "https://careers.gf.com/careers/login",
+   "Sign In"
+  ],
+  [
+   "https://careers.gf.com/careers/settings",
+   "Manage"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770697051",
+   "Deputy Director/Director, Business Partnerships\nHsinchu, Hsinchu City, TW\nCompan"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980769786761",
+   "Principal Failure Analysis Technician\nMalta, NY, US\nCompany Priority\nFlexible Lo"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980768998433",
+   "Elektroniker*in für Reparaturwerkstatt\nDresden, SN, DE\nCompany Priority\nPosted 5"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980769402651",
+   "RF Technology Development Integration Engineer – Principal Engineer\nMalta, NY, U"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770506540",
+   "Industrial Wastewater Treatment Technician, Associates Degree (2027 New College "
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770506561",
+   "Facilities Engineering Technician, Bulk & Specialty Gas - Associates Degree (202"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770506566",
+   "Building Maintenance Technician, Associates Degree (2027 New College Graduate)\nE"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770506571",
+   "Position Facilities Engineering Technician, Bulk & Specialty Gas - Associates De"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980771018254",
+   "Associate Engineer, Contamination Free Manufacturing (CFM)\nSG\nPosted a day ago"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980771044977",
+   "Product Manager, Quantum Technology Solutions\nEindhoven, NB, NL\nPosted a day ago"
+  ],
+  [
+   "https://careers.gf.com/careers/apply?pid=563980770697051",
+   "Apply Now"
+  ],
+  [
+   "https://gf.com/about-us/careers/opportunities-asia",
+   "https://gf.com/about-us/careers/opportunities-asia"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770940049",
+   "Business Partnership Manager\nMunich, BY, DE\nPosted 25 days ago"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770939947",
+   "Business Partnerships Manager – Strategic Negotiations\nSanta Clara, CA, US + 2 m"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770949189",
+   "Director Business Development Japan (ISC)\nYokohama, Kanagawa, JP\nPosted 17 days "
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770720799",
+   "Sr Mgr/Deputy Director, Aerospace & Defense End Market\nSanta Clara, CA, US + 56 "
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770036492",
+   "Director - IP Engineering (Technical Program Management )\nHsinchu, Hsinchu City,"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770127487",
+   "Sr Manager/Deputy Director - IP Engineering\nHsinchu, Hsinchu City, TW\nPosted 3 m"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980769848120",
+   "Deputy Director, Digital Manufacturing Transformation\nMalta, NY, US\nPosted 5 mon"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770818083",
+   "Deputy Director, Product Platforms\nRichardson, TX, US + 1 more\nFlexible Location"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770940809",
+   "Director Account Manager\nSanta Clara, CA, US + 2 more\nPosted 17 days ago"
+  ],
+  [
+   "https://careers.gf.com/careers/job/563980770904797",
+   "Sr. Manager / Deputy Director - Facilities / Construction Management\nEssex, VT, "
+  ],
+  [
+   "https://gf.com/careers/candidate-privacy-statement/",
+   ""
+  ],
+  [
+   "https://gf.com/careers/candidate-privacy-statement/",
+   ""
+  ]
+ ]
+}

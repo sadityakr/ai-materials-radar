@@ -1,0 +1,14 @@
+{
+ "url": "https://basf.jobs/",
+ "final": "https://basf.jobs/",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://basf.jobs/",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html"
+  }
+ ],
+ "job_links": []
+}
