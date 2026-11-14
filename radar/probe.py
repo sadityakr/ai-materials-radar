@@ -29,10 +29,10 @@ def probe(url):
             rec = {"url": r.url[:400], "method": r.request.method, "status": r.status,
                    "type": r.headers.get("content-type", "")[:60]}
             if r.request.method == "POST":
-                rec["post"] = (r.request.post_data or "")[:800]
+                rec["post"] = (r.request.post_data or "")[:6000]
             if "json" in rec["type"]:
                 try:
-                    rec["preview"] = r.text()[:1200]
+                    rec["preview"] = r.text()[:6000]
                 except Exception:
                     pass
             calls.append(rec)
