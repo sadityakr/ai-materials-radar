@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 from . import net
 
-MAX_JOBS = 4000
+MAX_JOBS = 8000
 
 
 class ReaderError(Exception):
@@ -170,9 +170,19 @@ def _personio_xml(base, r):
 
 # ---------------------------------------------------------------- SmartRecruiters
 def smartrecruiters(p):
+    if p.get("cities"):
+        out = {}
+        for c in p["cities"]:
+            for j in _smartrecruiters(p, f"&city={c}"):
+                out[j["job_id"]] = j
+        return list(out.values())
+    return _smartrecruiters(p, "")
+
+
+def _smartrecruiters(p, extra):
     jobs, offset = [], 0
     while True:
-        d = _json(net.get(f"https://api.smartrecruiters.com/v1/companies/{p['company']}/postings?limit=100&offset={offset}"))
+        d = _json(net.get(f"https://api.smartrecruiters.com/v1/companies/{p['company']}/postings?limit=100&offset={offset}{extra}"))
         page = d.get("content") or []
         for j in page:
             loc = j.get("location") or {}

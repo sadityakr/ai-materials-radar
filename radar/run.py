@@ -135,7 +135,13 @@ def main():
                 rec["_path"] = j["_path"]
             if j.get("_pid"):
                 rec["_pid"] = j["_pid"]
+        from .readers import MAX_JOBS
+        partial = len(res["jobs"]) >= MAX_JOBS  # hit the safety cap: list may be incomplete, so close nothing
+        if partial:
+            h["status"] = "ok_partial"
         for key, rec in state["jobs"].items():
+            if partial:
+                break
             if rec["employer"] == eid and rec["status"] == "open" and key not in seen:
                 rec["misses"] = rec.get("misses", 0) + 1
                 if rec["misses"] >= limit:

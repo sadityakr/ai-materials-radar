@@ -98,149 +98,6 @@
    }
   }
  ],
- "basf-ludwigshafen-digital-rd": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://basf.jobs/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Ludwigshafen"
-   }
-  }
- ],
- "fraunhofer-enas-chemnitz": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Chemnitz"
-   }
-  }
- ],
- "fraunhofer-fep-dresden": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Dresden"
-   }
-  }
- ],
- "fraunhofer-ipms-dresden": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Dresden"
-   }
-  }
- ],
- "fraunhofer-ffb-muenster": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "M(ue|%C3%BC|\u00fc)nster"
-   }
-  }
- ],
- "fraunhofer-iisb-erlangen": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Erlangen"
-   }
-  }
- ],
- "fraunhofer-imws-halle": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Halle"
-   }
-  }
- ],
- "fraunhofer-isc-wuerzburg": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "W(ue|%C3%BC|\u00fc)rzburg"
-   }
-  }
- ],
- "fraunhofer-ise-freiburg": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Freiburg"
-   }
-  }
- ],
- "fraunhofer-iwm-freiburg": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Freiburg"
-   }
-  }
- ],
- "fraunhofer-ist-braunschweig": [
-  {
-   "type": "sitemap",
-   "params": {
-    "url": "https://jobs.fraunhofer.de/sitemap.xml",
-    "pattern": "/job/",
-    "include": "Braunschweig"
-   }
-  }
- ],
- "kla-germany-weilburg": [
-  {
-   "type": "workday",
-   "params": {
-    "tenant": "kla",
-    "wd": "wd1",
-    "site": "Search"
-   },
-   "location": "Germany|Weilburg|Dresden|Jena|DEU"
-  }
- ],
- "kla-icos-leuven": [
-  {
-   "type": "workday",
-   "params": {
-    "tenant": "kla",
-    "wd": "wd1",
-    "site": "Search"
-   },
-   "location": "Belgium|Leuven|BEL"
-  }
- ],
- "kla-milpitas-usa": [
-  {
-   "type": "workday",
-   "params": {
-    "tenant": "kla",
-    "wd": "wd1",
-    "site": "Search"
-   },
-   "location": "United States|USA|, CA|Milpitas|Ann Arbor"
-  }
- ],
  "zeiss-smt-oberkochen": [
   {
    "type": "zeiss",
@@ -253,18 +110,23 @@
   {
    "type": "smartrecruiters",
    "params": {
-    "company": "BoschGroup"
-   },
-   "location": "Reutlingen|Dresden"
+    "company": "BoschGroup",
+    "cities": [
+     "Reutlingen",
+     "Dresden"
+    ]
+   }
   }
  ],
  "bosch-research-renningen": [
   {
    "type": "smartrecruiters",
    "params": {
-    "company": "BoschGroup"
-   },
-   "location": "Renningen"
+    "company": "BoschGroup",
+    "cities": [
+     "Renningen"
+    ]
+   }
   }
  ]
 }
