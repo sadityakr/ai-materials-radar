@@ -39,6 +39,7 @@ MATPROC_TERMS = re.compile(
 
 
 def title_pass(title):
+    title = title if isinstance(title, str) else str(title or "")
     return bool(TITLE_INCLUDE.search(title or "")) and not TITLE_EXCLUDE.search(title or "")
 
 
@@ -46,5 +47,6 @@ def desc_pass(title, desc):
     """True if both an AI/data signal and a materials/process signal appear. If no description, defer (True)."""
     if not desc:
         return True
+    title, desc = str(title or ""), str(desc)
     text = f"{title} {desc}"
     return bool(AI_TERMS.search(text)) and bool(MATPROC_TERMS.search(text))

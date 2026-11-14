@@ -59,6 +59,25 @@ def read_one(src):
         return {"ok": False, "error": f"{type(e).__name__}: {str(e)[:300]}", "trace": traceback.format_exc()[-400:]}
 
 
+def _s(v):
+    if v is None:
+        return ""
+    if isinstance(v, (list, tuple)):
+        return "; ".join(_s(x) for x in v if x)
+    if isinstance(v, dict):
+        return _s(v.get("name") or v.get("title") or v.get("label") or "")
+    return str(v)
+
+
+def _norm_job(j):
+    """Readers see many API shapes; make every text field a plain string."""
+    out = dict(j)
+    for k in ("job_id", "title", "location", "url", "posted", "desc"):
+        if k in out:
+            out[k] = _s(out[k]).strip()
+    return out
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", default="")
@@ -95,7 +114,7 @@ def main():
             h.update(status="failed", error=res["error"], fails_in_row=ss["fails"], last_ok=ss["last_ok"])
             health[eid] = h
             continue
-        jobs = res["jobs"]
+        jobs = [_norm_job(j) for j in res["jobs"]]
         if src.get("location"):
             import re as _re
             rx = _re.compile(src["location"], _re.I)
