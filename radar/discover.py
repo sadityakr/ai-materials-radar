@@ -163,7 +163,7 @@ def discover_one(emp, render=False):
                 chosen["location"] = lf
             break
     if not chosen and render:
-        for u in [x for x in [emp.get("job_list_url"), emp.get("careers_url")] if x][:2]:
+        for u in [x for x in [emp.get("job_list_url"), emp.get("careers_url"), emp.get("website")] if x and not AGGREGATORS.search(x)][:2]:
             params = {"url": u}
             res = try_reader("generic_render", params)
             tried.append({"type": "generic_render", "params": params, **res})
@@ -176,7 +176,7 @@ def discover_one(emp, render=False):
             chosen = {"type": weak["type"], "params": weak["params"]}
     if not chosen:
         # The job page loads but lists nothing right now: track it anyway (0 open jobs is a valid state).
-        u = emp.get("job_list_url") or emp.get("careers_url")
+        u = next((x for x in [emp.get("job_list_url"), emp.get("careers_url"), emp.get("website")] if x and not AGGREGATORS.search(x)), "")
         ok = next((t for t in tried if t["ok"] and t["type"].startswith("generic") and t["params"].get("url") and
                    (urlparse(t["params"]["url"]).netloc == urlparse(u or "").netloc)), None)
         if ok:
