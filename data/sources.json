@@ -898,12 +898,14 @@
  },
  "asml-veldhoven": {
   "chosen": {
-   "type": "generic_render",
+   "type": "sitemap",
    "params": {
-    "url": "https://www.asml.com/en/careers"
+    "url": "https://www.asml.com/sitemap.xml",
+    "pattern": "/careers/find-your-job/.+-j\\d{6,}",
+    "id": "-(j\\d{6,})"
    }
   },
-  "count": 2,
+  "count": 814,
   "pages": [
    {
     "url": "https://www.asml.com/en/careers",
@@ -932,97 +934,38 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.asml.com/en/careers",
-    "final": "https://www.asml.com/en/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
-    "type": "generic",
+    "type": "sitemap",
     "params": {
-     "url": "https://www.asml.com/en/careers"
+     "url": "https://www.asml.com/sitemap.xml",
+     "pattern": "/careers/find-your-job/.+-j\\d{6,}",
+     "id": "-(j\\d{6,})"
     },
     "ok": true,
-    "count": 2,
+    "count": 814,
     "sample": [
-     "Early careers",
-     "Show me life at ASML"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en"
-    },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "Early careers"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en/careers/find-your-job"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Create job alert"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en/careers/find-your-job?icmp=careers-home-header-link"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Create job alert"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en/careers"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Show me life at ASML"
-    ]
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.asml.com/en/careers"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Show me life at ASML"
+     "customer support engineer scanner",
+     "physics optics photonics internship investigation of optical systems",
+     "customer support engineer scanner",
+     "customer support engineer",
+     "manufacturing assembly engineer linkou"
     ]
    }
   ]
  },
  "asml-wilton-usa": {
   "chosen": {
-   "type": "generic_render",
+   "type": "sitemap",
    "params": {
-    "url": "https://www.asml.com/en/careers"
+    "url": "https://www.asml.com/sitemap.xml",
+    "pattern": "/careers/find-your-job/.+-j\\d{6,}",
+    "id": "-(j\\d{6,})"
    }
   },
-  "count": 2,
+  "count": 814,
   "pages": [
    {
     "url": "https://www.asml.com/en/careers",
@@ -1051,85 +994,24 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.asml.com/en/careers",
-    "final": "https://www.asml.com/en/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
-    "type": "generic",
+    "type": "sitemap",
     "params": {
-     "url": "https://www.asml.com/en/careers"
+     "url": "https://www.asml.com/sitemap.xml",
+     "pattern": "/careers/find-your-job/.+-j\\d{6,}",
+     "id": "-(j\\d{6,})"
     },
     "ok": true,
-    "count": 2,
+    "count": 814,
     "sample": [
-     "Early careers",
-     "Show me life at ASML"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en"
-    },
-    "ok": true,
-    "count": 1,
-    "sample": [
-     "Early careers"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en/careers/find-your-job"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Create job alert"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en/careers/find-your-job?icmp=careers-home-header-link"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Create job alert"
-    ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.asml.com/en/careers"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Show me life at ASML"
-    ]
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.asml.com/en/careers"
-    },
-    "ok": true,
-    "count": 2,
-    "sample": [
-     "Early careers",
-     "Show me life at ASML"
+     "customer support engineer scanner",
+     "physics optics photonics internship investigation of optical systems",
+     "customer support engineer scanner",
+     "customer support engineer",
+     "manufacturing assembly engineer linkou"
     ]
    }
   ]
@@ -1424,16 +1306,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://basf.jobs/",
-    "final": "https://basf.jobs/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://basf.jobs/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Ludwigshafen"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://basf.jobs/sitemap.xml"
+   },
    {
     "type": "sf_csb",
     "params": {
@@ -1455,24 +1340,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.basf.com/us/en"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://basf.jobs/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://basf.jobs/"
     },
     "ok": true,
     "count": 0,
@@ -1755,7 +1622,8 @@
    "type": "smartrecruiters",
    "params": {
     "company": "BoschGroup"
-   }
+   },
+   "location": "Renningen"
   },
   "count": 4000,
   "pages": [
@@ -1793,13 +1661,6 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.bosch.com/careers/",
-    "final": "https://www.bosch.com/careers/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
@@ -1822,12 +1683,13 @@
  },
  "bosch-semiconductor-reutlingen-dresden": {
   "chosen": {
-   "type": "generic",
+   "type": "smartrecruiters",
    "params": {
-    "url": "https://www.bosch.de/karriere/"
-   }
+    "company": "BoschGroup"
+   },
+   "location": "Reutlingen|Dresden"
   },
-  "count": 8,
+  "count": 4000,
   "pages": [
    {
     "url": "https://www.bosch.de/karriere/",
@@ -1849,29 +1711,22 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.bosch.de/karriere/",
-    "final": "https://www.bosch.de/karriere/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
-    "type": "generic",
+    "type": "smartrecruiters",
     "params": {
-     "url": "https://www.bosch.de/karriere/"
+     "company": "BoschGroup"
     },
     "ok": true,
-    "count": 8,
+    "count": 4000,
     "sample": [
-     "Bosch auf einen Blick",
-     "Unsere Unternehmensbereiche",
-     "SchÃ¼lerinnen und SchÃ¼ler",
-     "Studentinnen und Studenten",
-     "Absolventinnen und Absolventen"
+     "Senior Research Scientist – Molecular Diagnostics",
+     "Research Scientist – Molecular Diagnostics",
+     "Quality Auditor (2nd Shift)",
+     "Lider de Almacén",
+     "Ing. de Seg. Higiene y Medio Amb "
     ]
    }
   ]
@@ -3615,16 +3470,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.enas.fraunhofer.de/en/jobs.html",
-    "final": "https://www.enas.fraunhofer.de/en/jobs.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Chemnitz"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "sf_csb",
     "params": {
@@ -3646,24 +3504,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.enas.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.enas.fraunhofer.de/en/jobs.html"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.enas.fraunhofer.de/en/jobs.html"
     },
     "ok": true,
     "count": 0,
@@ -3694,16 +3534,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://jobs.fraunhofer.de",
-    "final": "https://jobs.fraunhofer.de/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Dresden"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "generic",
     "params": {
@@ -3717,24 +3560,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.fep.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://jobs.fraunhofer.de"
     },
     "ok": true,
     "count": 0,
@@ -3799,16 +3624,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.ffb.fraunhofer.de/en/jobs.html",
-    "final": "https://www.ffb.fraunhofer.de/en/jobs.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "M(ue|%C3%BC|ü)nster"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "sf_csb",
     "params": {
@@ -3855,16 +3683,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://jobs.fraunhofer.de",
-    "final": "https://jobs.fraunhofer.de/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Erlangen"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "generic",
     "params": {
@@ -3878,24 +3709,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.iisb.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://jobs.fraunhofer.de"
     },
     "ok": true,
     "count": 0,
@@ -3926,16 +3739,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://jobs.fraunhofer.de",
-    "final": "https://jobs.fraunhofer.de/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Halle"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "generic",
     "params": {
@@ -3949,24 +3765,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.imws.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://jobs.fraunhofer.de"
     },
     "ok": true,
     "count": 0,
@@ -3997,16 +3795,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://jobs.fraunhofer.de",
-    "final": "https://jobs.fraunhofer.de/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Dresden"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "generic",
     "params": {
@@ -4020,24 +3821,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.ipms.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://jobs.fraunhofer.de"
     },
     "ok": true,
     "count": 0,
@@ -4067,23 +3850,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.isc.fraunhofer.de/en/career.html",
-    "final": "https://www.isc.fraunhofer.de/en/career.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
-   },
-   {
-    "url": "https://www.isc.fraunhofer.de/en/job-and-career.html",
-    "final": "https://www.isc.fraunhofer.de/en/job-and-career.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "W(ue|%C3%BC|ü)rzburg"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "generic",
     "params": {
@@ -4124,37 +3903,23 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.ise.fraunhofer.de/en/jobs-and-careers.html",
-    "final": "https://www.ise.fraunhofer.de/en/jobs-and-careers.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Freiburg"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
+   {
     "type": "generic",
     "params": {
      "url": "https://www.ise.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.ise.fraunhofer.de/en/jobs-and-careers.html"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 https://www.ise.fraunhofer.de/en/jobs-and-careers.html"
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.ise.fraunhofer.de/en/jobs-and-careers.html"
     },
     "ok": true,
     "count": 0,
@@ -4185,16 +3950,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://jobs.fraunhofer.de",
-    "final": "https://jobs.fraunhofer.de/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Braunschweig"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
    {
     "type": "generic",
     "params": {
@@ -4208,24 +3976,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.ist.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://jobs.fraunhofer.de"
     },
     "ok": true,
     "count": 0,
@@ -4256,37 +4006,23 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.iwm.fraunhofer.de/en/career.html",
-    "final": "https://www.iwm.fraunhofer.de/en/career.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
+    "type": "sitemap",
+    "params": {
+     "url": "https://jobs.fraunhofer.de/sitemap.xml",
+     "pattern": "/job/",
+     "include": "Freiburg"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 404 https://jobs.fraunhofer.de/sitemap.xml"
+   },
+   {
     "type": "generic",
     "params": {
      "url": "https://www.iwm.fraunhofer.de/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.iwm.fraunhofer.de/en/career.html"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 https://www.iwm.fraunhofer.de/en/career.html"
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.iwm.fraunhofer.de/en/career.html"
     },
     "ok": true,
     "count": 0,
@@ -4359,13 +4095,14 @@
  },
  "globalfoundries-dresden": {
   "chosen": {
-   "type": "generic",
+   "type": "eightfold",
    "params": {
-    "url": "https://gf.com/careers/"
+    "base": "https://careers.gf.com",
+    "domain": "globalfoundries.com"
    },
-   "zero_at_discovery": true
+   "location": "Dresden|Germany"
   },
-  "count": 0,
+  "count": 682,
   "pages": [
    {
     "url": "https://gf.com/careers/",
@@ -4394,13 +4131,6 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://gf.com/careers/",
-    "final": "https://gf.com/careers/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
@@ -4408,64 +4138,17 @@
     "type": "eightfold",
     "params": {
      "base": "https://careers.gf.com",
-     "domain": "gf.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 (browser) https://careers.gf.com/api/pcsx/search?domain=gf.com&query=&location=&start=0&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://gf.com/careers/"
+     "domain": "globalfoundries.com"
     },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://gf.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.gf.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.gf.com/careers?start=0&pid=563980769260300&sort_by=hot"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://gf.com/careers/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://gf.com/careers/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "count": 682,
+    "sample": [
+     "RF Technology Development Integration Engineer – Principal Engineer",
+     "Industrial Wastewater Treatment Technician, Associates Degree (2027 New College Graduate)",
+     "Facilities Engineering Technician, Bulk & Specialty Gas - Associates Degree (2027 New College Graduate)",
+     "Building Maintenance Technician, Associates Degree (2027 New College Graduate)",
+     "Position Facilities Engineering Technician, Bulk & Specialty Gas - Associates Degree (2027 New College Graduate)"
+    ]
    }
   ]
  },
@@ -5748,13 +5431,14 @@
  },
  "infineon-dresden": {
   "chosen": {
-   "type": "generic",
+   "type": "eightfold",
    "params": {
-    "url": "https://www.infineon.com/careers"
+    "base": "https://jobs.infineon.com",
+    "domain": "infineon.com"
    },
-   "zero_at_discovery": true
+   "location": "Dresden"
   },
-  "count": 0,
+  "count": 1347,
   "pages": [
    {
     "url": "https://www.infineon.com/cms/en/careers/",
@@ -5783,90 +5467,37 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.infineon.com/cms/en/careers/",
-    "final": "https://www.infineon.com/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
     "type": "eightfold",
     "params": {
-     "sub": "infineon",
-     "domain": "infineon.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://infineon.eightfold.ai/api/apply/v2/jobs?domain=infineon.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "eightfold",
-    "params": {
      "base": "https://jobs.infineon.com",
      "domain": "infineon.com"
     },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://jobs.infineon.com/api/apply/v2/jobs?domain=infineon.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/careers"
-    },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.infineon.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.infineon.com/cms/en/careers/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "count": 1347,
+    "sample": [
+     "Director Application Management",
+     "Graduate - Senior Engineer Digital IC Design ",
+     "Graduate- Senior Engineer Digital Design",
+     "Graduate- Engineer Digital Design",
+     "Gruppenpraktikum Büromanagement (f/m/div) - Februar 2027"
+    ]
    }
   ]
  },
  "infineon-regensburg-neubiberg": {
   "chosen": {
-   "type": "generic",
+   "type": "eightfold",
    "params": {
-    "url": "https://www.infineon.com/careers"
+    "base": "https://jobs.infineon.com",
+    "domain": "infineon.com"
    },
-   "zero_at_discovery": true
+   "location": "Regensburg|Neubiberg|Munich|München|Warstein|Germany|DE$"
   },
-  "count": 0,
+  "count": 1347,
   "pages": [
    {
     "url": "https://www.infineon.com/cms/en/careers/",
@@ -5895,89 +5526,37 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.infineon.com/cms/en/careers/",
-    "final": "https://www.infineon.com/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
     "type": "eightfold",
     "params": {
-     "sub": "infineon",
-     "domain": "infineon.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://infineon.eightfold.ai/api/apply/v2/jobs?domain=infineon.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "eightfold",
-    "params": {
      "base": "https://jobs.infineon.com",
      "domain": "infineon.com"
     },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://jobs.infineon.com/api/apply/v2/jobs?domain=infineon.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/careers"
-    },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.infineon.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.infineon.com/cms/en/careers/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "count": 1347,
+    "sample": [
+     "Director Application Management",
+     "Graduate - Senior Engineer Digital IC Design ",
+     "Graduate- Senior Engineer Digital Design",
+     "Graduate- Engineer Digital Design",
+     "Gruppenpraktikum Büromanagement (f/m/div) - Februar 2027"
+    ]
    }
   ]
  },
  "infineon-technologies-austria-villach": {
   "chosen": {
-   "type": "generic_render",
+   "type": "eightfold",
    "params": {
-    "url": "https://jobs.infineon.com"
-   }
+    "base": "https://jobs.infineon.com",
+    "domain": "infineon.com"
+   },
+   "location": "Austria|Villach|Graz|Linz|Klagenfurt|, AT"
   },
-  "count": 20,
+  "count": 1347,
   "pages": [
    {
     "url": "https://jobs.infineon.com",
@@ -6013,94 +5592,23 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://jobs.infineon.com",
-    "final": "https://jobs.infineon.com/careers?start=0&pid=563808971931644&sort_by=timestamp",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
     "type": "eightfold",
     "params": {
-     "sub": "infineon",
-     "domain": "infineon.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://infineon.eightfold.ai/api/apply/v2/jobs?domain=infineon.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "eightfold",
-    "params": {
      "base": "https://jobs.infineon.com",
      "domain": "infineon.com"
     },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://jobs.infineon.com/api/apply/v2/jobs?domain=infineon.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "eightfold",
-    "params": {
-     "sub": "vs-errors",
-     "domain": "infineon.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 (browser) https://vs-errors.eightfold.ai/api/pcsx/search?domain=infineon.com&query=&location=&start=0&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.infineon.com/careers"
-    },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.infineon.com/regional/austria"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.infineon.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.infineon.com/careers?start=0&pid=563808971931644&sort_by=timestamp"
-    },
-    "ok": true,
-    "count": 1,
+    "count": 1347,
     "sample": [
-     "Director Application Management"
-    ]
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://jobs.infineon.com"
-    },
-    "ok": true,
-    "count": 20,
-    "sample": [
-     "Director Application Management San Jose, CA + 1 more HRC1779904 Hybrid Flexible Location",
-     "Graduate - Senior Engineer Digital IC Design San Jose + 1 more MVLL2501450 Hybrid Flexible Location",
-     "Graduate- Senior Engineer Digital Design San Jose, CA HRC1884445",
-     "Graduate- Engineer Digital Design San Jose, CA HRC1884440",
-     "Gruppenpraktikum Büromanagement (f/m/div) - Februar 2027 Munich HRC1887926"
+     "Director Application Management",
+     "Graduate - Senior Engineer Digital IC Design ",
+     "Graduate- Senior Engineer Digital Design",
+     "Graduate- Engineer Digital Design",
+     "Gruppenpraktikum Büromanagement (f/m/div) - Februar 2027"
     ]
    }
   ]
@@ -6647,16 +6155,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.kla.com/careers",
-    "final": "https://www.kla.com/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "workday",
+    "params": {
+     "tenant": "kla",
+     "wd": "wd1",
+     "site": "Search"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 521 (browser) https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"
+   },
    {
     "type": "generic",
     "params": {
@@ -6670,24 +6181,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.kla.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.kla.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.kla.com/careers"
     },
     "ok": true,
     "count": 0,
@@ -6718,16 +6211,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.kla.com/careers",
-    "final": "https://www.kla.com/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "workday",
+    "params": {
+     "tenant": "kla",
+     "wd": "wd1",
+     "site": "Search"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 521 (browser) https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"
+   },
    {
     "type": "generic",
     "params": {
@@ -6741,24 +6237,6 @@
     "type": "generic",
     "params": {
      "url": "https://www.kla.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.kla.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.kla.com/careers"
     },
     "ok": true,
     "count": 0,
@@ -6789,16 +6267,19 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.kla.com/careers",
-    "final": "https://www.kla.com/careers",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
+   {
+    "type": "workday",
+    "params": {
+     "tenant": "kla",
+     "wd": "wd1",
+     "site": "Search"
+    },
+    "ok": false,
+    "error": "ReaderError: HTTP 521 (browser) https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"
+   },
    {
     "type": "generic",
     "params": {
@@ -6816,35 +6297,19 @@
     "ok": true,
     "count": 0,
     "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.kla.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.kla.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
    }
   ]
  },
  "lam-research-fremont-usa": {
   "chosen": {
-   "type": "generic",
+   "type": "eightfold",
    "params": {
-    "url": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp"
-   }
+    "base": "https://careers.lamresearch.com",
+    "domain": "lamresearch.com"
+   },
+   "location": "United States|, US|CA$|OR$|Fremont|Tualatin"
   },
-  "count": 1,
+  "count": 1404,
   "pages": [
    {
     "url": "https://careers.lamresearch.com",
@@ -6866,20 +6331,6 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://careers.lamresearch.com",
-    "final": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp",
-    "status": 200,
-    "error": null,
-    "rendered": true
-   },
-   {
-    "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=1eacrudtd3da",
-    "final": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=1eacrudtd3da",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
@@ -6889,83 +6340,28 @@
      "base": "https://careers.lamresearch.com",
      "domain": "lamresearch.com"
     },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://careers.lamresearch.com/api/apply/v2/jobs?domain=lamresearch.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "eightfold",
-    "params": {
-     "sub": "vs-errors",
-     "domain": "lamresearch.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 (browser) https://vs-errors.eightfold.ai/api/pcsx/search?domain=lamresearch.com&query=&location=&start=0&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.lamresearch.com/careers"
-    },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.lamresearch.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.lamresearch.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp"
-    },
-    "ok": true,
-    "count": 1,
+    "count": 1404,
     "sample": [
-     "Field Service Engineer 2"
+     "Field Service Engineer 2",
+     "Process Engineer 5",
+     "Global Product Support Engineer 2",
+     "Product Engineer 3",
+     "Process Engineer 3"
     ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=1eacrudtd3da"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://careers.lamresearch.com"
-    },
-    "ok": false,
-    "error": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://careers.lamresearch.com/\", waiting until \"networkidle\"\n"
    }
   ]
  },
  "lam-research-villach": {
   "chosen": {
-   "type": "generic",
+   "type": "eightfold",
    "params": {
-    "url": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp"
-   }
+    "base": "https://careers.lamresearch.com",
+    "domain": "lamresearch.com"
+   },
+   "location": "Austria|Villach|Europe|Germany|Belgium|Netherlands|Ireland|France"
   },
-  "count": 1,
+  "count": 1404,
   "pages": [
    {
     "url": "https://careers.lamresearch.com",
@@ -6987,20 +6383,6 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://careers.lamresearch.com",
-    "final": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp",
-    "status": 200,
-    "error": null,
-    "rendered": true
-   },
-   {
-    "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=t98xt5jxpe9y",
-    "final": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=t98xt5jxpe9y",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
@@ -7010,72 +6392,15 @@
      "base": "https://careers.lamresearch.com",
      "domain": "lamresearch.com"
     },
-    "ok": false,
-    "error": "ReaderError: HTTP 403 (browser) https://careers.lamresearch.com/api/apply/v2/jobs?domain=lamresearch.com&start=0&num=10&sort_by=timestamp"
-   },
-   {
-    "type": "eightfold",
-    "params": {
-     "sub": "vs-errors",
-     "domain": "lamresearch.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 (browser) https://vs-errors.eightfold.ai/api/pcsx/search?domain=lamresearch.com&query=&location=&start=0&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.lamresearch.com/careers"
-    },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.lamresearch.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.lamresearch.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.lamresearch.com/careers?start=0&pid=1099556623374&sort_by=timestamp"
-    },
-    "ok": true,
-    "count": 1,
+    "count": 1404,
     "sample": [
-     "Field Service Engineer 2"
+     "Field Service Engineer 2",
+     "Process Engineer 5",
+     "Global Product Support Engineer 2",
+     "Product Engineer 3",
+     "Process Engineer 3"
     ]
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LfwboYUAAAAAJb6QcVuRXi7R9pTqgGKF6TnNzia&co=aHR0cHM6Ly9jYXJlZXJzLmxhbXJlc2VhcmNoLmNvbTo0NDM.&hl=en&v=0lEGiwO4Qwx5R9ArxUy0mBpf&size=invisible&anchor-ms=20000&execute-ms=30000&ovv=CADq00gF&cb=t98xt5jxpe9y"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://careers.lamresearch.com"
-    },
-    "ok": false,
-    "error": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://careers.lamresearch.com/\", waiting until \"networkidle\"\n"
    }
   ]
  },
@@ -8691,13 +8016,13 @@
  },
  "nvidia-alchemi-us": {
   "chosen": {
-   "type": "generic",
+   "type": "eightfold",
    "params": {
-    "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
-   },
-   "zero_at_discovery": true
+    "base": "https://jobs.nvidia.com",
+    "domain": "nvidia.com"
+   }
   },
-  "count": 0,
+  "count": 2691,
   "pages": [
    {
     "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
@@ -8719,88 +8044,24 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-    "final": "https://www.nvidia.com/en-us/about-nvidia/careers/",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
-    "type": "workday",
-    "params": {
-     "tenant": "nvidia",
-     "wd": "wd5",
-     "site": "NVIDIAExternalCareerSite"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 521 (browser) https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-   },
-   {
-    "type": "eightfold",
-    "params": {
-     "sub": "vs-errors",
-     "domain": "developer.nvidia.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 (browser) https://vs-errors.eightfold.ai/api/pcsx/search?domain=developer.nvidia.com&query=&location=&start=0&sort_by=timestamp"
-   },
-   {
     "type": "eightfold",
     "params": {
      "base": "https://jobs.nvidia.com",
-     "domain": "developer.nvidia.com"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 (browser) https://jobs.nvidia.com/api/pcsx/search?domain=developer.nvidia.com&query=&location=&start=0&sort_by=timestamp"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
+     "domain": "nvidia.com"
     },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://developer.nvidia.com/cuda/cuda-x-libraries/alchemi"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://jobs.nvidia.com/careers"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.nvidia.com/en-us/about-nvidia/careers/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "count": 2691,
+    "sample": [
+     "Global Commodity Manager, Passive Electrical Commodity",
+     "Software Engineering Intern, NCCL - 2027",
+     "Software Engineering Intern, Neural Reconstruction and Rendering - 2027",
+     "Senior AI Engineer – Palantir Foundry and AIP Forward Deployed Engineer",
+     "Senior Test Platform Technical Leader, CPO"
+    ]
    }
   ]
  },
@@ -11860,13 +11121,13 @@
  },
  "texas-instruments-usa": {
   "chosen": {
-   "type": "generic",
+   "type": "oracle",
    "params": {
-    "url": "https://careers.ti.com/en/sites/CX"
-   },
-   "zero_at_discovery": true
+    "host": "edbz.fa.us2.oraclecloud.com",
+    "site": "CX"
+   }
   },
-  "count": 0,
+  "count": 916,
   "pages": [
    {
     "url": "https://careers.ti.com",
@@ -11881,76 +11142,24 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://careers.ti.com",
-    "final": "https://careers.ti.com/en/sites/CX",
-    "status": 200,
-    "error": null,
-    "rendered": true
-   },
-   {
-    "url": "https://careers.ti.com/en/sites/CX/jobs",
-    "final": "https://careers.ti.com/en/sites/CX/jobs",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
     "type": "oracle",
     "params": {
-     "host": "careers.ti.com",
+     "host": "edbz.fa.us2.oraclecloud.com",
      "site": "CX"
     },
-    "ok": false,
-    "error": "ReaderError: not JSON from https://careers.ti.com/errors/404"
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.ti.com/en/sites/CX"
-    },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.ti.com/"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.ti.com/en/sites/CX"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://careers.ti.com/en/sites/CX/jobs"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://careers.ti.com"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "count": 916,
+    "sample": [
+     "Shift Manufacturing Supervisor",
+     "HR Business Partner",
+     "Head of Data Engineering",
+     "Layout Engineering Intern",
+     "Validation Engineering Intern"
+    ]
    }
   ]
  },
@@ -12900,13 +12109,12 @@
  },
  "zeiss-smt-oberkochen": {
   "chosen": {
-   "type": "generic",
+   "type": "zeiss",
    "params": {
-    "url": "https://www.zeiss.com/semiconductor-manufacturing-technology/home.html"
-   },
-   "zero_at_discovery": true
+    "company": "SMT|Semiconductor"
+   }
   },
-  "count": 0,
+  "count": 197,
   "pages": [
    {
     "url": "https://www.zeiss.com/corporate/en/careers.html",
@@ -12921,41 +12129,23 @@
     "status": 200,
     "error": null,
     "rendered": null
-   },
-   {
-    "url": "https://www.zeiss.com/corporate/en/careers.html",
-    "final": "https://www.zeiss.com/corporate/en/careers.html",
-    "status": 200,
-    "error": null,
-    "rendered": true
    }
   ],
   "tried": [
    {
-    "type": "generic",
+    "type": "zeiss",
     "params": {
-     "url": "https://www.zeiss.com/semiconductor-manufacturing-technology/home.html"
+     "company": "SMT|Semiconductor"
     },
     "ok": true,
-    "count": 0,
-    "sample": []
-   },
-   {
-    "type": "generic",
-    "params": {
-     "url": "https://www.zeiss.com/corporate/en/careers.html"
-    },
-    "ok": false,
-    "error": "ReaderError: HTTP 404 https://www.zeiss.com/corporate/en/careers.html"
-   },
-   {
-    "type": "generic_render",
-    "params": {
-     "url": "https://www.zeiss.com/corporate/en/careers.html"
-    },
-    "ok": true,
-    "count": 0,
-    "sample": []
+    "count": 197,
+    "sample": [
+     "(Senior) Data Engineer (f/m/d)",
+     "(Senior) Manager für Strategische Projekte (m/w/x)",
+     "AI Business Expert Operations (m/w/x)",
+     "AI Developer (m/w/x)",
+     "Application Development Engineer (f/m/x)"
+    ]
    }
   ]
  },
