@@ -551,6 +551,46 @@ def generic_detail(p, job):
     return _clean(soup.get_text(" "), 3000)
 
 
+# ---------------------------------------------------------------- ZEISS (GraphQL behind zeiss.com/career)
+ZEISS_API = "https://api.dci.gateway.zeiss.com/udg/xsbu-career-jobs"
+ZEISS_Q = ("query xSBUSearchJobs($page: Int, $pageSize: Int) { xSBUSearchJobs(page: $page, pageSize: $pageSize) "
+           "{ totalJobs totalPages page jobs { title primaryLocation locationCountry jobRequisitionID externalApplyURL "
+           "jobRequisitionCompany jobDescription jobRequirements startDate } } }")
+
+
+def zeiss(p):
+    def run(post):
+        jobs, page = [], 1
+        while True:
+            d = post({"operationName": "xSBUSearchJobs", "variables": {"page": page, "pageSize": 50}, "query": ZEISS_Q})
+            if d.get("errors"):
+                raise ReaderError("ZEISS GraphQL: " + str(d["errors"])[:200])
+            r = (d.get("data") or {}).get("xSBUSearchJobs") or {}
+            for j in r.get("jobs") or []:
+                comp = j.get("jobRequisitionCompany") or ""
+                if p.get("company") and not re.search(p["company"], comp, re.I):
+                    continue
+                jobs.append({"job_id": str(j.get("jobRequisitionID")), "title": j.get("title", ""),
+                             "location": ", ".join(x for x in [j.get("primaryLocation"), j.get("locationCountry")] if x),
+                             "url": j.get("externalApplyURL") or "", "posted": j.get("startDate") or "",
+                             "desc": _clean((j.get("jobDescription") or "") + " " + (j.get("jobRequirements") or ""), 3000)})
+            if page >= (r.get("totalPages") or 0) or page >= 80:
+                break
+            page += 1
+        return jobs
+    hdr = {"Origin": "https://www.zeiss.com", "Referer": "https://www.zeiss.com/", "Content-Type": "application/json"}
+    try:
+        return run(lambda b: _json(net.post(ZEISS_API, json=b, headers=hdr)))
+    except Exception as e:
+        if not _blocked(e):
+            raise
+    bf = BrowserFetcher("https://www.zeiss.com/career/en/job-search.html")
+    try:
+        return run(lambda b: bf.json(ZEISS_API, "POST", b))
+    finally:
+        bf.close()
+
+
 # ---------------------------------------------------------------- Sitemap
 def sitemap(p):
     """Read job URLs from the site's XML sitemap(s). params: url, pattern (regex on job URLs),
@@ -624,6 +664,7 @@ READERS = {
     "eightfold": (eightfold, eightfold_detail), "sf_csb": (sf_csb, generic_detail), "phenom": (phenom, generic_detail),
     "icims": (icims, generic_detail), "join": (join, generic_detail),
     "sitemap": (sitemap, sitemap_detail),
+    "zeiss": (zeiss, None),
     "generic": (generic, generic_detail), "generic_render": (generic_render, generic_detail),
 }
 # Systems detected but read through the generic page reader.

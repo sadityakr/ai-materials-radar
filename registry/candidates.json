@@ -240,5 +240,31 @@
    },
    "location": "United States|USA|, CA|Milpitas|Ann Arbor"
   }
+ ],
+ "zeiss-smt-oberkochen": [
+  {
+   "type": "zeiss",
+   "params": {
+    "company": "SMT|Semiconductor"
+   }
+  }
+ ],
+ "bosch-semiconductor-reutlingen-dresden": [
+  {
+   "type": "smartrecruiters",
+   "params": {
+    "company": "BoschGroup"
+   },
+   "location": "Reutlingen|Dresden"
+  }
+ ],
+ "bosch-research-renningen": [
+  {
+   "type": "smartrecruiters",
+   "params": {
+    "company": "BoschGroup"
+   },
+   "location": "Renningen"
+  }
  ]
 }
