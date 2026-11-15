@@ -7810,39 +7810,55 @@
   ]
  },
  "nlr-nrel-us": {
-  "chosen": null,
-  "count": 0,
+  "chosen": {
+   "type": "workday",
+   "params": {
+    "tenant": "nrel",
+    "wd": "wd5",
+    "site": "NLR"
+   }
+  },
+  "count": 65,
   "pages": [
    {
-    "url": "https://www.nrel.gov/careers",
-    "final": "https://www.nrel.gov/careers",
-    "status": null,
-    "error": "HTTPSConnectionPool(host='www.nrel.gov', port=443): Max retries exceeded with url: /careers (Caused by NameResolutionError(\"HTTPSConnection(host='www.nrel.gov', port=443): Failed to resolve 'www.nrel.",
+    "url": "https://www.nlr.gov/careers/find-job",
+    "final": "https://www.nlr.gov/careers/find-job",
+    "status": 200,
+    "error": null,
     "rendered": null
    },
    {
-    "url": "https://www.nrel.gov",
-    "final": "https://www.nrel.gov",
-    "status": null,
-    "error": "HTTPSConnectionPool(host='www.nrel.gov', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.nrel.gov', port=443): Failed to resolve 'www.nrel.gov' ([",
+    "url": "https://www.nlr.gov",
+    "final": "https://www.nlr.gov/",
+    "status": 200,
+    "error": null,
     "rendered": null
    },
    {
-    "url": "https://www.nrel.gov/careers",
-    "final": "https://www.nrel.gov/careers",
-    "status": null,
-    "error": "render: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nrel.gov/careers\nCall log:\n  - navigating to \"https://www.nrel.gov/careers\", waiting until \"domco",
+    "url": "https://nrel.wd5.myworkdayjobs.com/NLR",
+    "final": "https://nrel.wd5.myworkdayjobs.com/NLR",
+    "status": 200,
+    "error": null,
     "rendered": null
    }
   ],
   "tried": [
    {
-    "type": "generic_render",
+    "type": "workday",
     "params": {
-     "url": "https://www.nrel.gov/careers"
+     "tenant": "nrel",
+     "wd": "wd5",
+     "site": "NLR"
     },
-    "ok": false,
-    "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nrel.gov/careers\nCall log:\n  - navigating to \"https://www.nrel.gov/careers\", waiting until \"networkidle\"\n"
+    "ok": true,
+    "count": 65,
+    "sample": [
+     "Cybersecurity Engineer- Professional IV",
+     "Security Officer - Specialist II – Day Shift",
+     "Postdoctoral Researcher - Power Electronics",
+     "Graduate Internship (Year-Round) - AI/Machine Learning Time Series Modeling",
+     "Postdoctoral Researcher - Computational Protein Design"
+    ]
    }
   ]
  },
