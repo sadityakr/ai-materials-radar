@@ -813,9 +813,10 @@
  },
  "nlr-nrel-us": {
   "name": "National Laboratory of the Rockies (formerly NREL)",
-  "type": null,
-  "checked": "2026-11-15T11:57:40Z",
-  "status": "no_source"
+  "type": "workday",
+  "checked": "2026-11-15T15:52:41Z",
+  "status": "ok",
+  "count": 65
  },
  "nova-sentronics-mannheim": {
   "name": "Sentronics Metrology GmbH (Nova Ltd.)",

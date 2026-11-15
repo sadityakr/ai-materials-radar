@@ -1,9 +1,9 @@
-# Run 2026-11-15T11:57:40Z
+# Run 2026-11-15T15:52:41Z
 
-Employers: 183. Read OK: 161. Failed: 1. Suspect zero: 0. No source: 21.
-Open postings tracked: 11331. New this run: 68. Closed this run: 3. Reopened: 0. Candidates after pre-filter: 1315.
+Employers: 183. Read OK: 162. Failed: 1. Suspect zero: 0. No source: 20.
+Open postings tracked: 11396. New this run: 65. Closed this run: 0. Reopened: 0. Candidates after pre-filter: 1327.
 
-Readers in use: generic 85, generic_render 35, eightfold 7, personio 6, greenhouse 4, ashby 4, smartrecruiters 3, oracle 3, workday 3, lever 3, sitemap 2, recruitee 2, sf_csb 1, icims 1, phenom 1, zeiss 1
+Readers in use: generic 85, generic_render 35, eightfold 7, personio 6, greenhouse 4, ashby 4, workday 4, smartrecruiters 3, oracle 3, lever 3, sitemap 2, recruitee 2, sf_csb 1, icims 1, phenom 1, zeiss 1
 
 | Employer | System | Status | Postings | Candidates | Note |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@ Readers in use: generic 85, generic_render 35, eightfold 7, personio 6, greenhou
 | Microsoft Research AI for Science (materials) | generic | ok | 0 |  |  |
 | MultiDimension Technology (MDT) | - | no_source |  |  |  |
 | Mycronic (Pattern Generator division) | oracle | ok | 30 | 2 |  |
-| National Laboratory of the Rockies (formerly NREL) | - | no_source |  |  |  |
+| National Laboratory of the Rockies (formerly NREL) | workday | ok | 65 | 12 |  |
 | NAURA Technology Group (北方华创) | generic | ok | 0 |  |  |
 | Nearfield Instruments | recruitee | ok | 56 | 7 |  |
 | Nexperia Germany | generic_render | ok | 0 |  |  |
