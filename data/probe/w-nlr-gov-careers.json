@@ -1,0 +1,267 @@
+{
+ "url": "https://www.nlr.gov/careers",
+ "final": "https://www.nlr.gov/careers",
+ "error": null,
+ "calls": [
+  {
+   "url": "https://www.nlr.gov/careers",
+   "method": "GET",
+   "status": 200,
+   "type": "text/html; charset=utf-8"
+  },
+  {
+   "url": "https://script.crazyegg.com/pages/scripts/0011/5883.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.nlr.gov/WebResource.axd?d=HtQyXelCu6mzSPcVcvK_BjykPDToej-LFGyQsm-N8BbLjg4wqt3TLM6utk15Ex8EbS0bUgTJRZ_3vHQ60kzHEseebs5B7RNbkWk9fQSC_3-Mb4YXAUtSZNZ13O2u6paKG_Ff4UoMNNKRdD-Osbk5FG8WPycT7wA79QOiS6sMmMO3ogxM7wS0D7jDR6MtTzMW5w1aqTpEzWn8DypUeJ3d6WXHnMQKLDOXOht83U0YmkM1&t=639250938920000000",
+   "method": "GET",
+   "status": 200,
+   "type": "application/x-javascript"
+  },
+  {
+   "url": "https://platform-api.sharethis.com/js/sharethis.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript; charset=utf-8"
+  },
+  {
+   "url": "https://www.nlr.gov/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPt6cijkQaCjNkiPh9I9w1E-8BeJ-kZETMRXj4nZK_H6YkqrVMeS0B6NGR0r2FuV60b_1Juu6Dn6NvjIhdc11iGaYyfFDsEa-uyeQV9oMMQTnvaTIOzr4N29UE1lZ-wTgO2Ss4tp2-G_omzpnogtQU0k_8MT2HbXwAefctxT1Tx7Wt1b8H-pG-CeTxEpSe21HFuqlSQcgKpRMiwkCtCCDR1Q1&t=639250939680000000",
+   "method": "GET",
+   "status": 200,
+   "type": "application/x-javascript"
+  },
+  {
+   "url": "https://cdn.insight.sitefinity.com/sdk/sitefinity-insight-client.min.3.1.44.js",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  },
+  {
+   "url": "https://kit.fontawesome.com/a5d615d1e4.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://www.nlr.gov/ResourcePackages/Frontend/public/library/js/vendor/glide.min.js?package=gov",
+   "method": "GET",
+   "status": 200,
+   "type": "application/x-javascript"
+  },
+  {
+   "url": "https://www.nlr.gov/ResourcePackages/Frontend/public/library/js/main.js?v=639300502000000000",
+   "method": "GET",
+   "status": 200,
+   "type": "application/x-javascript"
+  },
+  {
+   "url": "https://script.crazyegg.com/pages/data-scripts/0011/5883/site/www.nlr.gov.json?t=1",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"uid\":115883,\"dkey\":\"eb82c84c462931212d961b1e43aaa5f9\",\"updated_at\":1794751445,\"version\":\"11.5.573\",\"site_data_url_template\":\"https://script.crazyegg.com/pages/data-scripts/0011/5883/site/SITENAME.json\",\"site_sampling_url_template\":\"https://script.crazyegg.com/pages/data-scripts/0011/5883/sampling/SITENAME.json\",\"status_data_url\":\"https://script.crazyegg.com/pages/data-scripts/0011/5883/status.json\",\"hud\":{\"host\":\"https://hud.crazyegg.com\",\"script_url\":\"https://script.crazyegg.com/scripts/hud\",\"core_api_auth_key\":\"ed7defcd8ac63cbb5d0844b91b18421f14821e99a3862d81c2bd8ebf036eabb6\",\"launch_origins\":[\"https://core.crazyegg.com\",\"https://api.crazyegg.com\"]},\"survey_preview_dest\":\"https://api.crazyegg.com/surveys/preview\",\"survey_launch_origins\":[\"https://app.crazyegg.com\",\"https://core.crazyegg.com\"],\"addon_preview_dest\":\"https://api.crazyegg.com/surveys/preview\",\"addon_launch_origins\":[\"https://app.crazyegg.com\",\"https://core.crazyegg.com\"],\"ce_app_url\":\"https://app.crazyegg.com\",\"ports_api_url\":\"https://api.crazyegg.com\",\"flow_preview_url\":\"https://api.crazyegg.com/abtests/preview\",\"clock_url\":\"https://tracking.crazyegg.com/clock\",\"common_script_url\":\"https://script.crazyegg.com/pages/versioned/common-scripts/f6d8509483ff9ebf5575c4f629d2c53a.js\",\"port_script_url\":\"https://script.crazyegg.com/pages/versioned/port-scripts/7dc6c8b1a8d50a9cecda4b0b8c2d7527.js\",\"status\":\"ok\",\"counters_dest\":\"https://tracking.crazyegg.com/metrics\",\"data_url\":\"https://script.crazyegg.com/pages/data-scripts/0011/5883/site/www.nlr.gov.json\",\"sampling_data_url\":\"https://script.crazyegg.com/pages/data-scripts/0011/5883/sampling/www.nlr.gov.json\",\"tracking_script_url\":\"https://script.crazyegg.com/pages/versioned/tracking-scripts/ba476b7f67823d413f3b514a5d8344a8.js\",\"trackingpagestate_script_url\":\"https://script.crazyegg.com/pages/versioned/trackingpagestate-scripts/a412465bb03a756d3e285204512ab089.js\",\"thirdparty_script_url\":\"https://script.crazyegg.com/pages/versioned/thirdparty-scripts/6fe5101ffa32e66e4debad675c8eea66.js\",\"remote_script_url\":\"https://script.crazyegg.com/pages/versioned/remote-scripts/81d1701dbc9e7f7bf421387273c9c389.js\",\"remote_host_url\":\"https://script.crazyegg.com/pages/remote-host.html?common=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fcommon-scripts%2Ff6d8509483ff9ebf5575c4f629d2c53a.js&thirdparty=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fthirdparty-scripts%2F6fe5101ffa32e66e4debad675c8eea66.js&remote=https%3A%2F%2Fscript.crazyegg.com%2Fpages%2Fversioned%2Fremote-scripts%2F81d1701dbc9e7f7bf421387273c9c389.js\",\"sites\":\"%8&4!}%|%]!}$<$5$8$3$8$2$5$,!}&%%?&$%^!}$<!}&%&!&*$.%`&&&.!}$,!}%[&&&&%~%|%^${&&&$%?%|&%!}$<!}&%&!&*$.%`&&&.!}$,!}&+%^&+&+%|&&&%%.%^%[&&&*%]%|&%%`!}$<&,&*&-%^$,!}&0%^%@$^&%%?&!&2&,%|%[&+!}$<&,&*&-%^$,!}&+%^&,&,%|&%%`&+!}$<&4!}%|%`&%&&&*%^${&%&,!}$<&,&*&-%^$,!}%?&-&,&&%$%]%^&%&,%|%_&2!}$<%_%?&!&+%^$,!}&-&+%^%0%^%[&-&*%^$`&&&&%~%|%^&+!}$<%_%?&!&+%^$,!}%@&!&&%[%~%$&(%(%|&+&,!}$<&%&-&!&!$,!}%]%^%_%?&-&!&,$`&-&*&*%^&%%[&2!}$<&%&-&!&!$,!}%^&1&(&!%|%[%|&,$^%`%^&%&,!}$<%_%?&!&+%^&6$,!}&*%^%[&&&*%]%|&%%`%0%^&,&,%|&%%`&+!}$<&4!}&(%?%`%^%1%?&*%`%^&,%|&%%`$|&%%?%@&!%^%]!}$<%_%?&!&+%^$,!}&(%?%`%^%1%?&*%`%^&,%|&%%`%2&*&!&+!}$<%8%;$,!}&*&-&!%^&+!}$<%8%;$,!}&$%?&+%~$|&!%^&$%^&%&,&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,&*%?&,%^%`&2!}$<!}&-&%%|%_&&&*&$!}$,!}&+%?&$&(&!%|&%%`%*&-&$%.%^%[&&&*%]%|&%%`&+!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%0&,%?&*&,${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`$|&%%]${%?&,%^%2&%%|&1!}$<&%&-&!&!$,!}&+%?&$&(&!%|&%%`%2&(%]%?&,%^%]$^&,!}$<&%&-&!&!$,!}%^&%%]%0%^&+&+%|&&&%%+&%$_&!&&%[%~%^%]%2&*&!!}$<%_%?&!&+%^$,!}%@&!&&%[%~%^%]%2&*&!&+!}$<%8%;$,!}%@&!&&%[%~%^%]%.&-&!%^&+!}$<%8%;$,!}&(&*%^$`%?%[%{%^%$&$%?%`%^&+!}$<%_%?&!&+%^$,!}&*%^%[&&&*%]%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}%{%|%]%^%$%_&*%?&$%^&+!}$<%_%?&!&+%^$,!}&+%?&$&(&!%|&%%`$`&&&$&(&!%^&,%^%]$^&,!}$<&%&-&!&!&6$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$3$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$6$7$,!}%]&2&%%?&$%|%[$~&&%?&!&+!}$<&,&*&-%^&6%;\",\"segments\":[],\"global_ip_block_list\":\"\",\"is_using_ip_blocking\":false,\"transformations_script_url\":\"https://script.crazyegg.com/pages/versioned/transformations-scripts/112b3ca4413311b33120cb96185a345f.js\",\"page_views_limit_reached\":false,\"v11_tracking_dest\":\"https://tracking.crazyegg.com/v11\",\"recordings_dest\":\"https://recording.crazyegg.com\",\"recordings_sampling_dest\":\"https://sample-api-v2.crazyegg.com\",\"ratio_v2_dest\":\"https://sampling-ratio.crazyegg.com/ratio/v2\",\"page_states_tracking_url\":\"https://pagestates-tracking.crazyegg.com\",\"assets_tracking_url\":\"https://assets-tracking.crazyegg.com\",\"disable_recordings_masking\":false,\"disable_recordings_email_masking\":false,\"disable_recordings_mobile\":false,\"recordings_number\":500,\"recordings_activation\":null,\"asset_collector_ignore\":[\"bat.bing.com\",\"www.facebook.com/tr\",\"www.google.\",\"www.google-analytics.\",\"ssl.google-analytics.\",\"www.googletagmanager.\",\"googleads.g\",\"googlesyndication.com\",\"fonts.googleapis.com\",\"allfont.net\",\"adservice.google\",\"sp.analytics.yahoo.\",\"analytics.yahoo.com\",\"heapanalytics.com\",\"dev.visualwebsiteoptimizer.\",\"b.6sc.co\",\"hn.inspectlet.\",\"d.adroll.\",\"secure.adnxs.\",\"match.adsrvr.\",\"ads.travelaudience.\",\"www.linkconnector.\",\"px.ads.linkedin.\",\"cdn.bizible.\",\"ih.adscale.\",\"rtb-csync.smartadserver.\",\"x.bidswitch.net/sync\",\"ad.doubleclick.\",\"pixel.anyclip.com\",\"tr.brand-display.com\",\"d.adroll.com\",\"mabping.chartbeat.net\",\"ping.chartbeat.net\",\"sb.scorecardresearch.com\",\"cds.taboola.com\",\"sync.richaudience.com\",\"searchunify.com\"],\"features\":[\"cookie-blocking\"],\"page_view_metering_strategy\":\"legacy\",\"dnt\":true,\"auto_identity\":false,\"addons\":[],\"tracking_key\":\"a2b5cfb348e1388707bde39df0e3fd68\",\"explicit_agent\":false,\"use_secure_cookies\":false,\"public_tracking_api\":{\"endpoint\":\"https://track.crazyegg.com\"}}"
+  },
+  {
+   "url": "https://script.crazyegg.com/pages/versioned/common-scripts/f6d8509483ff9ebf5575c4f629d2c53a.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://buttons-config.sharethis.com/js/64bee650c73e910012491844.js",
+   "method": "GET",
+   "status": 200,
+   "type": "text/javascript"
+  },
+  {
+   "url": "https://script.crazyegg.com/pages/data-scripts/0011/5883/sampling/www.nlr.gov.json?t=1",
+   "method": "GET",
+   "status": 200,
+   "type": "application/json",
+   "preview": "{\"version\":\"11.5.573\",\"sites_sampling\":\"%8&4!}%|%]!}$<$5$8$3$8$2$5$,!}&%%?&$%^!}$<!}&%&!&*$.%`&&&.!}$,!}&0%^%@%=%?&%%?&!&2&,%|%[&+%=&*%?&,%|&&!}$<$3$,!}&*%^%[&&&*%]%|&%%`%=&*%?&,%|&&!}$<$4$6$7&6%;\"}"
+  },
+  {
+   "url": "https://api.insight.sitefinity.com/collect/v2/data-centers/74c681a2-d5d5-4324-6948-4033ccf1b7a6/datasources/Website/interactions",
+   "method": "POST",
+   "status": 200,
+   "type": "application/json; charset=utf-8",
+   "post": "[{\"S\":\"1794757763238-8152e717-a53b-4517-9947-38887e828e2d\",\"SM\":{\"UserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\",\"Browser language\":\"en-US\"},\"IM\":{\"InteractionId\":\"ebaa938d-c7a2-4da1-af3d-41507483f11f\",\"SessionId\":\"1794757763239-de78a7e1-dfee-451b-8478-9ad75bcd43ba\",\"PageVisitId\":\"faf64846-49ed-4008-9cea-4d632cb1e6ce\",\"TrackingCookieAge\":\"98\"}},{\"S\":\"1794757763238-8152e717-a53b-4517-9947-38887e828e2d\",\"SSM\":{\"UserAgent\":\"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36\",\"BrowserLanguage\":\"en-US\",\"UtcOffsetMinutes\":\"0\",\"TimeZone\":\"UTC\",\"SessionLengthMinutes\":\"30\"},\"IM\":{\"InteractionId\":\"ee5f555b-5055-4563-ac03-bd8cc7c36684\",\"SessionId\":\"1794757763239-de78a7e1-dfee-451b-8478-9ad75bcd43ba\",\"PageVisitId\":\"faf64846-49ed-4008-9cea-4d632cb1e6ce\",\"TrackingCookieAge\":\"108\"}},{\"S\":\"1794757763238-8152e717-a53b-4517-9947-38887e828e2d\",\"P\":\"Visit\",\"O\":\"https://www.nlr.gov/careers\",\"OM\":{\"Id\":\"2cb8a05c-2a1f-4aff-8b97-1da0a2805a53\",\"ContentType\":\"Page\",\"SfClrType\":\"Telerik.Sitefinity.Pages.Model.PageNode\",\"Title\":\"Careers\",\"CanonicalTitle\":\"Careers\",\"DefaultLanguage\":\"en\",\"CreatedOn\":\"2023-11-17T16:46:25Z\",\"ModifiedOn\":\"2026-09-21T14:14:42.707Z\",\"SiteId\":\"429c2e29-4b2c-4ed5-be20-80f8d2215d4f\",\"SiteName\":\"NREL\",\"PageId\":\"2cb8a05c-2a1f-4aff-8b97-1da0a2805a53\",\"DocumentTitle\":\"Careers | NLR\"},\"IM\":{\"InteractionId\":\"951ac43e-c36b-4629-b698-823642793134\",\"SessionId\":\"1794757763239-de78a7e1-dfee-451b-8478-9ad75bcd43ba\",\"PageVisitId\":\"faf64846-49ed-4008-9cea-4d632cb1e6ce\",\"TrackingCookieAge\":\"111\"}}]",
+   "preview": "3"
+  },
+  {
+   "url": "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NREL",
+   "method": "GET",
+   "status": 200,
+   "type": "application/javascript"
+  }
+ ],
+ "job_links": [
+  [
+   "https://www.nlr.gov/careers#content",
+   "Skip to main content"
+  ],
+  [
+   "https://www.nlr.gov/careers",
+   "Careers"
+  ],
+  [
+   "https://www.nlr.gov/careers#",
+   "About"
+  ],
+  [
+   "https://www.nlr.gov/careers#",
+   "Research"
+  ],
+  [
+   "https://www.nlr.gov/careers#",
+   "Partner With Us"
+  ],
+  [
+   "https://www.nlr.gov/careers#",
+   "News"
+  ],
+  [
+   "https://www.nlr.gov/careers#",
+   "Careers"
+  ],
+  [
+   "https://www.nlr.gov/careers",
+   "Careers"
+  ],
+  [
+   "https://www.nlr.gov/careers/find-job",
+   "Find a Job"
+  ],
+  [
+   "https://www.nlr.gov/careers/hiring-process",
+   "Hiring Process"
+  ],
+  [
+   "https://www.nlr.gov/careers/internships",
+   "Internships"
+  ],
+  [
+   "https://www.nlr.gov/careers/post-docs",
+   "Postdoctoral Positions"
+  ],
+  [
+   "https://www.nlr.gov/careers/workforce-development",
+   "Workforce Development Affiliate Programs"
+  ],
+  [
+   "https://www.nlr.gov/careers/discover-nlr",
+   "Discover NLR"
+  ],
+  [
+   "https://www.nlr.gov/careers/employee-recognition",
+   "Employee Recognition"
+  ],
+  [
+   "https://www.nlr.gov/careers/policies-and-notices",
+   "Policies & Notices"
+  ],
+  [
+   "https://www.nlr.gov/careers/find-job",
+   "Find a Job"
+  ],
+  [
+   "https://www.nlr.gov/careers/hiring-process",
+   "Hiring Process"
+  ],
+  [
+   "https://www.nlr.gov/careers/internships",
+   "Internships"
+  ],
+  [
+   "https://www.nlr.gov/careers/undergraduate-internships",
+   "Undergraduate Internships"
+  ],
+  [
+   "https://www.nlr.gov/careers/graduate-internships",
+   "Graduate Internships"
+  ],
+  [
+   "https://www.nlr.gov/careers/post-docs",
+   "Postdoctoral Positions"
+  ],
+  [
+   "https://www.nlr.gov/careers/directors-fellowship",
+   "Director's Fellowship"
+  ],
+  [
+   "https://www.nlr.gov/careers/postdoctoral-researchers-hiring-job-recruitment",
+   "Recruit & Hire"
+  ],
+  [
+   "https://www.nlr.gov/careers/workforce-development",
+   "Workforce Development Affiliate Programs"
+  ],
+  [
+   "https://www.nlr.gov/careers/discover-nlr",
+   "Discover NLR"
+  ],
+  [
+   "https://www.nlr.gov/careers/core-values",
+   "Core Values"
+  ],
+  [
+   "https://www.nlr.gov/careers/benefits",
+   "Benefits"
+  ],
+  [
+   "https://www.nlr.gov/careers/employee-recognition",
+   "Employee Recognition"
+  ],
+  [
+   "https://www.nlr.gov/careers/science-awards",
+   "Scientific & Organizational Awards"
+  ],
+  [
+   "https://www.nlr.gov/careers/policies-and-notices",
+   "Policies & Notices"
+  ],
+  [
+   "https://www.nlr.gov/careers/employment-policies",
+   "Employment Policies"
+  ],
+  [
+   "https://www.nlr.gov/careers/hr-privacy-notice",
+   "Human Resources Privacy Notice"
+  ],
+  [
+   "https://www.nlr.gov/careers/find-job",
+   "Find a Job"
+  ],
+  [
+   "https://www.nlr.gov/careers/internships",
+   "Internships"
+  ],
+  [
+   "https://www.nlr.gov/careers/post-docs",
+   "Postdoctoral Opportunities"
+  ],
+  [
+   "https://www.nlr.gov/careers/workforce-development",
+   "Workforce Development"
+  ],
+  [
+   "https://www.nlr.gov/careers/discover-nlr",
+   "Discover NLR"
+  ],
+  [
+   "https://www.nlr.gov/careers/employee-recognition",
+   "Employee Recognition"
+  ],
+  [
+   "https://www.nlr.gov/careers",
+   "Careers"
+  ],
+  [
+   "https://www.nlr.gov/careers/contacts",
+   "Contact Us"
+  ]
+ ]
+}
