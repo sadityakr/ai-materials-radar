@@ -1,7 +1,7 @@
-# Run 2026-11-21T12:40:17Z
+# Run 2026-11-22T12:36:13Z
 
 Employers: 183. Read OK: 156. Failed: 7. Suspect zero: 0. No source: 20.
-Open postings tracked: 11793. New this run: 225. Closed this run: 306. Reopened: 6. Candidates after pre-filter: 1379.
+Open postings tracked: 11607. New this run: 32. Closed this run: 222. Reopened: 4. Candidates after pre-filter: 1358.
 
 Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhouse 4, ashby 4, smartrecruiters 3, oracle 3, lever 3, sitemap 2, recruitee 2, sf_csb 1, icims 1, phenom 1, zeiss 1
 
@@ -17,13 +17,13 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | AMEC (Advanced Micro-Fabrication Equipment, 中微公司) | - | no_source |  |  |  |
 | AMO GmbH | generic | ok | 0 |  |  |
 | ams OSRAM (ams-OSRAM AG) | generic | ok | 3 |  |  |
-| Analog Devices (Limerick wafer fab) | generic_render | ok | 20 | 14 |  |
+| Analog Devices (Limerick wafer fab) | generic_render | ok | 20 | 12 |  |
 | Applied Materials (Santa Clara and Sunnyvale) | generic | ok | 3 | 1 |  |
 | ARCNL (Advanced Research Center for Nanolithography) | generic | ok | 6 | 1 |  |
 | Argonne National Laboratory (CNM, APS, Polybot, Aurora) | generic | failed |  |  | ReaderError: HTTP 403 https://www.anl.gov/ |
 | ASM International (ASM) | greenhouse | ok | 539 | 117 |  |
-| ASML | sitemap | ok | 846 | 78 |  |
-| ASML US (Wilton CT and San Jose) | sitemap | ok | 846 | 78 |  |
+| ASML | sitemap | ok | 845 | 77 |  |
+| ASML US (Wilton CT and San Jose) | sitemap | ok | 845 | 77 |  |
 | AT&S Austria Technologie & Systemtechnik AG | generic | ok | 0 |  |  |
 | Atinary Technologies | generic | ok | 0 |  |  |
 | BAM (Federal Institute for Materials Research and Testing) | generic_render | failed |  |  | Error: Page.goto: net::ERR_TIMED_OUT at https://www.bam.de/Navigation/EN/About-u |
@@ -99,7 +99,7 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | KLA (ICOS division) | generic | ok | 0 |  |  |
 | KLA (Milpitas and Ann Arbor) | generic | ok | 0 |  |  |
 | KLA Germany (KLA GmbH / KLA Jena) | generic | ok | 0 |  |  |
-| Lam Research (Fremont and Tualatin) | eightfold | ok | 590 | 97 |  |
+| Lam Research (Fremont and Tualatin) | eightfold | ok | 591 | 95 |  |
 | Lam Research (Lam Research Salzburg GmbH, Villach site) | eightfold | ok | 49 | 5 |  |
 | Lawrence Berkeley National Laboratory (A-Lab, Materials Project) | generic | ok | 14 | 7 |  |
 | LeydenJar Technologies | recruitee | ok | 6 |  |  |
@@ -110,7 +110,7 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | Materials Nexus (MatNex) | generic_render | ok | 0 |  |  |
 | Melexis | - | no_source |  |  |  |
 | Merck KGaA - Electronics (EMD Electronics) | generic_render | ok | 0 |  |  |
-| Meta FAIR Chemistry | generic_render | ok | 10 | 1 |  |
+| Meta FAIR Chemistry | generic_render | ok | 9 | 3 |  |
 | Michelin (materials R&D, Ladoux) | workday | failed |  | 21 | RetryError: HTTPSConnectionPool(host='michelinhr.wd3.myworkdayjobs.com', port=44 |
 | micro resist technology GmbH | generic_render | ok | 0 |  |  |
 | Micron Technology (Boise) | generic_render | ok | 19 | 4 |  |
@@ -126,7 +126,7 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | NIST (Gaithersburg MD and Boulder CO) | generic | ok | 70 | 40 |  |
 | Norsk Hydro (Innovation and Technology, aluminium extrusion R&D) | generic_render | ok | 8 |  |  |
 | NPL (National Physical Laboratory), Data Science and AI | generic | ok | 13 | 1 |  |
-| NVIDIA (ALCHEMI, AI for materials and chemistry) | eightfold | ok | 600 | 165 |  |
+| NVIDIA (ALCHEMI, AI for materials and chemistry) | eightfold | ok | 600 | 164 |  |
 | Onto Innovation | generic | ok | 0 |  |  |
 | Orbital Materials | ashby | ok | 9 | 1 |  |
 | Osium AI | generic_render | ok | 4 | 2 |  |
@@ -139,7 +139,7 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | Polaron | generic | ok | 0 |  |  |
 | PowerCo SE | generic | ok | 3 |  |  |
 | Pragmatic Semiconductor | generic | ok | 10 | 3 |  |
-| Q.ANT GmbH | personio | ok | 14 | 12 |  |
+| Q.ANT GmbH | personio | ok | 14 | 10 |  |
 | Qcells (Hanwha Qcells Germany) | generic | ok | 6 | 2 |  |
 | Qnami AG (acquired by Quantum Design International, 2026) | generic_render | ok | 2 |  |  |
 | QuantumDiamonds GmbH | generic_render | ok | 0 |  |  |
@@ -161,7 +161,7 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | Shanghai Oriental Xingang Integrated Circuit (芯港集成) | - | no_source |  |  |  |
 | Shanghai Yuwei Semiconductor Technology (上海御微半导体) | - | no_source |  |  |  |
 | Siemens Energy AG (materials and self-driven labs, Berlin) | generic | ok | 12 | 2 |  |
-| Sila Nanotechnologies | greenhouse | ok | 34 | 6 |  |
+| Sila Nanotechnologies | greenhouse | ok | 33 | 6 |  |
 | Silicon Austria Labs (SAL) | generic | ok | 0 |  |  |
 | Singulus Technologies AG | generic | ok | 0 |  |  |
 | Sinomags (Ningbo Sinomags Electrical Technology) | - | no_source |  |  |  |
@@ -173,20 +173,20 @@ Readers in use: generic 84, generic_render 34, eightfold 7, personio 6, greenhou
 | STMicroelectronics (Agrate Brianza and Catania fabs) | generic_render | ok | 0 |  |  |
 | STMicroelectronics (Crolles and Rousset fabs) | - | no_source |  |  |  |
 | SUSS MicroTec SE | generic_render | ok | 17 | 3 |  |
-| Synopsys Denmark (QuantumATK atomic-scale modelling team) | generic | ok | 15 | 18 |  |
-| Texas Instruments (Dallas, Richardson and Sherman) | oracle | ok | 934 | 220 |  |
-| Thermo Fisher Scientific, Brno (electron microscopy R&D) | phenom | ok | 3255 | 69 |  |
+| Synopsys Denmark (QuantumATK atomic-scale modelling team) | generic | ok | 15 | 9 |  |
+| Texas Instruments (Dallas, Richardson and Sherman) | oracle | ok | 933 | 219 |  |
+| Thermo Fisher Scientific, Brno (electron microscopy R&D) | phenom | ok | 3248 | 67 |  |
 | TNO (incl. Holst Centre and TNO at ASML) | generic | ok | 13 | 2 |  |
 | Toyota Research Institute (Accelerated Materials Design and Discovery) | lever | ok | 49 | 8 |  |
 | TSMC (Intelligent Manufacturing Center) | personio | ok | 46 | 6 |  |
-| Tyndall National Institute (University College Cork) | generic | ok | 5 | 4 |  |
+| Tyndall National Institute (University College Cork) | generic | ok | 5 | 3 |  |
 | Umicore (Electro-Optic Materials / Research) | generic | ok | 7 |  |  |
 | VARTA AG | generic | ok | 0 |  |  |
 | VAT Group (VAT Vakuumventile AG) | generic_render | ok | 0 |  |  |
 | Verkor | lever | ok | 36 | 2 |  |
 | VITO | generic | ok | 5 |  |  |
 | VTT Technical Research Centre of Finland | generic | ok | 1 | 1 |  |
-| Western Digital (San Jose Research and wafer fab) | smartrecruiters | ok | 329 | 50 |  |
+| Western Digital (San Jose Research and wafer fab) | smartrecruiters | ok | 329 | 49 |  |
 | XtalPi (晶泰科技) | generic | ok | 0 |  |  |
 | Yangtze Memory Technologies (YMTC) | - | no_source |  |  |  |
 | Zhejiang Lab (之江实验室) | - | no_source |  |  |  |
