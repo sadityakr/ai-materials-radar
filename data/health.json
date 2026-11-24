@@ -2,1280 +2,1276 @@
  "acm-research-shanghai": {
   "name": "ACM Research Shanghai (盛美半导体设备)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "advantest-europe-boeblingen": {
   "name": "Advantest Europe GmbH",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "aionics-us": {
   "name": "Aionics",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "aixtron-herzogenrath": {
   "name": "AIXTRON SE",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 121
+  "count": 119
  },
  "akhetonics-berlin": {
   "name": "Akhetonics GmbH",
   "type": "personio",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 1
  },
  "alqem-munich": {
   "name": "alqem GmbH",
   "type": "personio",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 4
  },
  "altrove-paris": {
   "name": "Altrove",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "amec-shanghai": {
   "name": "AMEC (Advanced Micro-Fabrication Equipment, 中微公司)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "amo-aachen": {
   "name": "AMO GmbH",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "ams-osram-premstaetten": {
   "name": "ams OSRAM (ams-OSRAM AG)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 3
  },
  "analog-devices-limerick": {
   "name": "Analog Devices (Limerick wafer fab)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 20
  },
  "applied-materials-santa-clara-usa": {
   "name": "Applied Materials (Santa Clara and Sunnyvale)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 3
  },
  "arcnl-amsterdam": {
   "name": "ARCNL (Advanced Research Center for Nanolithography)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 6
  },
  "argonne-national-laboratory-us": {
   "name": "Argonne National Laboratory (CNM, APS, Polybot, Aurora)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "ReaderError: HTTP 403 https://www.anl.gov/",
-  "fails_in_row": 7,
+  "fails_in_row": 8,
   "last_ok": "2026-11-16T12:45:49Z"
  },
  "asm-international-almere": {
   "name": "ASM International (ASM)",
   "type": "greenhouse",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 544
+  "count": 540
  },
  "asml-veldhoven": {
   "name": "ASML",
   "type": "sitemap",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 831
+  "count": 829
  },
  "asml-wilton-usa": {
   "name": "ASML US (Wilton CT and San Jose)",
   "type": "sitemap",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 831
+  "count": 829
  },
  "at-s-leoben": {
   "name": "AT&S Austria Technologie & Systemtechnik AG",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "atinary-lausanne": {
   "name": "Atinary Technologies",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "bam-berlin": {
   "name": "BAM (Federal Institute for Materials Research and Testing)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "Error: Page.goto: net::ERR_TIMED_OUT at https://www.bam.de/Navigation/EN/About-us/Jobs-and-Careers/jobs-and-careers.html\nCall log:\n  - navigating to \"https://www.bam.de/Navigation/EN/About-us/Jobs-and-Careers/jobs-and-careers.html\", waiting until \"networkidle\"\n",
-  "fails_in_row": 3,
+  "fails_in_row": 4,
   "last_ok": "2026-11-20T12:53:49Z"
  },
  "basf-ludwigshafen-digital-rd": {
   "name": "BASF SE (Research and digital R&D)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "berkeley-lab-materials-us": {
   "name": "Lawrence Berkeley National Laboratory (A-Lab, Materials Project)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 14
  },
  "black-semiconductor-aachen": {
   "name": "Black Semiconductor GmbH",
   "type": "ashby",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 40
  },
  "black-semiconductor-netherlands-delft": {
   "name": "Black Semiconductor Netherlands (formerly Applied Nanolayers)",
   "type": "ashby",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 40
  },
  "borealis-linz": {
   "name": "Borealis",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "bosch-research-renningen": {
   "name": "Robert Bosch GmbH, Corporate Research (Renningen)",
   "type": "smartrecruiters",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 50
+  "count": 47
  },
  "bosch-semiconductor-reutlingen-dresden": {
   "name": "Robert Bosch GmbH - Semiconductor and MEMS fabs",
   "type": "smartrecruiters",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 86
+  "count": 85
  },
  "bytedance-seed-ai4s": {
   "name": "ByteDance Seed (AI for Science)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "camline-petershausen": {
   "name": "camLine GmbH (Elisa Industriq)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
-  "status": "failed",
-  "error": "TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.camline.com/en/career\", waiting until \"networkidle\"\n",
-  "fails_in_row": 1,
-  "last_ok": "2026-11-22T12:36:13Z"
+  "checked": "2026-11-24T14:54:08Z",
+  "status": "ok",
+  "count": 0
  },
  "catl-ningde": {
   "name": "CATL (Contemporary Amperex Technology)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "cea-leti-grenoble": {
   "name": "CEA-Leti (Grenoble, industry contract groups)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 9
  },
  "chemify-glasgow": {
   "name": "Chemify",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "chemspeed-fuellinsdorf": {
   "name": "Chemspeed Technologies",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "citrine-informatics-us": {
   "name": "Citrine Informatics",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 1
  },
  "corbion-gorinchem": {
   "name": "Corbion",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "covestro-leverkusen": {
   "name": "Covestro AG",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "csem-neuchatel": {
   "name": "CSEM (Swiss Center for Electronics and Microtechnology)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "cuspai-amsterdam": {
   "name": "CuspAI (Amsterdam office)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "cuspai-cambridge": {
   "name": "CuspAI (Cambridge HQ)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "cxmt-hefei": {
   "name": "ChangXin Memory Technologies (CXMT)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "datin-karlsruhe": {
   "name": "datin GmbH",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "differ-eindhoven": {
   "name": "DIFFER (Dutch Institute for Fundamental Energy Research)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 2
  },
  "dp-technology-beijing": {
   "name": "DP Technology (深势科技)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "dsm-firmenich-delft-geneva": {
   "name": "dsm-firmenich (Delft and Geneva data science)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "dtu-capex-lyngby": {
   "name": "DTU CAPeX (Pioneer Center for Accelerating P2X Materials Discovery)",
   "type": "oracle",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 125
+  "count": 123
  },
  "dunia-innovations-berlin": {
   "name": "Dunia Innovations",
   "type": "personio",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 3
  },
  "empa-duebendorf": {
   "name": "Empa (Swiss Federal Laboratories for Materials Science and Technology)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "entalpic-paris": {
   "name": "Entalpic",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "esmc-dresden": {
   "name": "ESMC (European Semiconductor Manufacturing Company, TSMC JV)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "ReaderError: HTTP 403 https://careers.tsmc.com/en_US/careers",
-  "fails_in_row": 4,
+  "fails_in_row": 5,
   "last_ok": "2026-11-19T13:10:32Z"
  },
  "ev-group-st-florian": {
   "name": "EV Group (EVG)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 10
  },
  "evonik-marl": {
   "name": "Evonik Industries AG",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 16
  },
  "fhi-nomad-berlin": {
   "name": "Fritz Haber Institute of the Max Planck Society (incl. NOMAD Laboratory)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fmc-dresden": {
   "name": "Ferroelectric Memory Company (FMC)",
   "type": "personio",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 4
  },
  "fraunhofer-enas-chemnitz": {
   "name": "Fraunhofer ENAS",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-fep-dresden": {
   "name": "Fraunhofer FEP",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-ffb-muenster": {
   "name": "Fraunhofer FFB (Forschungsfertigung Batteriezelle)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 3
  },
  "fraunhofer-iisb-erlangen": {
   "name": "Fraunhofer IISB",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-imws-halle": {
   "name": "Fraunhofer IMWS (Center for Applied Microstructure Diagnostics CAM)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-ipms-dresden": {
   "name": "Fraunhofer IPMS (incl. Center Nanoelectronic Technologies CNT)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-isc-wuerzburg": {
   "name": "Fraunhofer ISC (Silicate Research)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "fraunhofer-ise-freiburg": {
   "name": "Fraunhofer ISE (Institute for Solar Energy Systems)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-ist-braunschweig": {
   "name": "Fraunhofer IST",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fraunhofer-iwm-freiburg": {
   "name": "Fraunhofer IWM (Institute for Mechanics of Materials)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "fz-juelich-self-driving-labs": {
   "name": "Forschungszentrum Jülich (self-driving labs, AMANDA platform)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 20
  },
  "globalfoundries-dresden": {
   "name": "GlobalFoundries Dresden (Fab 1)",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 26
  },
  "google-deepmind-london": {
   "name": "Google DeepMind (Science unit, materials)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "google-deepmind-materials-us": {
   "name": "Google DeepMind (materials science)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 1
  },
  "graphenea-san-sebastian": {
   "name": "Graphenea (Graphenea Semiconductor fab)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "henkel-adhesive-technologies-duesseldorf": {
   "name": "Henkel AG & Co. KGaA (Adhesive Technologies R&D)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "heraeus-consulting-it-hanau": {
   "name": "Heraeus (Digital R&D, Heraeus Consulting & IT Solutions)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "hikstor-hangzhou": {
   "name": "Hikstor Technology (致真存储)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "hitachi-energy-semiconductors-lenzburg": {
   "name": "Hitachi Energy Semiconductors (former ABB Semiconductors)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 2
  },
  "horiba-germany-oberursel": {
   "name": "HORIBA Jobin Yvon GmbH / HORIBA Europe",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "huawei-semiconductor-china": {
   "name": "Huawei (Semiconductor Business Dept, Turing Business Dept)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "hydro-aluminium-innovation-technology": {
   "name": "Norsk Hydro (Innovation and Technology, aluminium extrusion R&D)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 8
  },
  "hzb-berlin": {
   "name": "Helmholtz-Zentrum Berlin (HZB)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 1
  },
  "icn2-bellaterra": {
   "name": "ICN2 (Catalan Institute of Nanoscience and Nanotechnology)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 20
+  "count": 21
  },
  "ihp-frankfurt-oder": {
   "name": "IHP – Leibniz-Institut für innovative Mikroelektronik",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 22
+  "count": 23
  },
  "iit-genoa": {
   "name": "IIT (Istituto Italiano di Tecnologia)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
-  "status": "failed",
-  "error": "ConnectTimeout: HTTPSConnectionPool(host='www.iit.it', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iit.it', port=443) at 0x71d2186f1f70>, 'Connection to www.iit.it timed out. (connect timeout=30)'))",
-  "fails_in_row": 1,
-  "last_ok": "2026-11-22T12:36:13Z"
+  "checked": "2026-11-24T14:54:08Z",
+  "status": "ok",
+  "count": 0
  },
  "imdea-materials-madrid": {
   "name": "IMDEA Materials Institute",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "imec-leuven": {
   "name": "imec",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "infineon-dresden": {
   "name": "Infineon Technologies Dresden",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 41
+  "count": 40
  },
  "infineon-regensburg-neubiberg": {
   "name": "Infineon Technologies AG (Regensburg / Neubiberg / Warstein)",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 169
+  "count": 171
  },
  "infineon-technologies-austria-villach": {
   "name": "Infineon Technologies Austria AG",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 84
  },
  "inl-braga": {
   "name": "INL (International Iberian Nanotechnology Laboratory)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "intel-foundry-hillsboro-usa": {
   "name": "Intel Foundry Technology Development (Hillsboro and Chandler)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "intel-ireland-leixlip": {
   "name": "Intel Ireland (Fab 34, Leixlip)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "intellegens-cambridge": {
   "name": "Intellegens",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "iop-cas-beijing": {
   "name": "Institute of Physics, Chinese Academy of Sciences",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 2
  },
  "johnson-matthey-sonning": {
   "name": "Johnson Matthey (Technology Centre, Sonning Common)",
   "type": "workday",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "RetryError: HTTPSConnectionPool(host='matthey.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/matthey/Ext_Career_Site/jobs (Caused by ResponseError('too many 429 error responses'))",
-  "fails_in_row": 5,
+  "fails_in_row": 6,
   "last_ok": "2026-11-18T13:03:30Z"
  },
  "kit-helma-karlsruhe": {
   "name": "KIT (HELMA Helmholtz Acceleration Alliance for self-driving labs)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "kla-germany-weilburg": {
   "name": "KLA Germany (KLA GmbH / KLA Jena)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "kla-icos-leuven": {
   "name": "KLA (ICOS division)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "kla-milpitas-usa": {
   "name": "KLA (Milpitas and Ann Arbor)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "lam-research-fremont-usa": {
   "name": "Lam Research (Fremont and Tualatin)",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 590
+  "count": 588
  },
  "lam-research-villach": {
   "name": "Lam Research (Lam Research Salzburg GmbH, Villach site)",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 47
+  "count": 46
  },
  "leydenjar-technologies-eindhoven": {
   "name": "LeydenJar Technologies",
   "type": "recruitee",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 6
  },
  "lila-sciences-us": {
   "name": "Lila Sciences",
   "type": "greenhouse",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 116
+  "count": 113
  },
  "list-luxembourg": {
   "name": "LIST (Luxembourg Institute of Science and Technology)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "materials-center-leoben": {
   "name": "Materials Center Leoben Forschung GmbH (MCL)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 9
  },
  "materials-nexus-matnex-london": {
   "name": "Materials Nexus (MatNex)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "mdt-multidimension-zhangjiagang": {
   "name": "MultiDimension Technology (MDT)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "melexis-tessenderlo": {
   "name": "Melexis",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "merck-electronics-darmstadt": {
   "name": "Merck KGaA - Electronics (EMD Electronics)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "meta-fair-chemistry-us": {
   "name": "Meta FAIR Chemistry",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 11
  },
  "michelin-clermont-ferrand": {
   "name": "Michelin (materials R&D, Ladoux)",
   "type": "workday",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "RetryError: HTTPSConnectionPool(host='michelinhr.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/michelinhr/Michelin/jobs (Caused by ResponseError('too many 429 error responses'))",
-  "fails_in_row": 7,
+  "fails_in_row": 8,
   "last_ok": "2026-11-16T12:45:49Z"
  },
  "micro-resist-technology-berlin": {
   "name": "micro resist technology GmbH",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "micron-boise-usa": {
   "name": "Micron Technology (Boise)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 19
  },
  "microsoft-ai-for-science-us": {
   "name": "Microsoft Research AI for Science (materials)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "microsoft-research-ai-for-science-cambridge": {
   "name": "Microsoft Research AI for Science (Cambridge)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "mycronic-taby": {
   "name": "Mycronic (Pattern Generator division)",
   "type": "oracle",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 27
  },
  "nanogune-donostia": {
   "name": "CIC nanoGUNE",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "naura-beijing": {
   "name": "NAURA Technology Group (北方华创)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "nearfield-instruments-rotterdam": {
   "name": "Nearfield Instruments",
   "type": "recruitee",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 58
+  "count": 59
  },
  "nexperia-hamburg": {
   "name": "Nexperia Germany",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "nimte-cas-ningbo": {
   "name": "Ningbo Institute of Materials Technology and Engineering, CAS (NIMTE)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 2
  },
  "nist-gaithersburg-usa": {
   "name": "NIST (Gaithersburg MD and Boulder CO)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 70
  },
  "nlr-nrel-us": {
   "name": "National Laboratory of the Rockies (formerly NREL)",
   "type": "workday",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "RetryError: HTTPSConnectionPool(host='nrel.wd5.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/nrel/NLR/jobs (Caused by ResponseError('too many 429 error responses'))",
-  "fails_in_row": 7,
+  "fails_in_row": 8,
   "last_ok": "2026-11-16T12:45:49Z"
  },
  "nova-sentronics-mannheim": {
   "name": "Sentronics Metrology GmbH (Nova Ltd.)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "npl-teddington": {
   "name": "NPL (National Physical Laboratory), Data Science and AI",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 13
  },
  "nvidia-alchemi-us": {
   "name": "NVIDIA (ALCHEMI, AI for materials and chemistry)",
   "type": "eightfold",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 604
+  "count": 600
  },
  "onto-innovation-usa": {
   "name": "Onto Innovation",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "orbital-materials-london": {
   "name": "Orbital Materials",
   "type": "ashby",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 9
  },
  "oriental-xingang-ic-shanghai": {
   "name": "Shanghai Oriental Xingang Integrated Circuit (芯港集成)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "osium-ai-paris": {
   "name": "Osium AI",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "outokumpu-finland": {
   "name": "Outokumpu (Advanced Modelling and Data Science, Tornio)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 1
  },
  "oxford-instruments-wiesbaden": {
   "name": "Oxford Instruments GmbH (incl. WITec Ulm)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "pdf-solutions-usa": {
   "name": "PDF Solutions",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 10
  },
  "periodic-labs-us": {
   "name": "Periodic Labs",
   "type": "ashby",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 30
+  "count": 29
  },
  "phasetree-denmark": {
   "name": "PhaseTree",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "polaron-london": {
   "name": "Polaron",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "powerco-salzgitter": {
   "name": "PowerCo SE",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 3
  },
  "pragmatic-semiconductor-durham": {
   "name": "Pragmatic Semiconductor",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 10
  },
  "psi-villigen": {
   "name": "Paul Scherrer Institute (PSI) incl. Park Innovaare",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "q-ant-stuttgart": {
   "name": "Q.ANT GmbH",
   "type": "personio",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 15
  },
  "qcells-thalheim": {
   "name": "Qcells (Hanwha Qcells Germany)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 6
  },
  "qnami-muttenz": {
   "name": "Qnami AG (acquired by Quantum Design International, 2026)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 2
  },
  "quantumdiamonds-munich": {
   "name": "QuantumDiamonds GmbH",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "quantumscape-us": {
   "name": "QuantumScape",
   "type": "sf_csb",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 19
  },
  "radical-ai-us": {
   "name": "Radical AI",
   "type": "lever",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 2
  },
  "rise-research-institutes-of-sweden": {
   "name": "RISE Research Institutes of Sweden (Materials and Production, Mölndal)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 19
  },
  "saint-gobain-research-germany-herzogenrath": {
   "name": "Saint-Gobain Research Germany",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "saint-gobain-research-paris": {
   "name": "Saint-Gobain Research Paris",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "samsung-austin-semiconductor-usa": {
   "name": "Samsung Austin Semiconductor (Austin and Taylor)",
   "type": "workday",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "failed",
   "error": "RetryError: HTTPSConnectionPool(host='sec.wd3.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/sec/Samsung_Careers/jobs (Caused by ResponseError('too many 429 error responses'))",
-  "fails_in_row": 7,
+  "fails_in_row": 8,
   "last_ok": "2026-11-16T12:45:49Z"
  },
  "sandbox-semiconductor-usa": {
   "name": "SandBox Semiconductor",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "schott-mainz": {
   "name": "SCHOTT AG",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 3
  },
  "schrodinger-materials-us": {
   "name": "Schrödinger (materials science)",
   "type": "greenhouse",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 35
+  "count": 36
  },
  "scm-amsterdam": {
   "name": "SCM (Software for Chemistry and Materials)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "seagate-bloomington-usa": {
   "name": "Seagate Technology (Bloomington and Normandale, MN)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 11
  },
  "shanghai-ai-lab": {
   "name": "Shanghai Artificial Intelligence Laboratory (AI4S)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "shanghai-university-mge": {
   "name": "Materials Genome Engineering Institute, Shanghai University (Materials Informatics and Data Science team)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "shanghai-yuwei-semiconductor": {
   "name": "Shanghai Yuwei Semiconductor Technology (上海御微半导体)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "siemens-energy-materials-berlin": {
   "name": "Siemens Energy AG (materials and self-driven labs, Berlin)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 12
  },
  "sila-nanotechnologies-us": {
   "name": "Sila Nanotechnologies",
   "type": "greenhouse",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 33
+  "count": 31
  },
  "silicon-austria-labs-villach-graz-linz": {
   "name": "Silicon Austria Labs (SAL)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "singulus-technologies-kahl": {
   "name": "Singulus Technologies AG",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "sinomags-china": {
   "name": "Sinomags (Ningbo Sinomags Electrical Technology)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "sintef-industry-materials-processing-modelling": {
   "name": "SINTEF Industry and SINTEF Digital (Oslo)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 2
+  "count": 1
  },
  "sixonia-tech-dresden": {
   "name": "Sixonia Tech GmbH",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "skyverse-shenzhen": {
   "name": "Skyverse Technology (中科飞测)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "smic-shanghai": {
   "name": "SMIC (Semiconductor Manufacturing International)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 10
  },
  "soitec-bernin": {
   "name": "Soitec",
   "type": "icims",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 64
+  "count": 63
  },
  "stmicroelectronics-agrate-catania": {
   "name": "STMicroelectronics (Agrate Brianza and Catania fabs)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "stmicroelectronics-crolles-rousset": {
   "name": "STMicroelectronics (Crolles and Rousset fabs)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "suss-microtec-garching": {
   "name": "SUSS MicroTec SE",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 17
+  "count": 18
  },
  "synopsys-copenhagen-quantumatk": {
   "name": "Synopsys Denmark (QuantumATK atomic-scale modelling team)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 15
  },
  "texas-instruments-usa": {
   "name": "Texas Instruments (Dallas, Richardson and Sherman)",
   "type": "oracle",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 927
+  "count": 925
  },
  "thermo-fisher-brno": {
   "name": "Thermo Fisher Scientific, Brno (electron microscopy R&D)",
   "type": "phenom",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 3212
+  "count": 3211
  },
  "tno-delft-eindhoven": {
   "name": "TNO (incl. Holst Centre and TNO at ASML)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 13
  },
  "toyota-research-institute-materials-us": {
   "name": "Toyota Research Institute (Accelerated Materials Design and Discovery)",
   "type": "lever",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 49
  },
  "tsmc-taiwan": {
   "name": "TSMC (Intelligent Manufacturing Center)",
   "type": "personio",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 46
  },
  "tyndall-national-institute": {
   "name": "Tyndall National Institute (University College Cork)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "umicore-olen": {
   "name": "Umicore (Electro-Optic Materials / Research)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 7
  },
  "varta-ellwangen": {
   "name": "VARTA AG",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "vat-group-haag": {
   "name": "VAT Group (VAT Vakuumventile AG)",
   "type": "generic_render",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "verkor-grenoble": {
   "name": "Verkor",
   "type": "lever",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 36
  },
  "vito-mol": {
   "name": "VITO",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 5
  },
  "vtt-technical-research-centre-of-finland": {
   "name": "VTT Technical Research Centre of Finland",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 1
  },
  "western-digital-san-jose-usa": {
   "name": "Western Digital (San Jose Research and wafer fab)",
   "type": "smartrecruiters",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 327
+  "count": 332
  },
  "xtalpi-shenzhen": {
   "name": "XtalPi (晶泰科技)",
   "type": "generic",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
   "count": 0
  },
  "ymtc-wuhan": {
   "name": "Yangtze Memory Technologies (YMTC)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  },
  "zeiss-smt-oberkochen": {
   "name": "Carl Zeiss SMT GmbH",
   "type": "zeiss",
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "ok",
-  "count": 187
+  "count": 186
  },
  "zhejiang-lab-hangzhou": {
   "name": "Zhejiang Lab (之江实验室)",
   "type": null,
-  "checked": "2026-11-23T14:40:03Z",
+  "checked": "2026-11-24T14:54:08Z",
   "status": "no_source"
  }
 }
